@@ -31,8 +31,11 @@ def req_lastfm (l_user,limit,lastuts):
     uts_num = lastuts + 1 #le sumamos uno al uts recibido para no tenerlo en cuenta porque ya está en la base de datos
     keylast = os.getenv("keylast") #lastf key para la api
     url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&api_key={keylast}&format=json'
-    if requests.get(url).json()['recenttracks']['@attr']['totalPages'] == '1':
+    if requests.get(url).json()['recenttracks']['@attr']['totalPages'] == '0':
+        return 'No hay nuevos scrobbles'
+    elif requests.get(url).json()['recenttracks']['@attr']['totalPages'] == '1':
         tracks = requests.get(url).json()['recenttracks']['track']
+        return df_fromtracks(tracks)
     else:
         pages = int(requests.get(url).json()['recenttracks']['@attr']['totalPages'])
         lista_lista = []
@@ -43,4 +46,4 @@ def req_lastfm (l_user,limit,lastuts):
             lista_lista.append(rq_p)
         tracks = [l for lista in lista_lista for l in lista]
     
-    return df_fromtracks(tracks) #llamamos a la función df_fromtracks
+        return df_fromtracks(tracks) #llamamos a la función df_fromtracks
