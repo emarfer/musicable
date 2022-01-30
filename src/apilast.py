@@ -47,3 +47,25 @@ def req_lastfm (l_user,limit,lastuts):
         tracks = [l for lista in lista_lista for l in lista]
     
         return df_fromtracks(tracks) #llamamos a la función df_fromtracks
+    
+def tot_scro(l_user):
+    '''
+    recibe un nombre de usuario de lastfm
+    llama a la api de lastfm con el endpoint de rencentracks para recibir todos los scrobbles de este usuario en lastfm
+    devuelve un dataframe con todos los tracks
+    '''
+    keylast = os.getenv("keylast")
+    url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit=1000&api_key={keylast}&format=json'
+    req = requests.get(url).json()['recenttracks']
+    pages = int(req['@attr']['totalPages'])
+    print(f'recovering {pages} pages')
+    listas = []
+    for i in range(1,pages+1):
+        page = i
+        url_t = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit=1000&page={page}&api_key={keylast}&format=json'
+        req_t = requests.get(url_t).json()['recenttracks']['track']
+        listas.append(req_t)
+        if i%5==0:
+            print(f'pag {i} done')
+    tracks = [l for lista in listas for l in lista]
+    return df_fromtracks(tracks)
