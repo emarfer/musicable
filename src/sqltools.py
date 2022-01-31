@@ -70,4 +70,53 @@ def insert_data(uts, artist, artist_mbid, album, album_mbid, title, track_mbid):
         except:
             print(f'{uts} con comillas en title')    
             next
+
+def insert_newalb(Artist, Album, Title, Track, released, secs, kbs, creado, ruta, archivo,tipo, bitrate):
+    
+    '''
+    recibe los datos del datframe con los tags de un nuevo album
+    inserta los datos en la tabla tag del la base de datos musicablecero
+    '''
+    folder = ruta.replace('\\','\\\\')
+    
+    if '"' not in str(Artist) and '"' not in str(Album) and '"' not in str(Title):
+        try:
+            engine.execute(f"""
+                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
+                    VALUES  ("{Artist}", "{Album}", "{Title}", {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
+                    """)
+        except Exception as e:
+            print(e)
+            print(f'{archivo} sin comillas en ningún lugar')    
+            next
+    elif '"' in str(Artist) and '"' not in str(Album) and '"' not in str(Title):
+        try:
+            engine.execute(f"""
+                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
+                    VALUES ('{Artist}', "{Album}", "{Title}", {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
+                    """)
+        except Exception as e:
+            print(e)
+            print(f'{archivo} con comillas en artista')    
+            next
+    elif '"' not in str(Artist) and '"' in str(Album) and '"' not in str(Title):
+        try:
+            engine.execute(f"""
+                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
+                    VALUES  ("{Artist}", '{Album}', "{Title}", {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
+                    """)
+        except Exception as e:
+            print(e)
+            print(f'{archivo} con comillas en album')    
+            next
+    elif '"' not in str(Artist) and '"' not in str(Album) and '"' in str(Title):
+        try:
+            engine.execute(f"""
+                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
+                    VALUES  ("{Artist}", "{Album}", '{Title}', {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
+                    """)
+        except Exception as e:
+            print(e)
+            print(f'{archivo} con comillas en title')    
+            next
     
