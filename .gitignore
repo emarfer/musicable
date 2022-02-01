@@ -2,3 +2,7 @@
 .env
 src/__pycache__
 sql_data/new_alb
+**/.DS_Store 
+**/*.ipynb_checkpoints/ 
+**/__pycache__
+09b_discogs_pruebas.ipynb
