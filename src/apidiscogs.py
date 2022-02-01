@@ -19,10 +19,13 @@ def generosdiscog(artista,album,id_alb):
             dicc = {'id_alb':id_alb,'gen':np.nan,'genres':np.nan,'subgenres':np.nan}
 
 
-        else:
+        elif len(req['results'][0]['style']) > 0:
             dicc = {'id_alb':id_alb,'gen':req['results'][0]['genre'][0],'genres':",".join(req['results'][0]['genre']),'subgenres':",".join(req['results'][0]['style'])}
         
-        if id_alb%10==0:
+        else:
+            dicc = {'id_alb':id_alb,'gen':req['results'][0]['genre'][0],'genres':",".join(req['results'][0]['genre']),'subgenres':np.nan}
+        
+        if id_alb%15==0:
             print(f'{id_alb}:{artista,album} hecho')
 
         return dicc
