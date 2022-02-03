@@ -119,4 +119,7 @@ def insert_newalb(Artist, Album, Title, Track, released, secs, kbs, creado, ruta
             print(e)
             print(f'{archivo} con comillas en title')    
             next
+
+def insert_scro():
+    return pd.read_sql_query('call insert_Scro;', engine)
     

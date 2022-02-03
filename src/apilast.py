@@ -20,6 +20,7 @@ def df_fromtracks(tracks):
         lista_dic.append(dic_bas)
     return pd.DataFrame(lista_dic)
 
+
 def req_lastfm (l_user,limit,lastuts):
     '''
     recibe parámetros para el endopint de la api de lastfm de rectents tracks de un usuario
@@ -31,23 +32,45 @@ def req_lastfm (l_user,limit,lastuts):
     uts_num = lastuts + 1 #le sumamos uno al uts recibido para no tenerlo en cuenta porque ya está en la base de datos
     keylast = os.getenv("keylast") #lastf key para la api
     url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&api_key={keylast}&format=json'
-    if requests.get(url).json()['recenttracks']['@attr']['totalPages'] == '0':
+    req = requests.get(url).json()
+    if req['recenttracks']['@attr']['totalPages'] == '0':
         return 'No hay nuevos scrobbles'
-    elif requests.get(url).json()['recenttracks']['@attr']['totalPages'] == '1':
-        tracks = requests.get(url).json()['recenttracks']['track']
-        return df_fromtracks(tracks)
+    
+    elif req['recenttracks']['@attr']['totalPages'] == '1':
+        if '@attr' in req['recenttracks']['track'][0].keys():
+            art_play = req['recenttracks']['track'][0]['artist']['#text']
+            tit_play = req['recenttracks']['track'][0]['name']
+            print(f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
+            return df_fromtracks(req['recenttracks']['track'][1:])
+        else:
+            tracks = req['recenttracks']['track']            
+            return df_fromtracks(tracks)
     else:
-        pages = int(requests.get(url).json()['recenttracks']['@attr']['totalPages'])
         lista_lista = []
-        for i in range(1,pages+1):
-            page = i
-            url_p = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&page={page}&api_key={keylast}&format=json'
-            rq_p = requests.get(url_p).json()['recenttracks']['track']
-            lista_lista.append(rq_p)
-        tracks = [l for lista in lista_lista for l in lista]
-    
-        return df_fromtracks(tracks) #llamamos a la función df_fromtracks
-    
+        pages = int(req['recenttracks']['@attr']['totalPages'])
+        if '@attr' in req['recenttracks']['track'][0].keys():
+            art_play = req['recenttracks']['track'][0]['artist']['#text']
+            tit_play = req['recenttracks']['track'][0]['name']
+            print(f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
+            for i in range(1,pages+1):
+                page = i
+                url_p = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&page={page}&api_key={keylast}&format=json'
+                rq_p = requests.get(url_p).json()['recenttracks']['track']
+                lista_lista.append(rq_p)
+            tracks = [l for lista in lista_lista for l in lista]
+            tracks.pop(0)
+            return df_fromtracks(tracks)
+        else:
+        
+            for i in range(1,pages+1):
+                page = i
+                url_p = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&page={page}&api_key={keylast}&format=json'
+                rq_p = requests.get(url_p).json()['recenttracks']['track']
+                lista_lista.append(rq_p)
+            tracks = [l for lista in lista_lista for l in lista]
+        
+            return df_fromtracks(tracks) #llamamos a la función df_fromtracks
+        
 def tot_scro(l_user):
     '''
     recibe un nombre de usuario de lastfm
