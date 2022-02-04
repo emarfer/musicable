@@ -121,5 +121,6 @@ def insert_newalb(Artist, Album, Title, Track, released, secs, kbs, creado, ruta
             next
 
 def insert_scro():
+    ## llama al procedimiento almacenado "insert_scro (función de la base de datos de mysql y lo ejecuta)
     return pd.read_sql_query('call insert_Scro;', engine)
     
