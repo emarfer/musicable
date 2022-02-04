@@ -1,0 +1,4147 @@
+id_alb,gen,genres,subgenres
+1,Rock,Rock,
+2,Rock,"Rock,Pop","Blues Rock,Rock & Roll,Pop Rock"
+3,,,
+4,,,
+5,Pop,Pop,
+6,Rock,"Rock,Latin,Pop","Pop Rock,Rumba,Cumbia"
+7,Rock,"Rock,Pop",
+8,Pop,Pop,
+9,Pop,Pop,
+10,Rock,"Rock,Pop",Pop Rock
+11,Rock,Rock,"Alternative Rock,Rock & Roll"
+12,Rock,Rock,
+13,Rock,"Rock,Non-Music","Alternative Rock,Interview,Soft Rock"
+14,,,
+15,Rock,Rock,"Pop Rock,Psychedelic Rock"
+16,Rock,"Rock,Latin,Pop","Flamenco,Pop Rock,Rumba"
+17,Pop,Pop,Vocal
+18,Rock,Rock,"Alternative Rock,Pop Rock"
+20,Rock,Rock,"Folk Rock,Heavy Metal"
+21,Rock,Rock,"Rock & Roll,Pop Rock"
+22,Electronic,Electronic,"Synth-pop,Disco"
+23,Rock,Rock,Pop Rock
+24,Rock,Rock,Classic Rock
+25,Rock,Rock,"Folk Rock,Punk"
+26,Rock,"Rock,Latin,Pop","Europop,Pop Rock"
+27,Pop,"Pop,Folk, World, & Country",Ballad
+28,Rock,Rock,"Hard Rock,Rock & Roll"
+29,,,
+30,Rock,Rock,"Folk Rock,Heavy Metal"
+31,Rock,"Rock,Latin","Blues Rock,Classic Rock"
+32,Rock,Rock,Punk
+33,Rock,Rock,"Alternative Rock,Brit Pop,Pop Rock"
+34,Rock,Rock,Pop Rock
+35,Rock,"Rock,Pop",
+36,Rock,Rock,Pop Rock
+37,Electronic,"Electronic,Funk / Soul",Disco
+38,Rock,"Rock,Pop",Vocal
+39,Rock,"Rock,Reggae,Latin","Reggae,Hardcore,Punk,Dub"
+40,Electronic,Electronic,Big Beat
+41,Rock,Rock,Hard Rock
+42,Hip Hop,"Hip Hop,Funk / Soul,Pop",
+43,Rock,"Rock,Pop",Break-In
+44,Rock,Rock,"Hard Rock,Parody"
+45,Pop,Pop,
+46,,,
+47,Rock,Rock,"Hard Rock,Pop Rock"
+48,Jazz,Jazz,
+49,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+50,Rock,"Rock,Latin",Classic Rock
+51,Rock,Rock,Punk
+52,Rock,Rock,Alternative Rock
+53,Rock,"Rock,Pop",
+54,Rock,Rock,"Alternative Rock,Ska"
+55,Rock,"Rock,Pop",Acoustic
+56,Rock,"Rock,Pop",Pop Rock
+57,Rock,"Rock,Pop",Pop Rock
+58,Rock,Rock,"Alternative Rock,Nu Metal"
+59,Rock,Rock,Heavy Metal
+60,Rock,"Rock,Pop","Pop Rock,Arena Rock"
+61,Rock,Rock,Pop Rock
+62,Rock,Rock,"Folk Rock,Heavy Metal"
+63,Electronic,"Electronic,Rock","Alternative Rock,Pop Rock"
+64,Pop,Pop,"Disco,Synth-pop,Dance-pop"
+65,Rock,"Rock,Latin",Ska
+66,Rock,Rock,"Ska,Punk"
+67,Rock,Rock,Punk
+68,Rock,Rock,Hard Rock
+69,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+71,Rock,Rock,
+72,Latin,"Latin,Pop",Ballad
+73,Rock,Rock,Alternative Rock
+74,Rock,"Rock,Pop",Pop Rock
+75,,,
+76,Rock,Rock,"Pop Rock,Indie Rock"
+77,Rock,Rock,Blues Rock
+78,Rock,Rock,"Hard Rock,Acoustic"
+79,Electronic,Electronic,Synth-pop
+80,Rock,Rock,Arena Rock
+81,,,
+82,Rock,"Rock,Latin",Pop Rock
+83,Rock,Rock,"Ska,Punk"
+84,Rock,Rock,"Rock & Roll,Punk"
+85,Rock,Rock,Hard Rock
+86,Rock,Rock,
+87,Latin,Latin,Ska
+88,Pop,Pop,Vocal
+89,Rock,Rock,"New Wave,Pop Rock,Disco,Punk"
+90,,,
+91,Pop,Pop,
+92,Pop,Pop,"New Wave,Reggae-Pop,Synth-pop"
+93,Rock,"Rock,Pop","Alternative Rock,Indie Pop"
+94,Rock,Rock,Hard Rock
+95,Rock,Rock,Alternative Rock
+96,Electronic,"Electronic,Rock,Pop","Pop Rock,Disco"
+97,Rock,"Rock,Folk, World, & Country",
+98,Rock,Rock,Pop Rock
+99,Rock,Rock,"Gothic Metal,Heavy Metal"
+100,Rock,Rock,Pop Rock
+101,Pop,"Pop,Folk, World, & Country",Vocal
+102,Rock,Rock,Heavy Metal
+103,Rock,Rock,"Hard Rock,Classic Rock"
+104,Electronic,"Electronic,Funk / Soul,Pop","Disco,Soul"
+105,Electronic,Electronic,"Hard House,Euro House"
+106,Rock,"Rock,Pop",Pop Rock
+107,Rock,Rock,Pop Rock
+108,Electronic,"Electronic,Latin,Pop",EBM
+109,,,
+110,Rock,"Rock,Pop","Folk Rock,Pop Rock"
+111,Electronic,"Electronic,Rock","New Wave,Synth-pop"
+112,Rock,Rock,"Acoustic,Pop Rock"
+113,Rock,"Rock,Pop","Alternative Rock,Pop Rock"
+114,"Folk, World, & Country","Folk, World, & Country",Country
+115,Rock,"Rock,Pop",
+116,Pop,"Pop,Classical,Folk, World, & Country","Vocal,Ballad,Folk,Nordic"
+117,Rock,Rock,"Punk,Alternative Rock"
+119,Latin,Latin,Ranchera
+120,Rock,Rock,Rock & Roll
+121,Rock,Rock,"Speed Metal,Heavy Metal"
+122,Pop,Pop,"Pop Rock,Ballad"
+123,Rock,Rock,Alternative Rock
+124,Rock,Rock,Death Metal
+125,Rock,Rock,"Power Metal,Heavy Metal"
+126,Rock,Rock,"Hard Rock,Heavy Metal"
+127,Rock,Rock,Heavy Metal
+128,Rock,Rock,Hard Rock
+129,Rock,"Rock,Pop","Hard Rock,Pop Rock"
+130,Rock,Rock,"Hard Rock,Arena Rock"
+131,Rock,Rock,"Power Metal,Heavy Metal"
+132,Rock,Rock,"Hard Rock,Heavy Metal"
+133,Rock,Rock,"Hard Rock,Heavy Metal"
+134,Rock,Rock,"Speed Metal,Heavy Metal"
+135,Rock,Rock,Hard Rock
+136,Rock,Rock,"Gothic Metal,Black Metal"
+137,Rock,Rock,Heavy Metal
+138,Rock,Rock,"Alternative Rock,Art Rock,Heavy Metal,Prog Rock"
+139,Rock,Rock,"Hard Rock,Heavy Metal"
+140,Rock,Rock,"Power Metal,Speed Metal"
+141,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+142,Rock,Rock,Punk
+143,Rock,Rock,Punk
+144,Electronic,"Electronic,Pop",Synth-pop
+145,Rock,Rock,Hard Rock
+146,Rock,Rock,"Hard Rock,Heavy Metal,Folk Rock"
+147,Rock,Rock,"Hard Rock,Heavy Metal"
+148,Rock,Rock,Heavy Metal
+149,Rock,"Rock,Non-Music","Blues Rock,Interview"
+150,Rock,"Rock,Folk, World, & Country","Celtic,Ska"
+151,Rock,Rock,Rock & Roll
+152,Rock,Rock,"Folk Rock,Heavy Metal"
+153,Rock,Rock,"Heavy Metal,Power Metal"
+154,Rock,Rock,"Punk,Melodic Hardcore"
+155,Rock,"Rock,Latin",Pop Rock
+156,Latin,"Latin,Pop",Vocal
+157,Latin,Latin,Ska
+158,Rock,Rock,"Folk Rock,Acoustic"
+159,Rock,"Rock,Latin,Folk, World, & Country",
+160,Latin,"Latin,Pop",
+161,Rock,Rock,Classic Rock
+162,Rock,"Rock,Pop","Pop Rock,Alternative Rock"
+163,Latin,"Latin,Pop","Latin,Synth-pop,Ballad"
+164,Rock,Rock,"Rock & Roll,Blues Rock"
+165,Rock,"Rock,Pop",Pop Rock
+167,Pop,"Pop,Folk, World, & Country",
+168,Rock,"Rock,Pop",Indie Rock
+169,Jazz,"Jazz,Rock","Brit Pop,Indie Rock"
+170,Pop,Pop,
+171,Rock,Rock,"Alternative Rock,Nu Metal"
+172,Rock,Rock,Punk
+173,Reggae,Reggae,Roots Reggae
+174,Rock,Rock,Alternative Rock
+175,Rock,Rock,Hard Rock
+176,Rock,"Rock,Latin,Pop","Flamenco,Pop Rock"
+177,Rock,"Rock,Pop",Pop Rock
+178,Rock,"Rock,Pop",Alternative Rock
+179,Rock,Rock,Hard Rock
+180,Rock,Rock,"Pop Rock,Classic Rock"
+181,Rock,"Rock,Pop","Acoustic,Pop Rock"
+182,Rock,Rock,Glam
+183,Rock,Rock,"Rock & Roll,Pop Rock"
+184,Rock,Rock,"Hard Rock,Arena Rock"
+185,Rock,Rock,"Rock & Roll,Hard Rock,Heavy Metal"
+186,Rock,Rock,"Beat,Rock & Roll"
+187,Rock,Rock,"Psychedelic Rock,Pop Rock"
+188,Rock,"Rock,Funk / Soul,Pop",
+190,Rock,"Rock,Pop","Brit Pop,Indie Rock"
+191,Rock,"Rock,Pop",Pop Rock
+192,Rock,"Rock,Pop",Beat
+193,Electronic,"Electronic,Hip Hop,Jazz,Funk / Soul","Acid House,Gangsta,Electro,Pop Rap"
+195,Rock,Rock,"Alternative Rock,Grunge"
+196,Hip Hop,"Hip Hop,Rock","Alternative Rock,Funk Metal,Hardcore Hip-Hop,Conscious"
+197,Rock,Rock,
+198,Funk / Soul,Funk / Soul,"Rhythm & Blues,Soul"
+199,Rock,"Rock,Pop","Pop Rock,Dance-pop"
+200,Rock,Rock,Classic Rock
+201,,,
+203,Rock,"Rock,Pop",
+204,Electronic,"Electronic,Rock,Latin,Pop",Pop Rock
+205,Rock,"Rock,Pop",
+206,Electronic,"Electronic,Hip Hop,Latin,Pop","RnB/Swing,House,Flamenco,Hip Hop"
+207,Electronic,Electronic,Euro-Disco
+208,Rock,Rock,"Alternative Rock,Acoustic,Pop Rock,Country Rock"
+209,Rock,Rock,Alternative Rock
+210,Rock,"Rock,Reggae,Funk / Soul","Reggae,Contemporary,Rocksteady,Roots Reggae,Ska,Acoustic,Soul"
+211,Rock,Rock,"Alternative Rock,Classic Rock"
+212,Rock,Rock,Classic Rock
+213,Rock,Rock,"Pop Rock,Punk"
+214,Rock,Rock,"AOR,Classic Rock"
+215,Electronic,"Electronic,Hip Hop,Pop",Indie Pop
+216,Rock,Rock,"Hard Rock,Pop Rock"
+217,Rock,Rock,Alternative Rock
+218,Hip Hop,"Hip Hop,Funk / Soul,Pop",Contemporary R&B
+219,Rock,Rock,Folk Rock
+220,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+221,Rock,"Rock,Latin,Pop","Pop Rock,Ballad"
+222,Rock,Rock,"Heavy Metal,Power Metal"
+223,Rock,Rock,"Alternative Rock,Folk Rock"
+224,Rock,Rock,Pop Rock
+225,Rock,"Rock,Latin,Funk / Soul,Folk, World, & Country","Flamenco,Funk"
+226,Rock,Rock,Punk
+227,Electronic,"Electronic,Reggae,Pop","Euro House,Europop,Reggae-Pop"
+228,Rock,Rock,Hard Rock
+229,Electronic,Electronic,"Downtempo,Disco"
+230,Rock,"Rock,Pop",Pop Rock
+231,Rock,Rock,Pop Rock
+232,Rock,Rock,"New Wave,Punk"
+233,Rock,Rock,"Hard Rock,Prog Rock,Classic Rock,Pop Rock"
+234,Rock,Rock,
+235,Rock,Rock,"Rock & Roll,Psychedelic Rock"
+237,,,
+238,Rock,"Rock,Latin,Folk, World, & Country",
+239,Pop,Pop,
+240,Rock,"Rock,Latin,Pop","Vocal,Ballad,Pop Rock"
+241,Latin,"Latin,Pop",Europop
+242,Latin,"Latin,Pop",
+243,Electronic,"Electronic,Latin,Pop","Eurodance,House,Techno,Dance-pop,Disco"
+244,Latin,"Latin,Pop","Ballad,Vocal"
+245,Latin,"Latin,Pop",
+246,,,
+247,,,
+248,Rock,"Rock,Pop",Pop Rock
+249,Rock,"Rock,Folk, World, & Country","Alternative Rock,Folk Rock"
+250,Rock,"Rock,Pop",Pop Rock
+251,Rock,"Rock,Pop","Synth-pop,Alternative Rock,Punk"
+252,,,
+253,Rock,Rock,"Punk,Melodic Hardcore"
+254,,,
+255,Rock,Rock,"Soft Rock,Pop Rock"
+256,,,
+257,Rock,"Rock,Pop","Alternative Rock,Chanson"
+258,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+259,Rock,Rock,Punk
+260,Rock,Rock,Alternative Rock
+261,Rock,"Rock,Classical,Folk, World, & Country",Art Rock
+262,Funk / Soul,"Funk / Soul,Pop",Vocal
+263,Rock,Rock,Alternative Rock
+264,,,
+265,Pop,Pop,
+266,Rock,Rock,"Brit Pop,Indie Rock"
+267,Rock,Rock,"Folk Rock,Prog Rock,Heavy Metal"
+268,Rock,Rock,"Alternative Rock,Brit Pop"
+269,Rock,Rock,Heavy Metal
+270,Rock,"Rock,Pop","Pop Rock,Rock & Roll,Blues Rock"
+271,Rock,Rock,"Acoustic,Soft Rock,Pop Rock"
+272,Rock,Rock,"Alternative Rock,Grunge"
+273,Rock,"Rock,Latin",Flamenco
+274,Rock,Rock,
+275,Pop,Pop,Vocal
+276,Rock,Rock,Pop Rock
+277,Rock,"Rock,Pop",
+278,Pop,Pop,
+279,Rock,"Rock,Pop","Pop Rock,New Wave"
+280,Rock,"Rock,Pop",Beat
+281,Rock,Rock,"New Wave,Punk"
+282,,,
+283,Rock,"Rock,Pop",Ska
+284,Rock,Rock,Rock & Roll
+285,Hip Hop,"Hip Hop,Pop","Pop Rap,Conscious"
+286,Rock,Rock,
+287,Electronic,"Electronic,Hip Hop,Rock,Reggae,Funk / Soul,Blues",Alternative Rock
+288,Rock,Rock,Gothic Metal
+289,Rock,Rock,Alternative Rock
+290,Rock,"Rock,Pop","Pop Rock,Mod"
+291,Rock,Rock,Hard Rock
+292,Rock,Rock,"Hard Rock,Punk"
+293,Rock,Rock,"Prog Rock,Art Rock"
+294,Rock,Rock,Ska
+295,Rock,"Rock,Pop","Folk Rock,Alternative Rock"
+297,Electronic,Electronic,Synth-pop
+298,Rock,Rock,"Folk Rock,Heavy Metal"
+299,Electronic,"Electronic,Funk / Soul","Contemporary R&B,Electro"
+300,Rock,"Rock,Pop",
+301,Rock,"Rock,Pop","Hard Rock,Arena Rock,Ballad,Pop Rock"
+302,Rock,"Rock,Funk / Soul","New Wave,Pop Rock,Soul,Rhythm & Blues"
+303,Rock,Rock,Classic Rock
+304,Electronic,Electronic,"Hi NRG,Disco"
+305,Jazz,"Jazz,Rock,Folk, World, & Country","Folk Rock,Psychedelic Rock"
+306,Rock,Rock,"Speed Metal,Heavy Metal"
+307,Rock,Rock,AOR
+308,Rock,"Rock,Latin,Pop","Folk Rock,Pachanga,Southern Rock,Rumba,Acoustic,Flamenco"
+309,Blues,"Blues,Pop","Doo Wop,Rhythm & Blues,Vocal"
+310,Rock,Rock,Thrash
+311,Funk / Soul,Funk / Soul,Soul
+312,Rock,Rock,"Alternative Rock,Pop Rock"
+313,Rock,"Rock,Latin","Acoustic,Pop Rock"
+315,,,
+316,Electronic,"Electronic,Rock","Soft Rock,Synth-pop"
+317,,,
+318,Rock,Rock,"Prog Rock,Symphonic Rock"
+319,Rock,Rock,"Punk,Alternative Rock,Pop Punk"
+320,Rock,Rock,"Alternative Rock,Soft Rock,Pop Rock"
+322,Rock,Rock,
+323,Rock,"Rock,Pop",Pop Rock
+324,,,
+326,Rock,Rock,Pop Rock
+327,Pop,Pop,
+328,Rock,Rock,Classic Rock
+329,Latin,Latin,Rumba
+330,Pop,Pop,Vocal
+331,Rock,Rock,Heavy Metal
+332,Rock,Rock,"Alternative Rock,Pop Rock"
+334,Rock,Rock,"Indie Rock,Shoegaze,Noise"
+335,Rock,"Rock,Pop","Alternative Rock,Shoegaze"
+336,Rock,Rock,Alternative Rock
+337,Rock,Rock,"Speed Metal,Power Metal"
+338,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+339,Rock,"Rock,Pop","Soft Rock,Pop Rock,Vocal"
+340,Rock,Rock,Heavy Metal
+341,Rock,"Rock,Pop",Pop Rock
+342,Electronic,Electronic,"House,Synth-pop"
+343,Rock,Rock,Acoustic
+344,,,
+346,Reggae,"Reggae,Pop",
+347,Pop,Pop,Rock & Roll
+348,Rock,"Rock,Pop","Pop Rock,Ballad"
+349,Rock,"Rock,Pop","Pop Rock,Alternative Rock"
+350,Pop,Pop,
+351,Rock,Rock,"Alternative Rock,Soft Rock,Pop Rock"
+352,Electronic,"Electronic,Latin,Pop","Europop,Synth-pop"
+353,Pop,Pop,Vocal
+354,Pop,Pop,
+355,Rock,Rock,Punk
+356,Rock,"Rock,Pop","Indie Pop,Folk Rock"
+358,,,
+359,Funk / Soul,Funk / Soul,"Disco,Reggae-Pop"
+360,Rock,Rock,Pop Rock
+361,Latin,"Latin,Pop",Europop
+362,Electronic,"Electronic,Funk / Soul,Pop","Contemporary R&B,Ballad,House"
+363,Rock,"Rock,Pop","Europop,Brit Pop,Pop Rock"
+364,Rock,Rock,"Folk Rock,Country Rock"
+365,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+366,Rock,"Rock,Pop",Pop Rock
+367,Rock,Rock,"Alternative Rock,Soft Rock,Pop Rock"
+368,Jazz,Jazz,Post Bop
+369,Electronic,"Electronic,Hip Hop,Rock,Funk / Soul","Pop Rap,Pop Rock,Disco,Contemporary R&B"
+370,Rock,Rock,"Speed Metal,Heavy Metal,Power Metal"
+371,Rock,"Rock,Pop",Prog Rock
+372,Electronic,Electronic,Synth-pop
+373,Rock,Rock,Alternative Rock
+374,,,
+375,Rock,Rock,"Folk Rock,Alternative Rock,Punk"
+376,Pop,Pop,
+377,Rock,Rock,"Heavy Metal,Power Metal"
+378,Latin,"Latin,Pop","Ballad,Bolero,Vocal"
+379,Hip Hop,"Hip Hop,Rock,Pop",RnB/Swing
+380,Rock,Rock,Pop Rock
+381,Rock,Rock,Arena Rock
+382,Rock,Rock,"Alternative Rock,Pop Rock"
+383,Hip Hop,"Hip Hop,Rock,Latin","Alternative Rock,Ska"
+384,Rock,Rock,
+385,Rock,Rock,Pop Rock
+386,Rock,Rock,"Alternative Rock,Interview,Pop Rock"
+387,Rock,"Rock,Pop","Pop Rock,Alternative Rock"
+388,Rock,"Rock,Latin,Pop",Pop Rock
+389,Rock,Rock,Classic Rock
+390,Rock,Rock,"Hard Rock,Soft Rock"
+391,Rock,"Rock,Folk, World, & Country","Country,Rockabilly"
+392,Rock,"Rock,Latin",
+393,Rock,Rock,"Acoustic,Pop Rock,Rockabilly"
+394,Rock,Rock,Blues Rock
+395,Electronic,Electronic,Synth-pop
+396,Rock,Rock,Rock & Roll
+397,Rock,Rock,Alternative Rock
+398,Hip Hop,Hip Hop,Ragga HipHop
+400,Rock,"Rock,Pop",Soft Rock
+401,Hip Hop,"Hip Hop,Funk / Soul,Pop",Pop Rap
+402,Rock,Rock,Punk
+403,Rock,"Rock,Blues,Folk, World, & Country",Folk Rock
+404,Rock,Rock,"Folk Rock,Country Rock"
+405,Rock,"Rock,Pop","Arena Rock,Pop Rock"
+406,,,
+407,Rock,Rock,"Speed Metal,Heavy Metal"
+408,Electronic,Electronic,Synth-pop
+409,Rock,Rock,Hard Rock
+410,Rock,Rock,"Alternative Rock,New Wave,Shoegaze,Pop Rock"
+411,Rock,Rock,"Alternative Rock,Pop Rock"
+412,Rock,Rock,"Alternative Rock,Pop Rock"
+413,Rock,Rock,Acoustic
+414,Rock,"Rock,Reggae,Funk / Soul,Non-Music,Pop","Interview,Europop"
+415,Rock,"Rock,Latin,Pop",
+416,Rock,Rock,
+417,Latin,"Latin,Folk, World, & Country","Bolero,Ranchera"
+418,Rock,Rock,"Pop Rock,Punk"
+419,Electronic,"Electronic,Rock","Pop Rock,Downtempo,Synth-pop"
+420,Rock,"Rock,Pop,Folk, World, & Country","Folk Rock,Pop Rock"
+421,Rock,Rock,Pop Rock
+422,Rock,"Rock,Pop",Soft Rock
+423,Rock,Rock,"Alternative Rock,Pop Rock"
+424,Rock,"Rock,Latin,Pop,Folk, World, & Country",Pop Rock
+425,,,
+426,Rock,Rock,Hard Rock
+427,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+428,Rock,Rock,"Country Rock,Classic Rock"
+429,Rock,Rock,Pop Rock
+430,Latin,"Latin,Pop",
+431,Pop,Pop,
+433,Jazz,"Jazz,Rock","Lounge,Parody"
+434,Rock,"Rock,Pop",Pop Rock
+435,,,
+436,Rock,Rock,Alternative Rock
+437,Rock,"Rock,Funk / Soul","Rhythm & Blues,Pop Rock"
+438,Rock,"Rock,Pop","Pop Rock,Bubblegum"
+439,Electronic,Electronic,Big Beat
+440,Rock,Rock,Pop Rock
+441,Rock,Rock,Alternative Rock
+442,Rock,"Rock,Pop","Acoustic,Pop Rock"
+443,,,
+444,Rock,Rock,Rock & Roll
+445,,,
+446,Rock,"Rock,Latin,Pop",Alternative Rock
+447,Rock,"Rock,Latin,Pop,Folk, World, & Country",
+448,Rock,Rock,"Alternative Rock,Ska,Punk"
+449,Latin,"Latin,Folk, World, & Country","Nueva Cancion,Folk"
+450,Rock,Rock,Ska
+452,Jazz,"Jazz,Reggae","Ska,Swing"
+453,Rock,"Rock,Latin",
+454,Rock,Rock,Classic Rock
+455,Rock,Rock,Punk
+456,Rock,"Rock,Latin,Pop",Pop Rock
+457,Rock,"Rock,Pop","Acoustic,Pop Rock"
+458,Rock,"Rock,Pop","Alternative Rock,Vocal"
+459,Rock,Rock,"Alternative Rock,Hard Rock"
+460,Electronic,"Electronic,Rock","Symphonic Rock,Prog Rock,AOR,Synth-pop"
+461,Rock,Rock,Classic Rock
+462,Pop,"Pop,Folk, World, & Country,Stage & Screen",Vocal
+463,Rock,Rock,"Southern Rock,Hard Rock,Glam"
+464,Rock,Rock,Glam
+465,Rock,Rock,"Arena Rock,Hard Rock"
+466,Rock,Rock,"Hard Rock,Pop Rock,Classic Rock,Arena Rock,Rock Opera"
+467,Rock,Rock,Heavy Metal
+468,Rock,Rock,Hard Rock
+469,Rock,Rock,Southern Rock
+470,Rock,Rock,Hard Rock
+471,,,
+472,Rock,Rock,"Hard Rock,Heavy Metal"
+473,Rock,Rock,"Hard Rock,Glam"
+475,Rock,Rock,"Heavy Metal,Glam"
+476,Rock,Rock,"Hard Rock,Heavy Metal"
+477,Rock,Rock,
+478,,,
+479,Rock,Rock,Hard Rock
+480,Rock,Rock,Hard Rock
+481,Rock,Rock,Hard Rock
+482,Rock,Rock,"Hard Rock,Heavy Metal"
+484,,,
+486,Rock,Rock,"Hard Rock,Glam"
+487,,,
+489,Rock,Rock,"Arena Rock,Pop Rock,AOR"
+490,Rock,Rock,"Classic Rock,Hard Rock"
+491,,,
+492,Rock,Rock,"Glam,Hard Rock"
+493,Rock,Rock,"Glam,Hard Rock"
+495,Rock,Rock,Hard Rock
+496,,,
+497,Rock,Rock,"Heavy Metal,Glam"
+498,Rock,Rock,"Pop Rock,Classic Rock"
+499,Rock,Rock,Nu Metal
+500,,,
+501,Pop,Pop,
+502,,,
+503,Rock,Rock,Country Rock
+504,Rock,Rock,Punk
+505,Rock,Rock,Hard Rock
+506,Rock,"Rock,Pop","Power Pop,Rock & Roll"
+507,Rock,"Rock,Latin,Pop",
+508,Electronic,"Electronic,Folk, World, & Country","Latin,Downtempo"
+509,Electronic,"Electronic,Pop","Europop,Downtempo,Euro House,Eurodance"
+510,Rock,Rock,"Pop Rock,Punk,Ska"
+511,Funk / Soul,Funk / Soul,"Disco,Funk,Soul"
+512,Electronic,"Electronic,Pop",Euro House
+513,"Folk, World, & Country","Folk, World, & Country",Flamenco
+514,Rock,Rock,"Punk,Pop Rock"
+515,Rock,"Rock,Pop",
+516,Rock,"Rock,Pop",
+518,,,
+519,Pop,"Pop,Folk, World, & Country",Folk
+520,Jazz,"Jazz,Funk / Soul,Pop","Contemporary R&B,Soul,Ballad,Smooth Jazz,Easy Listening"
+521,Hip Hop,"Hip Hop,Funk / Soul,Pop","Dance-pop,Pop Rap,Contemporary R&B"
+522,Hip Hop,"Hip Hop,Reggae,Latin","Reggae,Latin,Hip Hop"
+523,Rock,Rock,
+524,Electronic,"Electronic,Rock,Pop","Pop Rock,Downtempo"
+525,,,
+526,Rock,"Rock,Pop",Hard Rock
+527,Rock,"Rock,Pop",
+528,Rock,"Rock,Pop",Folk Rock
+529,Latin,Latin,Rumba
+530,Electronic,Electronic,"Acid Jazz,Downtempo"
+531,Rock,"Rock,Pop","New Wave,Pop Rock"
+532,Electronic,"Electronic,Pop","House,Techno,Downtempo,Ambient,Dance-pop"
+533,Rock,Rock,Soft Rock
+534,Electronic,"Electronic,Pop","Europop,Ballad,Synth-pop"
+535,Rock,Rock,Hard Rock
+536,,,
+537,Latin,Latin,Bolero
+538,Rock,"Rock,Latin,Pop","Pop Rock,Nueva Cancion"
+539,Latin,Latin,"Rumba,Flamenco"
+540,Rock,Rock,"Rock & Roll,Rockabilly"
+541,Electronic,"Electronic,Hip Hop,Rock,Funk / Soul,Pop","RnB/Swing,Pop Rock,Synth-pop,Funk,Neo Soul"
+542,,,
+543,Funk / Soul,"Funk / Soul,Folk, World, & Country",Fado
+544,Rock,"Rock,Pop",Pop Rock
+545,Electronic,"Electronic,Rock","Alternative Rock,Pop Rock,Soft Rock,Downtempo"
+546,Rock,Rock,"Pop Rock,Surf"
+547,Rock,Rock,Hard Rock
+548,Rock,"Rock,Funk / Soul,Pop","Pop Rock,Soul"
+549,Pop,Pop,Vocal
+550,Rock,Rock,Heavy Metal
+551,Latin,Latin,Flamenco
+552,Electronic,Electronic,Synth-pop
+553,Rock,Rock,"Prog Rock,Pop Rock"
+554,Rock,Rock,Punk
+555,Rock,"Rock,Pop",Pop Rock
+556,Pop,Pop,
+557,Rock,Rock,Pop Rock
+558,Rock,"Rock,Latin,Folk, World, & Country",Folk
+559,Rock,"Rock,Latin",Rock & Roll
+560,Rock,"Rock,Latin","Acoustic,Soft Rock,Pop Rock"
+561,Pop,"Pop,Folk, World, & Country",Country
+562,Hip Hop,"Hip Hop,Rock,Reggae,Funk / Soul,Pop","Soft Rock,Pop Rap,Soul,Contemporary R&B"
+563,"Folk, World, & Country","Folk, World, & Country",Bluegrass
+564,Rock,Rock,"Pop Rock,Indie Rock"
+565,Reggae,Reggae,
+566,Rock,Rock,"Alternative Rock,Pop Rock"
+567,Latin,"Latin,Pop",
+568,Rock,Rock,"Hard Rock,Pop Rock"
+569,Electronic,"Electronic,Rock",Indie Rock
+570,Rock,Rock,Punk
+571,Rock,Rock,Pop Rock
+572,Rock,Rock,"Alternative Rock,Pop Rock"
+573,Funk / Soul,"Funk / Soul,Pop","Soul,Vocal,Neo Soul"
+574,Funk / Soul,Funk / Soul,"Rhythm & Blues,Soul"
+575,Jazz,"Jazz,Rock,Latin,Folk, World, & Country","Folk Rock,Flamenco,Acoustic"
+576,,,
+577,Rock,Rock,Indie Rock
+578,Rock,Rock,Punk
+579,Funk / Soul,Funk / Soul,Disco
+580,Electronic,"Electronic,Latin,Pop","Vocal,Ballad,Latin"
+581,Funk / Soul,Funk / Soul,"Soul,Disco"
+582,Rock,Rock,Thrash
+583,Rock,"Rock,Pop",Alternative Rock
+584,Electronic,Electronic,"Progressive House,Downtempo,Progressive Trance,Trance"
+585,,,
+586,Electronic,"Electronic,Latin",Flamenco
+587,Rock,Rock,Blues Rock
+589,Rock,Rock,Folk Rock
+590,,,
+591,Funk / Soul,"Funk / Soul,Pop",
+592,Rock,Rock,"Pop Rock,Glam"
+593,Rock,Rock,Pop Rock
+594,Pop,Pop,Europop
+595,Electronic,Electronic,Synth-pop
+596,Electronic,"Electronic,Hip Hop,Rock,Latin,Pop","RnB/Swing,House,Latin,Pop Rock,Tejano"
+597,Latin,"Latin,Pop,Folk, World, & Country",
+598,Latin,"Latin,Pop",
+599,Electronic,"Electronic,Pop","J-pop,Abstract,Europop,Hip Hop,Downtempo,Synth-pop"
+600,Rock,Rock,Grunge
+601,Rock,Rock,Rock & Roll
+602,Latin,"Latin,Pop",
+603,Rock,Rock,"Folk Rock,Indie Rock,Psychedelic Rock"
+604,Jazz,"Jazz,Blues",Fusion
+605,Rock,"Rock,Pop",New Wave
+606,Pop,Pop,Synth-pop
+607,Rock,Rock,"Alternative Rock,Punk"
+608,Rock,Rock,"Heavy Metal,Power Metal"
+609,Latin,"Latin,Pop","Samba,MPB"
+610,Rock,"Rock,Pop","Rock & Roll,Pop Rock,Beat"
+611,Electronic,"Electronic,Latin,Pop","Latin,Synth-pop"
+613,Rock,Rock,"Southern Rock,Hard Rock"
+614,Rock,Rock,"New Wave,Alternative Rock"
+615,Electronic,"Electronic,Rock,Latin,Pop","Dance-pop,Synth-pop,Pop Rock,Ballad"
+616,Rock,"Rock,Pop","Pop Rock,Southern Rock"
+617,Latin,"Latin,Pop","Europop,Ballad"
+618,Pop,Pop,"Europop,Ballad"
+619,Pop,Pop,
+620,Pop,Pop,Europop
+621,Rock,Rock,"Glam,Hard Rock,Heavy Metal"
+622,Rock,"Rock,Blues,Pop","Acoustic,Pop Rock,Ballad,Vocal"
+623,Rock,"Rock,Pop",Pop Rock
+624,Pop,"Pop,Folk, World, & Country",
+625,Rock,"Rock,Pop","Folk Rock,Pop Rock"
+626,Electronic,"Electronic,Rock","New Wave,Synth-pop"
+627,Latin,Latin,Samba
+628,Latin,"Latin,Pop",Ballad
+629,Electronic,"Electronic,Stage & Screen","Soundtrack,Disco,Electro,Ambient"
+630,Rock,Rock,Hard Rock
+631,Rock,"Rock,Funk / Soul,Pop","Contemporary R&B,Funk,Soul,Pop Rock,Europop,Ballad"
+633,Pop,"Pop,Folk, World, & Country",
+634,Rock,Rock,"Hard Rock,Classic Rock"
+635,Funk / Soul,Funk / Soul,"Soul,Funk,Disco,Ballad"
+636,Electronic,Electronic,"Trance,Euro House"
+637,Electronic,"Electronic,Reggae,Funk / Soul,Folk, World, & Country","Disco,Rhythm & Blues,Funk,Soul,Reggae,Acid Jazz"
+638,Pop,Pop,
+639,Pop,Pop,Soft Rock
+640,Electronic,"Electronic,Rock,Pop","Pop Rock,Downtempo"
+641,Rock,Rock,Alternative Rock
+642,Latin,Latin,Ranchera
+643,Rock,"Rock,Reggae,Latin","Alternative Rock,Pachanga,Ragga,Dub,Punk,Ska,Reggae"
+644,Rock,"Rock,Funk / Soul,Pop",Pop Rock
+645,Rock,Rock,"Punk,Dub,Funk"
+646,Electronic,Electronic,Synth-pop
+647,Rock,Rock,"Alternative Rock,Pop Rock"
+648,Rock,Rock,"Heavy Metal,Hard Rock"
+649,Funk / Soul,Funk / Soul,"Soul,Funk,Disco"
+650,Rock,Rock,Art Rock
+651,,,
+652,Hip Hop,"Hip Hop,Funk / Soul,Folk, World, & Country","Pop Rap,Pacific"
+653,Latin,Latin,
+654,Electronic,"Electronic,Rock,Pop","Art Rock,Pop Rock,Acoustic"
+655,Rock,Rock,Pop Rock
+656,Rock,"Rock,Pop","Pop Rock,Vocal,Ballad"
+657,Rock,Rock,Country Rock
+658,Hip Hop,Hip Hop,RnB/Swing
+659,,,
+660,Latin,"Latin,Pop",Vocal
+661,Electronic,"Electronic,Pop","Synth-pop,Eurodance"
+662,Electronic,"Electronic,Hip Hop","RnB/Swing,UK Garage"
+663,,,
+664,Rock,"Rock,Pop","Europop,Pop Rock,Ballad"
+665,Rock,Rock,"Soft Rock,Pop Rock"
+666,Latin,"Latin,Funk / Soul","Cha-Cha,Salsa"
+667,Rock,"Rock,Pop",
+668,Electronic,"Electronic,Pop",Acid Jazz
+669,Rock,Rock,"Hard Rock,Funk Metal"
+670,Rock,Rock,Power Metal
+671,Funk / Soul,"Funk / Soul,Pop","Ballad,Bayou Funk"
+672,Funk / Soul,Funk / Soul,Soul
+673,Rock,"Rock,Reggae","Soft Rock,Pop Rock,Reggae,Art Rock"
+674,Rock,"Rock,Blues","Hard Rock,Blues Rock"
+675,Electronic,"Electronic,Hip Hop,Rock,Reggae,Latin","Reggae,Latin,Hip Hop,Rumba,Ragga"
+676,,,
+677,,,
+678,Pop,Pop,Ballad
+679,Rock,"Rock,Funk / Soul","Alternative Rock,Funk"
+680,Rock,"Rock,Pop",Pop Rock
+681,Hip Hop,"Hip Hop,Reggae,Latin,Pop",
+682,Jazz,"Jazz,Stage & Screen","Soundtrack,Big Band,Easy Listening"
+683,Electronic,"Electronic,Rock","Leftfield,Downtempo,Pop Rock"
+684,Electronic,"Electronic,Pop","Euro House,Disco,Dance-pop"
+685,Latin,"Latin,Pop","Pop Rock,Bolero"
+686,Rock,Rock,Punk
+687,Hip Hop,"Hip Hop,Pop",RnB/Swing
+688,Latin,"Latin,Pop","Europop,Ballad"
+689,Rock,Rock,
+690,Electronic,"Electronic,Rock",Pop Rock
+691,Rock,Rock,"Pop Rock,Ska"
+692,Rock,Rock,"Funk Metal,Hard Rock"
+694,Hip Hop,Hip Hop,RnB/Swing
+695,Electronic,"Electronic,Rock,Pop,Folk, World, & Country","Dance-pop,Country Rock,Electro,House,Acoustic,Synth-pop,Downtempo"
+696,Rock,"Rock,Latin,Pop",Pop Rock
+697,Rock,"Rock,Pop,Folk, World, & Country",Folk Rock
+698,Electronic,Electronic,Synth-pop
+700,Rock,Rock,Blues Rock
+701,Rock,Rock,Rock & Roll
+702,Rock,Rock,"Acoustic,Punk"
+703,Rock,Rock,"Blues Rock,Folk Rock,Rock & Roll"
+704,Rock,"Rock,Blues",
+705,Electronic,Electronic,Euro House
+706,Rock,Rock,Alternative Rock
+707,Electronic,"Electronic,Pop","Ballad,Synth-pop"
+708,,,
+710,Pop,Pop,
+711,Pop,Pop,
+712,Rock,Rock,Surf
+713,Reggae,"Reggae,Latin,Folk, World, & Country",
+714,Rock,Rock,Alternative Rock
+715,Funk / Soul,Funk / Soul,Disco
+716,Reggae,Reggae,"Reggae,Dub"
+717,Rock,"Rock,Latin,Pop",Pop Rock
+718,Rock,"Rock,Pop",Pop Rock
+719,"Folk, World, & Country","Folk, World, & Country",Country
+720,Funk / Soul,Funk / Soul,Soul
+721,Rock,"Rock,Funk / Soul","Pop Rock,Classic Rock,Beat,Soul"
+722,Electronic,"Electronic,Hip Hop,Reggae,Latin","Latin,Tribal,Rumba,Afro-Cuban,Breakbeat,Flamenco"
+723,Pop,Pop,Schlager
+724,Rock,Rock,Pop Rock
+725,Electronic,"Electronic,Rock,Funk / Soul,Pop","Soft Rock,Downtempo,Ballad,AOR,Rhythm & Blues"
+726,,,
+727,Pop,"Pop,Folk, World, & Country",Folk
+728,Electronic,"Electronic,Rock","New Wave,Synth-pop"
+729,Electronic,Electronic,"Garage House,Jazzdance,Euro House"
+730,Rock,Rock,Classic Rock
+731,Rock,"Rock,Pop","Indie Rock,Indie Pop"
+732,Electronic,"Electronic,Rock","Leftfield,Shoegaze,Downtempo,Indie Rock"
+733,,,
+734,Rock,Rock,"Acoustic,Post Rock,Experimental"
+735,Electronic,"Electronic,Rock","Synth-pop,Indie Rock"
+736,Electronic,"Electronic,Rock,Pop","Art Rock,Synth-pop"
+737,Electronic,Electronic,"Leftfield,Krautrock,Electro"
+738,Rock,Rock,Punk
+739,Rock,Rock,"Alternative Rock,Indie Rock"
+740,Electronic,"Electronic,Hip Hop","Instrumental,Downtempo,Trip Hop"
+741,Rock,Rock,Indie Rock
+742,Rock,"Rock,Pop","Alternative Rock,Indie Rock"
+743,"Folk, World, & Country","Folk, World, & Country","Rhythm & Blues,Avantgarde"
+744,Rock,Rock,Pop Rock
+745,Pop,Pop,Ballad
+746,Electronic,"Electronic,Rock",Modern Classical
+747,Jazz,"Jazz,Funk / Soul",Soul-Jazz
+748,Electronic,Electronic,Synth-pop
+749,Pop,Pop,Vocal
+750,Electronic,"Electronic,Hip Hop","Hip Hop,Electro House"
+751,Rock,"Rock,Pop",
+752,Electronic,"Electronic,Pop","Krautrock,Synth-pop,Glam"
+753,Electronic,Electronic,"Electro,Synth-pop"
+754,Latin,"Latin,Pop",Vocal
+755,Electronic,"Electronic,Hip Hop,Funk / Soul","RnB/Swing,Electro,Synth-pop,Pop Rap,Contemporary R&B"
+757,Rock,Rock,"Hard Rock,Glam,AOR"
+758,Latin,"Latin,Folk, World, & Country",Cubano
+759,Rock,"Rock,Pop","Pop Rock,Power Pop"
+760,Rock,Rock,"Alternative Rock,Soft Rock,Pop Rock"
+761,Rock,"Rock,Folk, World, & Country",Folk Rock
+762,Pop,Pop,Ballad
+763,Pop,Pop,
+764,Rock,Rock,"Soft Rock,Pop Rock"
+765,Pop,Pop,Novelty
+766,Rock,Rock,Power Metal
+767,Pop,Pop,Europop
+768,Rock,"Rock,Pop","Soft Rock,Ballad,Vocal"
+769,,,
+770,Rock,Rock,Soft Rock
+771,Latin,"Latin,Pop",
+772,,,
+773,Hip Hop,Hip Hop,Gangsta
+774,Rock,Rock,Hard Rock
+775,Rock,"Rock,Folk, World, & Country",Basque Music
+776,Rock,Rock,"New Wave,Post-Punk"
+777,Rock,Rock,"Leftfield,Post Rock,Indie Rock"
+778,Electronic,Electronic,"Industrial,Experimental"
+780,Classical,Classical,"Avantgarde,Experimental,Contemporary"
+781,Reggae,"Reggae,Funk / Soul,Pop","Soul,Funk"
+782,Pop,Pop,
+783,Rock,"Rock,Folk, World, & Country","Folk Rock,Pop Rock"
+784,Electronic,"Electronic,Hip Hop,Rock,Pop","Brit Pop,Electro,Pop Rock"
+785,"Folk, World, & Country","Folk, World, & Country","Country,Bluegrass"
+786,Pop,Pop,
+787,Rock,"Rock,Latin","Pop Rock,Rumba"
+788,Electronic,Electronic,Synth-pop
+789,,,
+790,Rock,Rock,Pop Rock
+791,Rock,Rock,Hard Rock
+792,Latin,"Latin,Pop",
+793,,,
+794,Rock,"Rock,Funk / Soul",Rhythm & Blues
+795,Rock,"Rock,Pop","Ballad,Dance-pop,Pop Rock"
+797,Rock,Rock,"Soft Rock,Pop Rock"
+798,Rock,Rock,"Alternative Rock,Punk,Pop Rock"
+799,Rock,Rock,"Pop Rock,Blues Rock,Garage Rock"
+800,Pop,Pop,"Vocal,Ballad,Chanson,Europop"
+801,Rock,Rock,Pop Rock
+802,Rock,Rock,"Pop Rock,Classic Rock"
+803,Rock,Rock,Pop Rock
+804,"Folk, World, & Country","Folk, World, & Country","Country,Folk"
+805,"Folk, World, & Country","Folk, World, & Country",Country
+806,Electronic,Electronic,"House,Euro House,Synth-pop"
+807,Rock,Rock,Rock & Roll
+808,Latin,"Latin,Pop",
+809,Rock,Rock,Glam
+810,Rock,Rock,"Rock & Roll,Punk"
+812,Rock,Rock,"Hard Rock,Pop Rock"
+813,Latin,"Latin,Folk, World, & Country",Folk
+814,Rock,Rock,"Hard Rock,Pop Rock,Arena Rock"
+815,Rock,Rock,"Alternative Rock,Pop Punk,Punk"
+816,Rock,Rock,"Alternative Rock,Experimental,Indie Rock,Art Rock"
+817,Rock,Rock,Alternative Rock
+818,Rock,Rock,"Symphonic Rock,Prog Rock,Heavy Metal"
+819,Rock,Rock,Indie Rock
+820,Latin,"Latin,Folk, World, & Country",
+821,Rock,"Rock,Pop",
+822,Rock,"Rock,Pop","Blues Rock,Pop Rock,Classic Rock"
+823,Rock,Rock,Pop Rock
+824,Electronic,"Electronic,Pop",Synth-pop
+825,Rock,Rock,Alternative Rock
+826,,,
+827,,,
+828,Rock,Rock,"Classic Rock,Pop Rock"
+829,,,
+830,Rock,Rock,"Soft Rock,Pop Rock,Classic Rock"
+831,Rock,Rock,"Pop Rock,Classic Rock"
+832,Funk / Soul,Funk / Soul,Neo Soul
+833,Rock,Rock,"Alternative Rock,Grunge"
+834,Rock,"Rock,Pop","Pop Rock,Ballad"
+835,Jazz,"Jazz,Pop",Latin Jazz
+836,Jazz,"Jazz,Latin,Pop,Stage & Screen","Mariachi,Latin Jazz"
+837,Funk / Soul,"Funk / Soul,Pop","Soul,Vocal,Rhythm & Blues"
+838,Hip Hop,Hip Hop,Hip Hop
+839,Rock,Rock,Punk
+840,"Folk, World, & Country","Folk, World, & Country",Honky Tonk
+841,Rock,Rock,Indie Rock
+842,Rock,"Rock,Folk, World, & Country","Folk Rock,Indie Rock,Folk"
+843,Rock,"Rock,Blues,Folk, World, & Country","Blues Rock,Country Rock,Country Blues,Texas Blues"
+844,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+845,Rock,Rock,"Alternative Rock,Rock & Roll"
+846,Electronic,Electronic,Synth-pop
+847,Rock,"Rock,Blues",
+848,Rock,Rock,"Rock & Roll,Pop Rock,Classic Rock"
+849,Rock,Rock,"Alternative Rock,Pop Rock"
+850,Rock,"Rock,Funk / Soul","Soul,Funk"
+851,Rock,Rock,"New Wave,Rock & Roll,Power Pop,Blues Rock"
+852,Funk / Soul,Funk / Soul,Soul
+853,Pop,Pop,Ballad
+855,Rock,Rock,Pop Rock
+856,Funk / Soul,Funk / Soul,"Soul,Disco"
+857,,,
+859,Rock,Rock,"Alternative Rock,Pop Rock"
+860,Pop,"Pop,Folk, World, & Country","Ballad,Vocal,Folk"
+861,Rock,Rock,New Wave
+862,Rock,Rock,"Pop Rock,Blues Rock,Garage Rock"
+863,Rock,Rock,Pop Rock
+864,Rock,Rock,Pop Rock
+865,Rock,Rock,Pop Rock
+866,Rock,Rock,Power Pop
+867,Rock,Rock,Pop Rock
+868,Rock,Rock,"Pop Rock,Classic Rock"
+869,Pop,"Pop,Folk, World, & Country",
+870,Rock,Rock,"Punk,Pop Rock"
+871,,,
+872,,,
+873,Funk / Soul,Funk / Soul,Rhythm & Blues
+874,Rock,Rock,"Pop Rock,New Wave"
+875,Electronic,"Electronic,Pop",Synth-pop
+876,Jazz,"Jazz,Pop,Stage & Screen","Lounge,Theme"
+877,Rock,Rock,Indie Rock
+878,Rock,Rock,"Alternative Rock,Pop Rock,Punk,Ska"
+879,,,
+880,,,
+881,,,
+882,Funk / Soul,"Funk / Soul,Pop",Rhythm & Blues
+883,Rock,"Rock,Pop","Alternative Rock,Pop Rock"
+884,Pop,Pop,Vocal
+885,Jazz,"Jazz,Rock","Lounge,Alternative Rock,Parody"
+886,Pop,Pop,Indie Pop
+887,Rock,Rock,Alternative Rock
+888,Rock,Rock,Alternative Rock
+889,Rock,Rock,"Blues Rock,Indie Rock"
+890,Hip Hop,Hip Hop,
+891,Rock,"Rock,Latin","Afro-Cuban,Fusion,Samba,Blues Rock,Psychedelic Rock"
+892,Rock,Rock,"Soft Rock,Pop Rock"
+893,Rock,Rock,"Folk Rock,Acoustic,Pop Rock,Classic Rock"
+894,Rock,Rock,"Pop Rock,Hard Rock,Rock & Roll"
+895,Rock,Rock,"Folk Rock,Acoustic"
+896,Rock,Rock,"Indie Rock,Alternative Rock,Blues Rock,Garage Rock"
+897,"Folk, World, & Country","Folk, World, & Country",Country
+898,Rock,"Rock,Pop",Alternative Rock
+899,,,
+900,Rock,"Rock,Pop","Art Rock,Pop Rock,Classic Rock,Prog Rock"
+901,Electronic,"Electronic,Hip Hop,Jazz,Rock,Pop","Instrumental,House,Jazz-Rock,Electro,Trip Hop"
+902,Rock,Rock,"Country Rock,Pop Rock"
+903,Rock,"Rock,Latin,Pop,Folk, World, & Country",
+904,Rock,Rock,
+905,Rock,Rock,Heavy Metal
+906,Rock,Rock,Indie Rock
+907,Rock,Rock,Indie Rock
+908,Rock,Rock,
+909,,,
+910,Rock,Rock,Folk Rock
+911,Electronic,"Electronic,Rock","Alternative Rock,Country Rock,Synth-pop"
+912,Rock,"Rock,Pop",Soft Rock
+913,Funk / Soul,"Funk / Soul,Pop","Soul,Ballad,Pop Rock"
+914,Jazz,"Jazz,Latin","Bossa Nova,Easy Listening"
+915,Rock,Rock,Indie Rock
+916,Rock,Rock,Alternative Rock
+917,Rock,"Rock,Pop",Alternative Rock
+918,Rock,Rock,Surf
+919,Rock,Rock,Hard Rock
+920,Rock,Rock,Soft Rock
+921,Rock,Rock,"Classic Rock,Pop Rock"
+922,Rock,Rock,Rock & Roll
+923,Rock,"Rock,Pop","Rock & Roll,Garage Rock,Pop Rock"
+924,Rock,Rock,"Pop Rock,Classic Rock"
+925,Rock,Rock,"Psychedelic Rock,Pop Rock,Classic Rock"
+926,Rock,Rock,Pop Rock
+927,Rock,"Rock,Stage & Screen","Pop Rock,Soundtrack"
+928,Rock,"Rock,Pop",Classic Rock
+929,Rock,"Rock,Pop","Pop Rock,Mod"
+930,Rock,"Rock,Pop","Alternative Rock,Pop Rock"
+931,Rock,Rock,Pop Rock
+932,Rock,Rock,"Rock & Roll,Pop Rock"
+933,Rock,Rock,Pop Rock
+934,Rock,Rock,Heavy Metal
+935,Rock,Rock,"Hard Rock,Glam"
+936,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+937,Rock,Rock,Pop Rock
+938,Rock,Rock,"Rock & Roll,Pop Rock"
+939,Rock,Rock,Pop Rock
+940,Rock,Rock,Pop Rock
+942,Rock,"Rock,Reggae","Rock & Roll,Dub,Punk"
+943,Rock,"Rock,Pop",
+944,,,
+945,Rock,"Rock,Pop",Alternative Rock
+946,Rock,Rock,"Soft Rock,Southern Rock"
+947,Rock,"Rock,Pop","Pop Rock,Ballad"
+948,Rock,"Rock,Latin,Pop",Rock & Roll
+949,Rock,"Rock,Latin,Pop",
+950,Rock,Rock,Hard Rock
+951,Rock,Rock,"Acoustic,Hard Rock,Garage Rock"
+952,Rock,Rock,Punk
+953,Jazz,Jazz,"Soul-Jazz,Vocal"
+954,Latin,"Latin,Pop",Rumba
+955,Rock,Rock,Classic Rock
+956,Rock,"Rock,Folk, World, & Country","Folk Rock,Folk,Blues Rock"
+957,Rock,"Rock,Latin,Pop","Flamenco,Ska,Rumba"
+958,Rock,Rock,Alternative Rock
+959,Rock,Rock,"Rock & Roll,Pop Rock"
+960,,,
+961,"Folk, World, & Country","Folk, World, & Country",Country
+962,Latin,"Latin,Pop",Vocal
+963,Rock,"Rock,Reggae","Punk,Ska,Reggae"
+964,Rock,"Rock,Reggae","Reggae,Pop Rock"
+965,Electronic,"Electronic,Hip Hop","Tribal,Pop Rap,Ragga HipHop,Breakbeat,Electro,Breaks"
+966,Electronic,"Electronic,Rock,Pop,Folk, World, & Country","Folk Rock,Electro,Pop Rock"
+967,Reggae,Reggae,Reggae-Pop
+969,Rock,"Rock,Pop",
+970,Electronic,"Electronic,Reggae,Latin,Pop,Folk, World, & Country","Reggae,Modern Classical,Raï,Europop,Hip Hop,Downtempo"
+971,Rock,"Rock,Pop",Parody
+972,Rock,Rock,"Acoustic,Pop Rock"
+973,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop,Experimental,Trip Hop"
+974,Rock,Rock,Alternative Rock
+975,Pop,"Pop,Folk, World, & Country","Country,Bluegrass,Country Rock"
+976,Rock,Rock,"Indie Rock,Disco"
+977,Hip Hop,"Hip Hop,Funk / Soul,Pop",Contemporary R&B
+978,Latin,"Latin,Pop","Salsa,Vocal,Ballad"
+979,Rock,Rock,Punk
+980,Rock,Rock,Heavy Metal
+981,Electronic,"Electronic,Pop","Synth-pop,Vocal"
+982,"Folk, World, & Country","Folk, World, & Country",Country
+983,Blues,"Blues,Folk, World, & Country","Country Blues,Folk"
+984,Pop,Pop,Vocal
+985,Electronic,"Electronic,Rock","Soft Rock,Downtempo"
+986,"Folk, World, & Country","Folk, World, & Country",
+987,"Folk, World, & Country","Folk, World, & Country","Country,Bluegrass"
+988,"Folk, World, & Country","Folk, World, & Country",Country
+989,Pop,"Pop,Folk, World, & Country",
+990,,,
+991,"Folk, World, & Country","Folk, World, & Country",Country
+992,,,
+993,,,
+994,Rock,"Rock,Funk / Soul,Pop","Art Rock,Pop Rock"
+995,Rock,Rock,Symphonic Metal
+996,Rock,Rock,Pop Rock
+997,,,
+998,"Folk, World, & Country","Folk, World, & Country",Country
+999,Rock,"Rock,Folk, World, & Country",
+1000,"Folk, World, & Country","Folk, World, & Country",Country
+1001,"Folk, World, & Country","Folk, World, & Country",Country
+1002,"Folk, World, & Country","Folk, World, & Country","Country,Folk"
+1003,"Folk, World, & Country","Folk, World, & Country",Country
+1004,"Folk, World, & Country","Folk, World, & Country",Country
+1005,Rock,"Rock,Folk, World, & Country","Country Rock,Pop Rock"
+1006,Rock,"Rock,Folk, World, & Country","Country,Country Rock"
+1007,"Folk, World, & Country","Folk, World, & Country",Country
+1008,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+1009,"Folk, World, & Country","Folk, World, & Country",Country
+1010,Pop,"Pop,Folk, World, & Country",Country
+1011,,,
+1012,,,
+1013,Pop,"Pop,Folk, World, & Country",Country
+1014,"Folk, World, & Country","Folk, World, & Country",
+1015,Pop,"Pop,Folk, World, & Country",
+1016,"Folk, World, & Country","Folk, World, & Country",Country
+1017,,,
+1018,"Folk, World, & Country","Folk, World, & Country",Country
+1019,"Folk, World, & Country","Folk, World, & Country",Country
+1020,"Folk, World, & Country","Folk, World, & Country",Country
+1021,"Folk, World, & Country","Folk, World, & Country",Country
+1022,"Folk, World, & Country","Folk, World, & Country",Country
+1023,"Folk, World, & Country","Folk, World, & Country",Country
+1024,"Folk, World, & Country","Folk, World, & Country",Country
+1025,"Folk, World, & Country","Folk, World, & Country",Country
+1026,Pop,"Pop,Folk, World, & Country","Country,Ballad"
+1027,Pop,"Pop,Folk, World, & Country","Country,Ballad"
+1028,"Folk, World, & Country","Folk, World, & Country",Country
+1029,Rock,Rock,
+1030,Rock,"Rock,Blues","Blues Rock,Soft Rock,Pop Rock,Indie Rock"
+1031,Rock,Rock,"Alternative Rock,Pop Rock"
+1032,Rock,"Rock,Pop,Folk, World, & Country","Country,Country Rock"
+1033,Rock,"Rock,Pop","Country Rock,Pop Rock"
+1034,Electronic,"Electronic,Hip Hop,Rock","Progressive House,Country Rock,Tribal"
+1035,Rock,Rock,Heavy Metal
+1036,Rock,Rock,Indie Rock
+1037,Rock,"Rock,Pop",Brit Pop
+1038,"Folk, World, & Country","Folk, World, & Country",Country
+1039,Rock,Rock,"Rock & Roll,Pop Rock,Rockabilly"
+1040,Rock,Rock,Rock & Roll
+1041,"Folk, World, & Country","Folk, World, & Country,Stage & Screen","Soundtrack,Country"
+1043,Reggae,Reggae,
+1044,Electronic,"Electronic,Hip Hop,Reggae,Pop","House,Drum n Bass,Jungle"
+1045,Rock,Rock,Pop Rock
+1046,"Folk, World, & Country","Folk, World, & Country",
+1047,Electronic,"Electronic,Rock","New Wave,Synth-pop"
+1049,Rock,"Rock,Latin","Alternative Rock,Cumbia,Ska"
+1051,Electronic,Electronic,"House,Latin,Disco"
+1052,Electronic,"Electronic,Hip Hop,Pop","RnB/Swing,Downtempo,Synth-pop"
+1053,Electronic,Electronic,"Eurodance,Euro House,Synth-pop"
+1054,Latin,"Latin,Pop",Vocal
+1055,Rock,Rock,Folk Rock
+1056,Funk / Soul,"Funk / Soul,Pop",Vocal
+1057,Rock,Rock,"Alternative Rock,Blues Rock"
+1058,Rock,Rock,
+1060,,,
+1061,Rock,Rock,Rock & Roll
+1062,Rock,Rock,Ska
+1063,Rock,Rock,Ska
+1064,Rock,Rock,"Rock & Roll,Pop Rock,Beat"
+1065,Electronic,"Electronic,Pop","Synth-pop,New Wave"
+1066,Electronic,"Electronic,Hip Hop,Pop","RnB/Swing,Synth-pop,Ballad"
+1068,Rock,Rock,Glam
+1070,Rock,Rock,Indie Rock
+1071,Rock,Rock,"Post Rock,Indie Rock"
+1072,Rock,"Rock,Pop","Pop Rock,Alternative Rock"
+1073,Rock,Rock,"Emo,Pop Rock"
+1074,Rock,Rock,Power Pop
+1075,Rock,Rock,Alternative Rock
+1076,Rock,Rock,Alternative Rock
+1077,"Folk, World, & Country","Folk, World, & Country",Country
+1078,"Folk, World, & Country","Folk, World, & Country",Country
+1079,"Folk, World, & Country","Folk, World, & Country",Country
+1080,,,
+1081,Pop,"Pop,Folk, World, & Country",Vocal
+1082,"Folk, World, & Country","Folk, World, & Country",Country
+1083,"Folk, World, & Country","Folk, World, & Country",Country
+1084,"Folk, World, & Country","Folk, World, & Country",
+1085,"Folk, World, & Country","Folk, World, & Country",Country
+1086,"Folk, World, & Country","Folk, World, & Country",Country
+1087,"Folk, World, & Country","Folk, World, & Country",Country
+1088,"Folk, World, & Country","Folk, World, & Country",Country
+1089,"Folk, World, & Country","Folk, World, & Country",Country
+1090,"Folk, World, & Country","Folk, World, & Country",
+1091,"Folk, World, & Country","Folk, World, & Country",Country
+1092,"Folk, World, & Country","Folk, World, & Country",Country
+1093,"Folk, World, & Country","Folk, World, & Country",Country
+1094,"Folk, World, & Country","Folk, World, & Country",Country
+1095,Rock,"Rock,Non-Music,Folk, World, & Country","Country Rock,Public Broadcast"
+1096,Rock,Rock,"Country,Country Rock"
+1097,"Folk, World, & Country","Folk, World, & Country",Country
+1098,"Folk, World, & Country","Folk, World, & Country",Country
+1099,"Folk, World, & Country","Folk, World, & Country",Country
+1100,"Folk, World, & Country","Folk, World, & Country",Country
+1101,Electronic,"Electronic,Pop",House
+1102,"Folk, World, & Country","Folk, World, & Country",Country
+1103,"Folk, World, & Country","Folk, World, & Country",Country
+1104,"Folk, World, & Country","Folk, World, & Country",Country
+1105,"Folk, World, & Country","Folk, World, & Country",Country
+1106,"Folk, World, & Country","Folk, World, & Country",Country
+1107,"Folk, World, & Country","Folk, World, & Country",Country
+1108,"Folk, World, & Country","Folk, World, & Country",Country
+1109,"Folk, World, & Country","Folk, World, & Country",Country
+1110,"Folk, World, & Country","Folk, World, & Country",Country
+1111,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+1112,Pop,"Pop,Folk, World, & Country",Country
+1113,"Folk, World, & Country","Folk, World, & Country",Country
+1114,,,
+1115,"Folk, World, & Country","Folk, World, & Country",Country
+1116,"Folk, World, & Country","Folk, World, & Country",Country
+1117,,,
+1118,"Folk, World, & Country","Folk, World, & Country",Country
+1119,Rock,"Rock,Folk, World, & Country","Country,Pop Rock"
+1120,Pop,Pop,"Pop Rock,Europop"
+1121,"Folk, World, & Country","Folk, World, & Country",Country
+1122,"Folk, World, & Country","Folk, World, & Country",Country
+1123,Pop,"Pop,Folk, World, & Country",Country
+1124,Pop,"Pop,Folk, World, & Country",
+1125,Rock,Rock,"Country Rock,Pop Rock"
+1126,"Folk, World, & Country","Folk, World, & Country",Country
+1127,Rock,"Rock,Folk, World, & Country","Country Rock,Pop Rock"
+1128,"Folk, World, & Country","Folk, World, & Country",Country
+1129,"Folk, World, & Country","Folk, World, & Country",Country
+1130,"Folk, World, & Country","Folk, World, & Country",Country
+1131,Pop,"Pop,Folk, World, & Country",Country
+1132,"Folk, World, & Country","Folk, World, & Country",Country
+1133,"Folk, World, & Country","Folk, World, & Country",Country
+1134,,,
+1135,"Folk, World, & Country","Folk, World, & Country",Country
+1136,"Folk, World, & Country","Folk, World, & Country",Country
+1137,Pop,"Pop,Folk, World, & Country",Country
+1138,"Folk, World, & Country","Folk, World, & Country",Country
+1139,"Folk, World, & Country","Folk, World, & Country",Country
+1140,"Folk, World, & Country","Folk, World, & Country",Country
+1141,"Folk, World, & Country","Folk, World, & Country",Country
+1142,"Folk, World, & Country","Folk, World, & Country",Country
+1143,"Folk, World, & Country","Folk, World, & Country",Country
+1144,"Folk, World, & Country","Folk, World, & Country",Country
+1145,"Folk, World, & Country","Folk, World, & Country",Country
+1146,"Folk, World, & Country","Folk, World, & Country",Country
+1147,"Folk, World, & Country","Folk, World, & Country",Country
+1148,,,
+1149,Pop,"Pop,Folk, World, & Country",Country
+1150,"Folk, World, & Country","Folk, World, & Country",Country
+1151,"Folk, World, & Country","Folk, World, & Country",Country
+1152,Rock,"Rock,Pop",Pop Rock
+1153,Rock,"Rock,Non-Music","Pop Rock,Dialogue"
+1154,Rock,Rock,Beat
+1155,Rock,Rock,"Rock & Roll,Pop Rock"
+1156,Rock,Rock,"Psychedelic Rock,Pop Rock"
+1157,Rock,Rock,"Rock & Roll,Pop Rock,Beat"
+1158,Rock,"Rock,Pop",Beat
+1159,Rock,Rock,Beat
+1160,Rock,"Rock,Pop","Interview,Rock & Roll,Pop Rock,Speech"
+1161,Rock,"Rock,Stage & Screen","Soundtrack,Pop Rock,Psychedelic Rock"
+1162,Rock,Rock,"Hard Rock,AOR,Arena Rock,Pop Rock"
+1163,Rock,Rock,"Classic Rock,Heavy Metal,Hard Rock"
+1164,Rock,Rock,"Prog Rock,Hard Rock"
+1165,Rock,Rock,Hard Rock
+1166,Rock,Rock,Hard Rock
+1167,Rock,Rock,Classic Rock
+1168,Rock,Rock,"Hard Rock,Classic Rock,Heavy Metal"
+1169,Rock,Rock,"Space Rock,Hard Rock"
+1170,Rock,Rock,"Hard Rock,Heavy Metal"
+1171,Rock,Rock,"Hard Rock,Classic Rock,Rock & Roll,Arena Rock,Heavy Metal"
+1172,Rock,Rock,Hard Rock
+1173,,,
+1174,Rock,Rock,"Alternative Rock,Pop Rock"
+1175,Rock,Rock,Alternative Rock
+1177,Rock,"Rock,Reggae",Ska
+1178,Rock,"Rock,Blues",
+1179,Rock,Rock,"Rock & Roll,Pop Rock,Psychedelic Rock,Beat"
+1180,Rock,Rock,Alternative Rock
+1181,"Folk, World, & Country","Folk, World, & Country",Country
+1182,"Folk, World, & Country","Folk, World, & Country",Country
+1183,"Folk, World, & Country","Folk, World, & Country",Country
+1184,"Folk, World, & Country","Folk, World, & Country",Country
+1185,"Folk, World, & Country","Folk, World, & Country",Country
+1186,"Folk, World, & Country","Folk, World, & Country",Country
+1187,"Folk, World, & Country","Folk, World, & Country",Country
+1188,"Folk, World, & Country","Folk, World, & Country",Country
+1189,"Folk, World, & Country","Folk, World, & Country",Country
+1190,"Folk, World, & Country","Folk, World, & Country",Country
+1191,Rock,Rock,Country Rock
+1192,"Folk, World, & Country","Folk, World, & Country",Country
+1193,"Folk, World, & Country","Folk, World, & Country",Country
+1194,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+1195,Pop,"Pop,Folk, World, & Country",Country
+1196,"Folk, World, & Country","Folk, World, & Country",Country
+1197,"Folk, World, & Country","Folk, World, & Country",Country
+1198,"Folk, World, & Country","Folk, World, & Country",Country
+1199,"Folk, World, & Country","Folk, World, & Country",Country
+1200,Rock,Rock,"Folk Rock,Pop Rock"
+1201,Rock,Rock,"Soft Rock,Folk Rock"
+1202,Jazz,"Jazz,Rock","Acoustic,Soft Rock,Folk Rock"
+1203,Rock,Rock,Soft Rock
+1204,Rock,"Rock,Pop",Alternative Rock
+1205,Rock,"Rock,Pop",Alternative Rock
+1206,Rock,Rock,"Alternative Rock,Pop Rock"
+1207,Rock,Rock,Alternative Rock
+1208,Rock,"Rock,Pop","Alternative Rock,Country Rock,Soft Rock"
+1209,Rock,Rock,Alternative Rock
+1210,,,
+1211,"Folk, World, & Country","Folk, World, & Country",Country
+1212,"Folk, World, & Country","Folk, World, & Country",Country
+1213,"Folk, World, & Country","Folk, World, & Country",Country
+1214,"Folk, World, & Country","Folk, World, & Country",Country
+1215,"Folk, World, & Country","Folk, World, & Country",Country
+1216,"Folk, World, & Country","Folk, World, & Country",Country
+1217,"Folk, World, & Country","Folk, World, & Country",Country
+1218,,,
+1219,"Folk, World, & Country","Folk, World, & Country",Country
+1220,"Folk, World, & Country","Folk, World, & Country",Country
+1221,Rock,Rock,"Psychobilly,Garage Rock"
+1222,Rock,"Rock,Blues",Psychobilly
+1223,Rock,Rock,"Psychobilly,Punk"
+1224,Rock,Rock,Psychobilly
+1225,Rock,Rock,"Punk,Rockabilly"
+1226,Rock,Rock,Psychobilly
+1227,Rock,Rock,Psychobilly
+1228,Rock,Rock,Grunge
+1230,Rock,"Rock,Pop",Pop Rock
+1231,Rock,Rock,Folk Rock
+1232,Rock,Rock,Pop Rock
+1233,Electronic,"Electronic,Hip Hop,Latin,Funk / Soul","Flamenco,Hip Hop,Rumba,Funk"
+1234,"Folk, World, & Country","Folk, World, & Country",Country
+1235,"Folk, World, & Country","Folk, World, & Country","Country,Folk,Gospel,Honky Tonk"
+1236,"Folk, World, & Country","Folk, World, & Country",Country
+1237,"Folk, World, & Country","Folk, World, & Country",Country
+1238,"Folk, World, & Country","Folk, World, & Country",Country
+1239,"Folk, World, & Country","Folk, World, & Country",Country
+1240,Rock,"Rock,Folk, World, & Country","Country,Country Rock"
+1241,Rock,"Rock,Blues","Country Blues,Country Rock,Acoustic"
+1242,"Folk, World, & Country","Folk, World, & Country",Country
+1243,Rock,"Rock,Pop,Folk, World, & Country","Folk Rock,Country Rock,Soft Rock,Pop Rock"
+1244,"Folk, World, & Country","Folk, World, & Country",Country
+1245,"Folk, World, & Country","Folk, World, & Country",Country
+1246,Hip Hop,Hip Hop,Pop Rap
+1247,,,
+1248,Pop,"Pop,Folk, World, & Country",Country
+1249,"Folk, World, & Country","Folk, World, & Country",Country
+1250,"Folk, World, & Country","Folk, World, & Country","Country,Novelty,Parody"
+1251,"Folk, World, & Country","Folk, World, & Country",Country
+1252,"Folk, World, & Country","Folk, World, & Country",Country
+1253,"Folk, World, & Country","Folk, World, & Country",Country
+1254,"Folk, World, & Country","Folk, World, & Country",Country
+1255,"Folk, World, & Country","Folk, World, & Country",Country
+1256,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+1257,"Folk, World, & Country","Folk, World, & Country",
+1258,"Folk, World, & Country","Folk, World, & Country",Country
+1259,"Folk, World, & Country","Folk, World, & Country",Country
+1260,"Folk, World, & Country","Folk, World, & Country",Country
+1261,"Folk, World, & Country","Folk, World, & Country",Country
+1262,Rock,Rock,Heavy Metal
+1263,,,
+1264,Electronic,Electronic,Disco
+1265,,,
+1267,Electronic,"Electronic,Pop",Synth-pop
+1269,Pop,Pop,
+1270,Electronic,Electronic,"Euro House,Synth-pop"
+1271,Rock,Rock,Power Metal
+1272,Rock,"Rock,Blues",Pop Rock
+1273,Rock,"Rock,Pop","Pop Rock,AOR"
+1274,Rock,Rock,"Garage Rock,Rock & Roll"
+1277,Rock,Rock,Power Metal
+1278,,,
+1279,Rock,Rock,"Rock & Roll,Pop Rock,Beat"
+1280,Rock,Rock,Indie Rock
+1281,Rock,Rock,Indie Rock
+1282,"Folk, World, & Country","Folk, World, & Country",Country
+1283,"Folk, World, & Country","Folk, World, & Country",
+1284,"Folk, World, & Country","Folk, World, & Country",Country
+1285,"Folk, World, & Country","Folk, World, & Country","Country,Vocal,Ballad,Country Rock"
+1286,"Folk, World, & Country","Folk, World, & Country",Country
+1287,"Folk, World, & Country","Folk, World, & Country",Country
+1288,"Folk, World, & Country","Folk, World, & Country",Country
+1289,Rock,"Rock,Pop","Country Rock,Pop Rock"
+1290,Rock,Rock,Country Rock
+1291,"Folk, World, & Country","Folk, World, & Country",Country
+1292,"Folk, World, & Country","Folk, World, & Country",Country
+1293,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+1294,"Folk, World, & Country","Folk, World, & Country",Country
+1295,"Folk, World, & Country","Folk, World, & Country",Country
+1296,"Folk, World, & Country","Folk, World, & Country",
+1297,Rock,"Rock,Folk, World, & Country","Country,Country Rock"
+1298,Pop,"Pop,Folk, World, & Country","Country,Ballad"
+1299,"Folk, World, & Country","Folk, World, & Country",Country
+1300,"Folk, World, & Country","Folk, World, & Country",Country
+1301,"Folk, World, & Country","Folk, World, & Country","Country,Folk"
+1302,Pop,"Pop,Folk, World, & Country","Country,Vocal"
+1303,"Folk, World, & Country","Folk, World, & Country",Country
+1304,"Folk, World, & Country","Folk, World, & Country",Country
+1305,"Folk, World, & Country","Folk, World, & Country",Country
+1306,,,
+1307,"Folk, World, & Country","Folk, World, & Country",Country
+1308,"Folk, World, & Country","Folk, World, & Country",Country
+1309,"Folk, World, & Country","Folk, World, & Country","Country,Bluegrass,Folk"
+1310,"Folk, World, & Country","Folk, World, & Country",Country
+1311,"Folk, World, & Country","Folk, World, & Country",Country
+1312,"Folk, World, & Country","Folk, World, & Country",Country
+1313,Pop,"Pop,Folk, World, & Country","Country,Ballad"
+1314,"Folk, World, & Country","Folk, World, & Country",Country
+1315,"Folk, World, & Country","Folk, World, & Country",Country
+1316,Rock,"Rock,Pop","Country Rock,Ballad"
+1317,"Folk, World, & Country","Folk, World, & Country","Country,Honky Tonk"
+1318,,,
+1319,Pop,"Pop,Folk, World, & Country",Country
+1320,,,
+1321,Pop,"Pop,Folk, World, & Country",Country
+1322,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+1323,Rock,"Rock,Folk, World, & Country",Country Rock
+1324,Rock,Rock,"Punk,Hard Rock"
+1325,Electronic,"Electronic,Rock,Latin","Soft Rock,Latin"
+1326,Rock,Rock,Alternative Rock
+1327,Rock,"Rock,Pop","Pop Rock,Rock & Roll"
+1328,Electronic,"Electronic,Rock","Leftfield,Indie Rock,Disco,Post-Punk"
+1329,Electronic,"Electronic,Pop",Disco
+1330,Rock,Rock,Hard Rock
+1331,Rock,Rock,"Pop Rock,Power Pop"
+1332,Pop,Pop,Disco
+1333,Rock,Rock,"Rock & Roll,Avantgarde"
+1334,Hip Hop,Hip Hop,RnB/Swing
+1335,Rock,Rock,"Hard Rock,Heavy Metal"
+1336,Funk / Soul,"Funk / Soul,Pop",Soul
+1337,Hip Hop,Hip Hop,Thug Rap
+1338,Rock,Rock,"Hard Rock,Prog Rock"
+1340,Funk / Soul,Funk / Soul,"Soul,Funk"
+1341,Rock,Rock,Punk
+1342,Rock,Rock,"Indie Rock,Folk Rock"
+1343,"Folk, World, & Country","Folk, World, & Country","Country,Gospel"
+1344,Rock,Rock,Folk Rock
+1345,Rock,"Rock,Pop","Avantgarde,Ballad"
+1346,Pop,Pop,Vocal
+1347,Electronic,"Electronic,Pop,Folk, World, & Country",Contemporary
+1348,Electronic,"Electronic,Pop","Downtempo,Synth-pop,Ballad"
+1349,Latin,Latin,
+1350,,,
+1351,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+1352,Latin,"Latin,Pop,Folk, World, & Country",Vocal
+1353,Pop,"Pop,Folk, World, & Country",
+1354,Rock,"Rock,Pop",Vocal
+1355,Pop,Pop,Ballad
+1356,"Folk, World, & Country","Folk, World, & Country",Country
+1357,Rock,Rock,"Alternative Rock,Folk Rock,Hard Rock"
+1358,"Folk, World, & Country","Folk, World, & Country",Country
+1359,Funk / Soul,Funk / Soul,"Soul,Disco"
+1360,Rock,Rock,Pop Rock
+1361,Rock,"Rock,Pop","Pop Rock,Power Pop"
+1362,Reggae,Reggae,Reggae-Pop
+1363,Electronic,"Electronic,Rock,Pop","New Wave,Synth-pop,Disco"
+1364,,,
+1365,"Folk, World, & Country","Folk, World, & Country",Country
+1366,Rock,Rock,"Soft Rock,Pop Rock"
+1367,Rock,"Rock,Pop",Country Rock
+1368,Pop,Pop,
+1369,Hip Hop,Hip Hop,RnB/Swing
+1370,Latin,Latin,Flamenco
+1371,Funk / Soul,Funk / Soul,"Soul,Funk,Disco"
+1372,Latin,Latin,"Batucada,Samba,Lambada"
+1373,Hip Hop,Hip Hop,Pop Rap
+1374,Electronic,"Electronic,Pop",Synth-pop
+1375,Electronic,"Electronic,Stage & Screen","Soundtrack,Disco"
+1376,Pop,"Pop,Folk, World, & Country,Stage & Screen","Country,Vocal"
+1377,Pop,"Pop,Folk, World, & Country",Country
+1378,Rock,"Rock,Pop","Country Rock,Ballad,Vocal"
+1379,,,
+1380,Rock,Rock,Indie Rock
+1381,,,
+1382,,,
+1383,Rock,"Rock,Folk, World, & Country",Ska
+1384,"Folk, World, & Country","Folk, World, & Country",Country
+1385,Electronic,"Electronic,Funk / Soul",Disco
+1386,Rock,"Rock,Pop","Synth-pop,New Wave,Pop Rock"
+1390,Rock,Rock,"Avantgarde,Indie Rock"
+1391,Rock,Rock,"Art Rock,Alternative Rock,Folk Rock,Punk"
+1392,Rock,Rock,Indie Rock
+1393,,,
+1394,Rock,Rock,"Alternative Rock,Indie Rock"
+1395,Rock,"Rock,Pop","Folk Rock,Soft Rock,Pop Rock,Vocal"
+1396,Rock,Rock,"Alternative Rock,Rock & Roll,Indie Rock"
+1397,Rock,"Rock,Pop",Vocal
+1398,,,
+1399,,,
+1400,,,
+1401,"Folk, World, & Country","Folk, World, & Country",Country
+1402,Rock,"Rock,Folk, World, & Country","Indie Rock,Folk Rock"
+1403,Rock,Rock,Indie Rock
+1404,,,
+1405,Rock,"Rock,Latin",Rumba
+1406,Electronic,"Electronic,Pop","House,Synth-pop"
+1407,Electronic,"Electronic,Pop",Europop
+1408,Rock,"Rock,Pop",Folk Rock
+1409,Rock,"Rock,Pop",Pop Rock
+1410,Rock,Rock,Ska
+1411,Electronic,"Electronic,Rock",Alternative Rock
+1412,Reggae,Reggae,"Reggae,Ragga"
+1413,Electronic,"Electronic,Funk / Soul,Pop","House,Eurodance,Europop"
+1414,Rock,Rock,"Soft Rock,Pop Rock"
+1415,Electronic,Electronic,Synth-pop
+1416,Hip Hop,"Hip Hop,Rock,Reggae,Latin","Latin,Hip Hop,Ragga"
+1417,Electronic,"Electronic,Rock,Pop","Italo-Disco,Pop Rock,Synth-pop"
+1418,,,
+1419,Stage & Screen,Stage & Screen,
+1420,Latin,Latin,"Flamenco,Rumba"
+1422,Rock,"Rock,Pop",Pop Rock
+1423,Reggae,Reggae,Reggae
+1424,Jazz,"Jazz,Pop","Swing,Vocal,Easy Listening"
+1425,,,
+1426,Pop,Pop,"Country,Rhythm & Blues,Soul,Ballad,Rock & Roll"
+1427,Pop,Pop,
+1428,Rock,"Rock,Pop","Pop Rock,Vocal"
+1429,Electronic,"Electronic,Rock,Pop","Prog Rock,Ambient"
+1430,Hip Hop,"Hip Hop,Rock,Folk, World, & Country","Alternative Rock,Funk Metal,Pop Rock,Country Rock,Blues Rock,Southern Rock"
+1431,Funk / Soul,Funk / Soul,Disco
+1432,Reggae,"Reggae,Pop",Reggae-Pop
+1433,Electronic,Electronic,"House,Italo House"
+1434,Rock,Rock,"Pop Rock,Soft Rock"
+1435,Rock,"Rock,Pop",Pop Rock
+1436,Rock,Rock,"New Wave,Punk"
+1437,Rock,Rock,Garage Rock
+1438,Pop,Pop,
+1439,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+1440,Rock,Rock,Classic Rock
+1441,Rock,Rock,Pop Punk
+1442,Rock,"Rock,Folk, World, & Country",Country Rock
+1443,,,
+1444,Rock,Rock,
+1445,Electronic,"Electronic,Funk / Soul,Pop","Funk,Synth-pop,Ballad,Disco"
+1446,Electronic,Electronic,House
+1447,Electronic,"Electronic,Hip Hop,Funk / Soul,Pop","House,RnB/Swing"
+1448,Electronic,"Electronic,Pop","House,Synth-pop"
+1449,Electronic,Electronic,"Eurodance,Euro House"
+1450,Electronic,"Electronic,Pop",Synth-pop
+1451,Electronic,"Electronic,Stage & Screen","Breaks,Experimental,Ambient"
+1452,Rock,Rock,"Rock & Roll,Classic Rock"
+1453,Electronic,"Electronic,Rock,Latin,Pop","House,Latin,Pop Rock,Synth-pop"
+1455,Rock,Rock,Pop Rock
+1456,Electronic,Electronic,"Synth-pop,Disco"
+1457,Rock,"Rock,Pop","Alternative Rock,Soft Rock,Pop Rock"
+1458,Rock,Rock,
+1459,Funk / Soul,"Funk / Soul,Pop","Neo Soul,RnB/Swing"
+1460,Rock,Rock,Alternative Rock
+1461,Rock,Rock,"Blues Rock,Rock & Roll"
+1462,Rock,Rock,Rock & Roll
+1463,Rock,Rock,Pop Rock
+1464,Rock,"Rock,Pop",
+1465,Rock,Rock,"Folk Rock,Glam"
+1466,Rock,"Rock,Folk, World, & Country",Folk Rock
+1467,Rock,Rock,Hard Rock
+1468,Rock,Rock,Hard Rock
+1470,Rock,Rock,Alternative Rock
+1471,Jazz,"Jazz,Funk / Soul",Soul
+1472,Funk / Soul,Funk / Soul,Soul
+1473,Rock,Rock,"Folk Rock,Blues Rock,Psychedelic Rock"
+1474,Latin,Latin,
+1475,Rock,"Rock,Pop",Pop Rock
+1476,Electronic,"Electronic,Pop","Disco,Synth-pop"
+1477,Rock,Rock,"Pop Rock,Classic Rock"
+1478,Electronic,Electronic,"Synth-pop,Experimental"
+1479,Blues,Blues,
+1480,,,
+1481,Rock,"Rock,Pop","Pop Rock,Synth-pop,Ballad"
+1482,Electronic,"Electronic,Rock,Pop","Alternative Rock,Folk Rock,Punk,Drum n Bass"
+1483,Electronic,"Electronic,Pop","Europop,Synth-pop"
+1484,Hip Hop,Hip Hop,RnB/Swing
+1485,Electronic,"Electronic,Pop",Synth-pop
+1486,Electronic,"Electronic,Latin,Pop","Latin,Synth-pop"
+1487,Pop,Pop,
+1488,,,
+1489,Electronic,Electronic,New Wave
+1490,Electronic,"Electronic,Rock,Funk / Soul,Pop","Soft Rock,Pop Rock"
+1491,Rock,"Rock,Pop",Pop Rock
+1492,Rock,Rock,Alternative Rock
+1493,Rock,Rock,"Rockabilly,Country Rock,Rock & Roll"
+1494,Rock,Rock,"Alternative Rock,Pop Rock"
+1495,,,
+1496,Rock,"Rock,Pop",Pop Rock
+1497,Pop,Pop,
+1498,Rock,Rock,"Folk Rock,Acoustic,Indie Rock"
+1499,Jazz,Jazz,
+1500,Rock,Rock,Pop Rock
+1501,Electronic,"Electronic,Pop",Dance-pop
+1502,Latin,Latin,Norteño
+1503,Rock,"Rock,Pop","Pop Rock,Power Pop"
+1505,Hip Hop,"Hip Hop,Rock,Funk / Soul,Pop","Alternative Rock,Jazzy Hip-Hop,Soul"
+1506,Rock,"Rock,Pop,Classical","Pop Rock,Symphonic Rock"
+1507,Funk / Soul,Funk / Soul,Soul
+1508,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+1509,Rock,Rock,"Soft Rock,Pop Rock"
+1510,,,
+1511,Rock,Rock,
+1512,Funk / Soul,Funk / Soul,Soul
+1513,,,
+1514,Electronic,"Electronic,Pop",Synth-pop
+1515,Hip Hop,Hip Hop,"RnB/Swing,Electro"
+1516,Rock,Rock,Country Rock
+1517,Rock,Rock,Heavy Metal
+1518,Hip Hop,"Hip Hop,Rock,Reggae,Funk / Soul",Alternative Rock
+1519,Rock,"Rock,Non-Music","Interview,Blues Rock,Hard Rock,Spoken Word,Classic Rock"
+1520,Electronic,"Electronic,Rock","Pop Rock,Dub,Ska,Synth-pop"
+1521,Rock,Rock,"Pop Rock,New Wave"
+1522,Electronic,Electronic,Synth-pop
+1523,Reggae,"Reggae,Pop","Synth-pop,Reggae-Pop"
+1524,Rock,Rock,
+1525,,,
+1526,Electronic,Electronic,Synth-pop
+1527,Rock,Rock,Hard Rock
+1528,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+1529,,,
+1530,Rock,Rock,"Hard Rock,Rock & Roll"
+1531,Rock,"Rock,Latin,Pop",Pop Rock
+1532,Rock,Rock,"Punk,Ska"
+1533,,,
+1534,Rock,"Rock,Pop",Pop Rock
+1535,Rock,Rock,"Pop Rock,Prog Rock,Ambient"
+1536,Rock,"Rock,Pop",Pop Rock
+1537,Electronic,Electronic,Electro
+1538,Rock,Rock,"Punk,New Wave"
+1539,Rock,Rock,"AOR,Hard Rock"
+1540,Rock,Rock,"Acoustic,Indie Rock"
+1541,Rock,Rock,"Alternative Rock,Pop Rock"
+1542,Rock,Rock,Heavy Metal
+1543,Stage & Screen,Stage & Screen,"Soundtrack,Score"
+1544,Rock,Rock,Experimental
+1545,Rock,"Rock,Pop,Stage & Screen","Theme,Pop Rock"
+1546,Rock,Rock,"Folk Rock,Acoustic,Indie Rock"
+1547,Rock,Rock,"Hard Rock,Classic Rock"
+1548,Rock,"Rock,Pop","Country Rock,Classic Rock"
+1549,Electronic,"Electronic,Rock,Pop","Pop Rock,Glam,Electroclash"
+1550,Rock,Rock,"Rock & Roll,Punk"
+1551,Electronic,Electronic,"Italo-Disco,Synth-pop"
+1552,Rock,Rock,"Ska,Punk"
+1553,Rock,Rock,Rock & Roll
+1554,Rock,"Rock,Pop",Pop Rock
+1555,,,
+1556,Latin,"Latin,Pop,Stage & Screen",Rumba
+1558,Rock,Rock,"Hard Rock,Prog Rock"
+1559,Rock,"Rock,Pop","Pop Rock,Rock & Roll"
+1560,"Folk, World, & Country","Folk, World, & Country","Folk,Basque Music"
+1561,Rock,Rock,Brit Pop
+1562,Electronic,Electronic,"IDM,Ambient"
+1563,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+1564,Hip Hop,Hip Hop,Pop Rap
+1565,Hip Hop,Hip Hop,
+1566,Rock,Rock,"Alternative Rock,Hard Rock"
+1567,Jazz,"Jazz,Funk / Soul","Jazz-Funk,Soul"
+1569,Rock,Rock,Alternative Rock
+1570,Rock,Rock,"Prog Rock,Symphonic Rock"
+1571,Rock,Rock,"Folk Rock,Prog Rock"
+1572,Rock,Rock,New Wave
+1573,Rock,Rock,Alternative Rock
+1574,Rock,Rock,"Hard Rock,Heavy Metal"
+1575,Hip Hop,Hip Hop,
+1576,Rock,Rock,"Southern Rock,Hard Rock"
+1577,,,
+1578,Latin,Latin,MPB
+1580,Electronic,"Electronic,Rock","Avantgarde,Ethereal,Ambient,Dream Pop"
+1581,Electronic,"Electronic,Pop","House,Downtempo,Vocal"
+1582,Electronic,"Electronic,Pop","Europop,Downtempo"
+1583,Rock,Rock,"Symphonic Rock,Hard Rock"
+1584,Rock,Rock,"Thrash,Hardcore,Grindcore"
+1585,Rock,Rock,"Blues Rock,Psychedelic Rock"
+1586,Rock,"Rock,Latin","Acoustic,Soft Rock,Pop Rock"
+1587,,,
+1588,Rock,"Rock,Stage & Screen","Soundtrack,Pop Rock"
+1589,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+1590,Pop,Pop,"Vocal,Ballad"
+1591,Rock,Rock,
+1592,Electronic,"Electronic,Pop","Latin,Synth-pop"
+1593,Pop,Pop,Synth-pop
+1594,Latin,"Latin,Funk / Soul","Flamenco,Funk,Acid Jazz"
+1595,Rock,Rock,Post-Punk
+1596,Latin,"Latin,Pop",Europop
+1597,Rock,Rock,"Garage Rock,Punk"
+1598,Rock,Rock,"Hard Rock,Heavy Metal,Rock & Roll"
+1599,Rock,Rock,"Power Pop,Indie Rock"
+1600,Rock,Rock,Heavy Metal
+1601,Rock,Rock,"Blues Rock,Hard Rock,Heavy Metal"
+1602,,,
+1603,Electronic,"Electronic,Latin,Pop","Vocal,Rumba,Techno"
+1604,Electronic,"Electronic,Pop",Vocal
+1605,Rock,"Rock,Pop","Pop Rock,Vocal,Prog Rock"
+1606,Pop,Pop,Ballad
+1608,Rock,Rock,"Pop Rock,AOR"
+1609,Pop,"Pop,Folk, World, & Country","Ballad,Indie Pop"
+1610,Latin,"Latin,Pop,Folk, World, & Country",Europop
+1611,Hip Hop,"Hip Hop,Latin,Pop",RnB/Swing
+1612,Pop,Pop,Parody
+1613,Rock,"Rock,Blues","Rhythm & Blues,Rock & Roll,Rockabilly"
+1614,Pop,"Pop,Stage & Screen","Folk Rock,Pop Rock"
+1615,Electronic,Electronic,"Techno,Euro House"
+1616,Funk / Soul,"Funk / Soul,Pop",
+1617,Electronic,"Electronic,Rock,Latin,Pop","House,Latin,Pop Rock"
+1618,Rock,"Rock,Pop",Pop Rock
+1619,Rock,"Rock,Latin,Pop","Latin,Pop Rock"
+1620,Reggae,"Reggae,Latin",Calypso
+1621,Funk / Soul,Funk / Soul,Disco
+1622,Electronic,"Electronic,Rock,Pop","Alternative Rock,Pop Rock,Synth-pop"
+1623,Rock,Rock,"Alternative Rock,Indie Rock"
+1624,Electronic,"Electronic,Latin,Pop","Europop,Euro House,Ballad"
+1625,Rock,"Rock,Pop",Pop Rock
+1626,Rock,Rock,Pop Rock
+1627,"Folk, World, & Country","Folk, World, & Country",Country
+1628,Rock,"Rock,Latin,Folk, World, & Country","Folk Rock,Nueva Cancion"
+1629,Latin,"Latin,Pop",
+1630,Rock,"Rock,Pop",Vocal
+1631,Latin,"Latin,Folk, World, & Country","Bolero,Ranchera"
+1632,Rock,Rock,"Blues Rock,Classic Rock"
+1633,"Folk, World, & Country","Folk, World, & Country",Country
+1634,"Folk, World, & Country","Folk, World, & Country","Country,Religious"
+1635,"Folk, World, & Country","Folk, World, & Country",Country
+1636,"Folk, World, & Country","Folk, World, & Country",Country
+1637,Pop,Pop,"RnB/Swing,Europop"
+1638,"Folk, World, & Country","Folk, World, & Country",Country
+1639,Rock,Rock,"Alternative Rock,Indie Rock"
+1640,"Folk, World, & Country","Folk, World, & Country",Country
+1641,"Folk, World, & Country","Folk, World, & Country",Country
+1642,"Folk, World, & Country","Folk, World, & Country",Country
+1643,"Folk, World, & Country","Folk, World, & Country",Country
+1644,,,
+1645,"Folk, World, & Country","Folk, World, & Country",Country
+1646,"Folk, World, & Country","Folk, World, & Country",Country
+1647,"Folk, World, & Country","Folk, World, & Country","Country,Folk"
+1648,"Folk, World, & Country","Folk, World, & Country",Country
+1649,"Folk, World, & Country","Folk, World, & Country",Country
+1650,Rock,"Rock,Pop","Country Rock,Vocal"
+1651,Electronic,"Electronic,Pop","Euro House,Synth-pop"
+1652,Rock,Rock,Pop Rock
+1653,Jazz,Jazz,
+1654,Rock,Rock,Hard Rock
+1655,Rock,"Rock,Reggae",Ska
+1656,Rock,"Rock,Blues","Southern Rock,Texas Blues,Blues Rock"
+1657,Rock,Rock,Alternative Rock
+1658,,,
+1659,Latin,"Latin,Pop",Europop
+1660,Hip Hop,Hip Hop,Pop Rap
+1661,Rock,"Rock,Folk, World, & Country",Flamenco
+1662,Blues,"Blues,Pop,Folk, World, & Country",
+1663,Pop,Pop,"Vocal,Ballad"
+1664,Rock,Rock,Pop Rock
+1665,Latin,"Latin,Pop",Flamenco
+1666,Electronic,"Electronic,Rock,Pop","Synth-pop,Pop Rock"
+1667,Rock,"Rock,Folk, World, & Country",Folk
+1668,,,
+1669,Pop,Pop,
+1670,Rock,"Rock,Latin,Pop",Alternative Rock
+1671,Latin,"Latin,Pop",Rumba
+1672,Latin,"Latin,Pop","Latin,Pop Rock,Ballad"
+1673,Rock,Rock,Alternative Rock
+1674,Rock,Rock,Hard Rock
+1675,Electronic,"Electronic,Rock","Electro,Indie Rock"
+1677,Electronic,"Electronic,Pop","Future Jazz,Downtempo,Synth-pop,Experimental"
+1678,Electronic,"Electronic,Hip Hop,Reggae,Pop","Grime,Hip Hop,Dancehall"
+1679,Electronic,Electronic,"Trip Hop,Downtempo"
+1680,Electronic,"Electronic,Stage & Screen","Abstract,Musique Concrète,Minimal,Experimental,Soundtrack"
+1681,Rock,"Rock,Pop","Pop Rock,Acoustic"
+1682,Rock,Rock,"Alternative Rock,Brit Pop,Glam"
+1683,Jazz,"Jazz,Blues","Piano Blues,Easy Listening,Swing"
+1684,,,
+1685,Rock,Rock,Alternative Rock
+1686,Rock,Rock,Psychedelic Rock
+1687,Rock,Rock,Pop Rock
+1688,Pop,Pop,Vocal
+1689,Latin,"Latin,Pop",Vocal
+1690,,,
+1691,Rock,Rock,"Leftfield,Industrial,Experimental,Alternative Rock"
+1692,Rock,"Rock,Pop",Pop Rock
+1693,Rock,Rock,"Rock & Roll,Hard Rock"
+1694,,,
+1695,Rock,Rock,
+1696,Latin,"Latin,Pop","Vocal,Ballad"
+1697,Rock,Rock,"Punk,Heavy Metal"
+1698,Electronic,Electronic,"House,Techno,Electro,Disco"
+1699,Electronic,"Electronic,Rock,Pop",Pop Rock
+1700,Latin,"Latin,Pop","Ballad,Vocal"
+1701,Rock,Rock,"Hard Rock,Glam"
+1702,Latin,"Latin,Pop",Flamenco
+1703,Rock,Rock,"Blues Rock,Hard Rock,Heavy Metal"
+1704,Rock,Rock,Glam
+1705,Rock,"Rock,Pop","Alternative Rock,Acoustic,Soft Rock,Vocal"
+1706,Latin,"Latin,Pop","Europop,Ballad"
+1707,Rock,Rock,Punk
+1708,,,
+1710,Rock,Rock,
+1711,Funk / Soul,"Funk / Soul,Pop",Disco
+1712,Rock,Rock,Country Rock
+1713,Rock,Rock,"Art Rock,Glam"
+1714,Electronic,"Electronic,Pop","Leftfield,Tribal,Electro,Abstract,Ballad"
+1715,Electronic,"Electronic,Rock","Alternative Rock,Avantgarde,Experimental,Art Rock"
+1716,Electronic,Electronic,"Acid Jazz,Downtempo"
+1717,Electronic,"Electronic,Pop",Electro
+1718,Rock,Rock,Indie Rock
+1719,Rock,Rock,"Alternative Rock,Blues Rock"
+1720,Jazz,Jazz,Soul-Jazz
+1721,Rock,"Rock,Pop",Vocal
+1722,Latin,"Latin,Folk, World, & Country",Nueva Cancion
+1723,Rock,Rock,Pop Rock
+1724,Rock,Rock,"Country Rock,Soft Rock"
+1725,Rock,"Rock,Pop,Folk, World, & Country",Country Rock
+1726,Rock,"Rock,Folk, World, & Country","Country Rock,Pop Rock"
+1727,Rock,"Rock,Pop,Folk, World, & Country",
+1728,Rock,"Rock,Pop",
+1729,Classical,Classical,Opera
+1730,Rock,Rock,"Hard Rock,Pop Rock"
+1731,,,
+1732,,,
+1733,Rock,"Rock,Folk, World, & Country",
+1734,Rock,"Rock,Pop",Pop Rock
+1735,Rock,Rock,Hard Rock
+1736,,,
+1737,Rock,Rock,"New Wave,Punk"
+1739,Rock,"Rock,Latin,Pop","Latin,Pop Rock,Ballad"
+1740,,,
+1741,Rock,"Rock,Latin",Pop Rock
+1742,Rock,"Rock,Pop",Indie Rock
+1743,Electronic,"Electronic,Hip Hop,Funk / Soul","RnB/Swing,Contemporary R&B"
+1744,Latin,"Latin,Pop",
+1745,Rock,Rock,"Rock & Roll,Punk"
+1746,Rock,Rock,Brit Pop
+1747,,,
+1748,Electronic,"Electronic,Rock","New Wave,Synth-pop"
+1749,Rock,"Rock,Pop",Pop Rock
+1750,Latin,"Latin,Folk, World, & Country","Flamenco,Rumba"
+1751,Rock,"Rock,Pop",Acoustic
+1752,Funk / Soul,Funk / Soul,"Soul,Twist"
+1753,Rock,Rock,"Acoustic,Soft Rock"
+1754,Pop,Pop,"Europop,Ballad"
+1755,Latin,Latin,
+1756,Rock,Rock,Pop Rock
+1757,Rock,Rock,Punk
+1758,,,
+1759,Funk / Soul,Funk / Soul,Soul
+1760,Rock,Rock,Pop Rock
+1761,Electronic,"Electronic,Rock","Trip Hop,Ethereal,Darkwave"
+1762,Rock,Rock,Folk Rock
+1763,Rock,"Rock,Latin","Flamenco,Pop Rock"
+1764,Rock,"Rock,Pop","Ballad,Pop Rock"
+1765,Electronic,"Electronic,Pop","Vocal,Disco"
+1766,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+1767,Rock,Rock,Indie Rock
+1768,Rock,Rock,"Rock & Roll,Pop Rock"
+1769,Rock,Rock,"Alternative Rock,Hard Rock"
+1770,Rock,Rock,
+1771,Rock,"Rock,Pop",Pop Rock
+1772,,,
+1774,Rock,"Rock,Pop",Pop Rock
+1775,Rock,"Rock,Pop",Pop Rock
+1776,Rock,"Rock,Pop","New Wave,Pop Rock"
+1777,Rock,"Rock,Latin","Mariachi,Tejano,Pop Rock,Ranchera"
+1778,,,
+1779,Rock,"Rock,Pop","Alternative Rock,Indie Rock"
+1780,Electronic,Electronic,"Electro,House"
+1781,Electronic,"Electronic,Rock","Experimental,Alternative Rock"
+1782,Electronic,Electronic,Synth-pop
+1783,Rock,Rock,Indie Rock
+1784,Rock,Rock,Indie Rock
+1785,Rock,"Rock,Pop",Indie Rock
+1786,Rock,Rock,"Garage Rock,Lo-Fi,Indie Rock"
+1787,Pop,Pop,
+1788,Rock,Rock,
+1789,Electronic,"Electronic,Pop",Synth-pop
+1790,Hip Hop,Hip Hop,
+1791,Jazz,"Jazz,Funk / Soul,Blues,Pop","Soul-Jazz,Piano Blues"
+1792,Electronic,Electronic,"House,Dubstep"
+1793,,,
+1794,Electronic,"Electronic,Pop",Electro
+1795,,,
+1796,Electronic,Electronic,"Electro,Synth-pop"
+1797,Rock,"Rock,Pop",Pop Rock
+1798,Rock,"Rock,Pop",Pop Rock
+1799,Electronic,Electronic,"Electro,Synth-pop,Disco"
+1800,Pop,Pop,"Chanson,Vocal"
+1801,Rock,"Rock,Pop",Rock & Roll
+1802,Pop,Pop,"Soft Rock,Ballad"
+1803,Rock,"Rock,Pop",Pop Rock
+1804,Pop,Pop,
+1805,Rock,Rock,"Acoustic,Soft Rock"
+1806,,,
+1807,Hip Hop,"Hip Hop,Reggae","Soca,Dancehall,RnB/Swing,Reggae-Pop,Ragga HipHop"
+1808,Electronic,Electronic,"House,Downtempo,Deep House"
+1809,Latin,"Latin,Pop","Rumba,Flamenco"
+1810,Rock,Rock,Heavy Metal
+1811,Rock,Rock,Punk
+1812,Rock,Rock,
+1813,Rock,Rock,Indie Rock
+1814,Funk / Soul,"Funk / Soul,Pop",Disco
+1815,"Folk, World, & Country","Folk, World, & Country",Flamenco
+1816,Pop,Pop,Vocal
+1817,Electronic,"Electronic,Pop",Synth-pop
+1818,Funk / Soul,"Funk / Soul,Blues","Rhythm & Blues,Soul"
+1819,Rock,Rock,Pop Rock
+1820,,,
+1821,,,
+1822,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+1823,,,
+1824,Hip Hop,"Hip Hop,Funk / Soul","RnB/Swing,Soul"
+1825,Rock,Rock,Pop Rock
+1826,Latin,"Latin,Folk, World, & Country","Flamenco,Rumba"
+1827,Rock,"Rock,Blues","Blues Rock,Southern Rock"
+1828,Rock,Rock,Hard Rock
+1829,,,
+1830,,,
+1831,,,
+1832,Electronic,Electronic,"House,Trip Hop"
+1833,Electronic,Electronic,"House,Breaks,Techno,Electro"
+1834,Rock,Rock,Black Metal
+1835,,,
+1836,Rock,"Rock,Pop,Folk, World, & Country",
+1837,Rock,Rock,Pop Rock
+1838,"Folk, World, & Country","Folk, World, & Country",
+1839,Electronic,"Electronic,Rock",Alternative Rock
+1840,Electronic,Electronic,Electro
+1841,Rock,Rock,Alternative Rock
+1842,Rock,Rock,Hard Rock
+1843,Rock,Rock,"Classic Rock,Soft Rock"
+1844,Rock,Rock,Hard Rock
+1845,,,
+1846,Rock,Rock,Art Rock
+1847,Rock,"Rock,Latin,Pop",Alternative Rock
+1848,Reggae,Reggae,"Dancehall,Lovers Rock"
+1849,Rock,Rock,"Prog Rock,Heavy Metal"
+1850,Rock,Rock,Art Rock
+1851,Rock,Rock,"Rock & Roll,Punk"
+1852,,,
+1853,Rock,Rock,Pop Rock
+1854,Rock,Rock,"Folk Rock,Punk,Ska"
+1855,Electronic,Electronic,"Techno,Abstract,IDM,Experimental"
+1856,Electronic,"Electronic,Rock","Alternative Rock,IDM,Experimental"
+1857,Electronic,"Electronic,Rock","Leftfield,Alternative Rock,Indie Rock"
+1859,Rock,"Rock,Pop",Indie Rock
+1860,Rock,Rock,"Folk Rock,Soft Rock"
+1861,Jazz,"Jazz,Rock","Pop Rock,Jazz-Rock"
+1862,Rock,"Rock,Pop",Pop Rock
+1863,Electronic,"Electronic,Hip Hop,Reggae,Latin,Funk / Soul,Folk, World, & Country","Reggae,Latin,Tribal,Rumba,Hip Hop,Flamenco,Breaks"
+1864,Rock,"Rock,Funk / Soul","Rock & Roll,Rhythm & Blues"
+1865,Rock,"Rock,Pop","Pop Rock,Soft Rock,Ballad"
+1866,Rock,Rock,Pop Rock
+1867,"Folk, World, & Country","Folk, World, & Country",Country
+1868,,,
+1869,Rock,Rock,"Rock & Roll,Punk"
+1870,Electronic,"Electronic,Pop,Folk, World, & Country,Stage & Screen","Tribal,Afrobeat,Easy Listening,Soundtrack,Ambient,Folk"
+1872,Latin,"Latin,Pop",Vocal
+1873,Latin,"Latin,Pop",Ballad
+1874,Rock,Rock,Pop Rock
+1875,Rock,"Rock,Pop","Pop Punk,Indie Pop"
+1876,Electronic,"Electronic,Rock,Pop","Music Hall,Novelty,Pop Rock,Avantgarde,Synth-pop"
+1878,Electronic,"Electronic,Latin,Pop","Ballad,Cumbia,Norteño,House"
+1879,Rock,"Rock,Folk, World, & Country","Folk Rock,Country Rock,Acoustic"
+1880,Rock,Rock,"Punk,Avantgarde"
+1881,Reggae,Reggae,Reggae
+1882,Rock,Rock,Alternative Rock
+1883,Rock,Rock,"Country Rock,Acoustic"
+1884,Rock,Rock,Pop Rock
+1885,Rock,"Rock,Latin,Pop",Pop Rock
+1886,Pop,Pop,"Vocal,Ballad"
+1887,Rock,Rock,Alternative Rock
+1888,Rock,Rock,"Folk Rock,Country Rock"
+1889,Rock,Rock,"Hard Rock,AOR"
+1890,Rock,"Rock,Folk, World, & Country","Folk Rock,Blues Rock,Classic Rock"
+1891,Electronic,Electronic,Synth-pop
+1892,,,
+1893,Rock,Rock,Indie Rock
+1894,Rock,Rock,Classic Rock
+1895,Rock,"Rock,Folk, World, & Country",Folk Rock
+1896,Rock,Rock,"Folk Rock,Country Rock"
+1897,Rock,Rock,Indie Rock
+1898,,,
+1899,Jazz,"Jazz,Pop","Vocal,Easy Listening"
+1900,Rock,Rock,"Punk,Ska"
+1901,Hip Hop,"Hip Hop,Rock","Funk Metal,Hardcore"
+1902,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+1903,Rock,Rock,"Brit Pop,Indie Rock"
+1904,Latin,Latin,Merengue
+1905,Rock,Rock,"Hard Rock,AOR"
+1906,Rock,Rock,New Wave
+1907,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+1908,Rock,Rock,Pop Rock
+1909,Rock,Rock,"Thrash,Symphonic Rock"
+1910,Rock,Rock,"Alternative Rock,Brit Pop"
+1911,Rock,Rock,"Alternative Rock,Pop Rock"
+1912,Rock,"Rock,Latin",
+1913,Rock,Rock,Alternative Rock
+1914,Rock,Rock,Classic Rock
+1915,Rock,Rock,"Heavy Metal,Symphonic Rock"
+1916,Rock,Rock,"Acoustic,Pop Rock,Alternative Rock"
+1917,Rock,Rock,Alternative Rock
+1919,Rock,Rock,"Pop Rock,Soft Rock,Power Pop"
+1920,Hip Hop,"Hip Hop,Latin","Cubano,Conscious"
+1921,Rock,Rock,"Rock & Roll,Pop Rock,Classic Rock"
+1922,Hip Hop,"Hip Hop,Funk / Soul","Soul,Contemporary R&B"
+1923,Electronic,Electronic,Disco
+1924,Rock,"Rock,Blues","Alternative Rock,Blues Rock,Pop Rock,Indie Rock"
+1925,Rock,"Rock,Pop","Pop Rock,Schlager"
+1926,Electronic,"Electronic,Pop",Synth-pop
+1927,Rock,Rock,Punk
+1928,,,
+1930,,,
+1931,Electronic,"Electronic,Pop","Synth-pop,Disco"
+1932,Pop,Pop,
+1933,Funk / Soul,"Funk / Soul,Pop","Ballad,Contemporary R&B"
+1934,Electronic,"Electronic,Pop","Synth-pop,Ballad"
+1935,Electronic,"Electronic,Pop","IDM,Trip Hop,Synth-pop"
+1936,Funk / Soul,"Funk / Soul,Pop","Dance-pop,Contemporary R&B"
+1937,Hip Hop,"Hip Hop,Latin,Pop",
+1938,Electronic,"Electronic,Pop",Synth-pop
+1939,Electronic,"Electronic,Hip Hop,Funk / Soul,Pop","Synth-pop,Dance-pop,Industrial,New Jack Swing,Contemporary R&B"
+1940,Hip Hop,"Hip Hop,Pop","RnB/Swing,Ballad"
+1941,Electronic,"Electronic,Funk / Soul,Pop","Synth-pop,Europop,Electro,Electroclash,House,Downtempo,Contemporary R&B"
+1942,Electronic,"Electronic,Pop",Synth-pop
+1943,Electronic,"Electronic,Latin,Pop","House,Vocal,Europop"
+1944,Rock,Rock,Alternative Rock
+1945,Electronic,"Electronic,Hip Hop,Funk / Soul,Pop","Downtempo,Contemporary R&B,Electro,Synth-pop,Erotic"
+1946,Electronic,"Electronic,Pop","Synth-pop,Electro,Acoustic,Ballad"
+1947,,,
+1948,Electronic,"Electronic,Rock,Pop","Europop,Electro,Synth-pop"
+1949,Electronic,"Electronic,Pop","Trance,Synth-pop,Vocal"
+1950,Electronic,"Electronic,Rock","Thrash,Electro,Punk,Disco"
+1951,Funk / Soul,Funk / Soul,"Disco,Italo-Disco"
+1952,Rock,Rock,"Ska,Punk"
+1953,Rock,Rock,"Classic Rock,Rock & Roll"
+1954,Electronic,"Electronic,Rock","House,Synth-pop,Indie Rock"
+1955,Rock,"Rock,Blues",
+1956,Rock,Rock,"Alternative Rock,Pop Rock"
+1957,Rock,Rock,Indie Rock
+1958,"Folk, World, & Country","Folk, World, & Country",Country
+1960,,,
+1961,Pop,"Pop,Folk, World, & Country",
+1962,Rock,"Rock,Pop","Pop Rock,Soft Rock"
+1963,Rock,Rock,"Hard Rock,Heavy Metal"
+1964,Electronic,"Electronic,Pop","Synth-pop,Disco"
+1965,Rock,Rock,Pop Rock
+1966,,,
+1967,Rock,Rock,Folk Rock
+1968,Rock,Rock,Indie Rock
+1969,Latin,Latin,Flamenco
+1970,Rock,Rock,Symphonic Rock
+1971,Latin,"Latin,Pop",Flamenco
+1972,Electronic,Electronic,Downtempo
+1973,Pop,Pop,
+1974,Rock,"Rock,Pop","Rock & Roll,Rockabilly,Ballad"
+1975,Rock,Rock,"Indie Rock,Alternative Rock"
+1976,Rock,Rock,Prog Rock
+1977,Pop,Pop,"Pop Rock,Synth-pop"
+1978,Hip Hop,"Hip Hop,Funk / Soul",RnB/Swing
+1979,Rock,"Rock,Stage & Screen","Ballad,Folk Rock,Soundtrack"
+1980,Rock,"Rock,Pop,Folk, World, & Country","Neofolk,Acoustic,Folk,Lo-Fi"
+1981,"Folk, World, & Country","Folk, World, & Country","Country,Folk,Acoustic"
+1982,Pop,Pop,"Europop,Ballad"
+1983,Electronic,"Electronic,Pop","House,Europop"
+1984,Rock,"Rock,Pop","Soft Rock,Pop Rock,Ballad"
+1985,,,
+1986,Pop,Pop,
+1987,Rock,Rock,Pop Rock
+1988,Rock,Rock,"Alternative Rock,Lo-Fi,Indie Rock"
+1989,Funk / Soul,Funk / Soul,"Funk,Soul"
+1990,Pop,Pop,Chanson
+1991,Pop,Pop,Europop
+1992,Rock,"Rock,Pop,Stage & Screen",Pop Rock
+1993,Rock,Rock,Indie Rock
+1994,Rock,"Rock,Funk / Soul",Pop Rock
+1995,Electronic,Electronic,Disco
+1996,Rock,"Rock,Pop",Pop Rock
+1997,Hip Hop,"Hip Hop,Rock,Reggae",
+1998,Rock,"Rock,Pop","Alternative Rock,Indie Rock"
+1999,Rock,Rock,Alternative Rock
+2000,,,
+2001,Pop,"Pop,Folk, World, & Country",Country
+2002,Electronic,"Electronic,Pop","Europop,Disco"
+2003,Rock,Rock,Folk Rock
+2004,Electronic,"Electronic,Hip Hop","Downtempo,Euro House"
+2005,Electronic,"Electronic,Latin,Pop","Downtempo,Ballad"
+2006,,,
+2007,,,
+2008,,,
+2009,Rock,"Rock,Pop","Electro,Pop Rock"
+2010,Electronic,Electronic,"Downtempo,Deep House,Ambient"
+2011,Electronic,"Electronic,Rock","Folk Rock,Electro"
+2012,Electronic,"Electronic,Pop",Techno
+2013,Latin,"Latin,Pop",
+2014,Latin,"Latin,Folk, World, & Country",Nueva Cancion
+2015,Funk / Soul,Funk / Soul,"Soul,Disco"
+2016,Rock,Rock,
+2017,Funk / Soul,Funk / Soul,Rhythm & Blues
+2018,Rock,Rock,
+2019,,,
+2020,Rock,"Rock,Pop",Pop Rock
+2021,Pop,"Pop,Folk, World, & Country",Ballad
+2022,Rock,Rock,"Psychedelic Rock,Experimental,Indie Rock,Post Rock"
+2023,Rock,Rock,"Rock & Roll,Rockabilly"
+2024,Rock,Rock,Pop Rock
+2025,Hip Hop,Hip Hop,RnB/Swing
+2026,Electronic,"Electronic,Hip Hop,Pop",Europop
+2027,Electronic,"Electronic,Pop","Downtempo,Ballad"
+2028,Rock,"Rock,Pop",
+2029,Electronic,Electronic,Trance
+2030,Pop,Pop,Parody
+2031,Pop,Pop,Vocal
+2032,Rock,Rock,Rock & Roll
+2033,Electronic,"Electronic,Hip Hop","House,Pop Rap,Electro"
+2034,Electronic,Electronic,"Grime,Techno,Ghetto"
+2035,Pop,Pop,
+2036,Electronic,"Electronic,Pop","Latin,Euro House"
+2037,Latin,"Latin,Pop","Rumba,Flamenco"
+2038,Rock,Rock,Alternative Rock
+2039,Latin,"Latin,Pop","Salsa,Ballad"
+2040,Latin,"Latin,Folk, World, & Country","Copla,Flamenco"
+2044,Rock,Rock,"Garage Rock,Punk,Rock & Roll"
+2045,Funk / Soul,Funk / Soul,
+2046,Reggae,Reggae,Reggae
+2048,Rock,"Rock,Latin","Soft Rock,Pop Rock"
+2049,Reggae,Reggae,"Reggae,Ska"
+2050,,,
+2051,Funk / Soul,Funk / Soul,Disco
+2052,Electronic,"Electronic,Pop","Synth-pop,Euro-Disco"
+2053,"Folk, World, & Country","Folk, World, & Country",
+2054,Reggae,"Reggae,Folk, World, & Country","Roots Reggae,African"
+2055,Rock,Rock,
+2056,,,
+2057,Rock,Rock,Punk
+2058,Rock,Rock,"Mod,Punk"
+2059,Rock,"Rock,Latin,Pop",Pop Rock
+2060,"Folk, World, & Country","Folk, World, & Country",Country
+2061,"Folk, World, & Country","Folk, World, & Country",Country
+2062,Rock,Rock,Nu Metal
+2063,Rock,Rock,Alternative Rock
+2064,Rock,Rock,Power Metal
+2065,"Folk, World, & Country","Folk, World, & Country",Country
+2066,,,
+2067,Funk / Soul,"Funk / Soul,Pop",Contemporary R&B
+2068,Rock,Rock,"Acoustic,Country Rock"
+2069,,,
+2070,Rock,Rock,Indie Rock
+2071,Rock,Rock,Pop Rock
+2072,Rock,Rock,"Acoustic,Indie Rock"
+2073,Funk / Soul,Funk / Soul,Rhythm & Blues
+2074,Rock,Rock,"Art Rock,Pop Rock"
+2075,Rock,Rock,"Speed Metal,Thrash"
+2076,Rock,Rock,Indie Rock
+2077,"Folk, World, & Country","Folk, World, & Country","Political,Folk"
+2078,Rock,Rock,"Pop Rock,Brit Pop"
+2079,Rock,Rock,Glam
+2080,Hip Hop,"Hip Hop,Rock,Reggae",Ska
+2081,Rock,Rock,New Wave
+2082,Rock,"Rock,Pop",Ska
+2083,Rock,Rock,"Alternative Rock,Soft Rock"
+2084,Rock,Rock,"Power Metal,Speed Metal"
+2086,Latin,"Latin,Pop",Vocal
+2087,"Folk, World, & Country","Folk, World, & Country",Bluegrass
+2088,Rock,Rock,Brit Pop
+2089,Rock,"Rock,Pop",Alternative Rock
+2090,Rock,Rock,Psychobilly
+2091,,,
+2092,Rock,Rock,Speed Metal
+2093,Rock,Rock,Folk Rock
+2094,Rock,Rock,Classic Rock
+2095,"Folk, World, & Country","Folk, World, & Country",Country
+2096,Rock,"Rock,Blues","Blues Rock,Acoustic"
+2097,,,
+2098,Rock,Rock,"Heavy Metal,Power Metal"
+2100,Jazz,"Jazz,Rock","Jazz-Rock,Soul-Jazz,Post Bop"
+2101,Rock,"Rock,Folk, World, & Country","Folk Rock,Folk"
+2102,Rock,Rock,Hard Rock
+2103,Rock,Rock,"Folk Rock,Pop Rock"
+2104,Rock,"Rock,Blues",Blues Rock
+2105,,,
+2106,Rock,Rock,"Blues Rock,Classic Rock"
+2107,Electronic,"Electronic,Pop","Ballad,Disco"
+2108,Rock,"Rock,Reggae","Punk,Ska,Pachanga"
+2109,Rock,"Rock,Blues,Non-Music,Stage & Screen","Blues Rock,Interview,Soundtrack,Texas Blues"
+2110,Rock,"Rock,Funk / Soul",
+2111,Rock,"Rock,Latin",Classic Rock
+2112,Rock,Rock,Rock & Roll
+2113,Rock,Rock,"Rock & Roll,Classic Rock"
+2114,Rock,Rock,"Southern Rock,Pop Rock"
+2115,"Folk, World, & Country","Folk, World, & Country",Country
+2116,Rock,Rock,"Blues Rock,Garage Rock,Alternative Rock"
+2117,Rock,"Rock,Pop","Pop Rock,Art Rock"
+2118,Rock,"Rock,Pop","Ballad,Pop Rock"
+2119,Rock,Rock,"Classic Rock,Glam"
+2120,Rock,Rock,Hard Rock
+2121,Electronic,Electronic,Synth-pop
+2122,Rock,"Rock,Pop","Pop Rock,Synth-pop"
+2123,Rock,Rock,"Rock & Roll,Alternative Rock"
+2124,Rock,Rock,Alternative Rock
+2125,Rock,Rock,"Folk Rock,Soft Rock,Pop Rock"
+2126,Rock,Rock,"Classic Rock,Rock & Roll,Glam"
+2127,Rock,Rock,"Folk Rock,Classic Rock"
+2128,Rock,Rock,"Glam,Classic Rock"
+2129,Rock,Rock,Rock & Roll
+2130,Rock,"Rock,Pop,Stage & Screen","Synth-pop,Ambient,Soundtrack"
+2131,Latin,Latin,Nueva Cancion
+2132,Rock,"Rock,Classical","Thrash,Symphonic Rock,Heavy Metal"
+2133,Rock,"Rock,Pop","Folk Rock,Soft Rock"
+2134,Pop,Pop,Vocal
+2135,Electronic,Electronic,Disco
+2136,Rock,"Rock,Pop","Blues Rock,Soft Rock,Ballad"
+2137,Jazz,"Jazz,Rock","Fusion,Classic Rock,Latin Jazz"
+2138,Rock,Rock,
+2139,Rock,Rock,"Folk Rock,Blues Rock"
+2140,"Folk, World, & Country","Folk, World, & Country",Country
+2141,Rock,"Rock,Pop,Folk, World, & Country","Alternative Rock,Chanson"
+2142,Hip Hop,Hip Hop,"G-Funk,Gangsta"
+2143,Electronic,"Electronic,Hip Hop,Rock,Reggae,Latin",Indie Rock
+2144,Latin,"Latin,Folk, World, & Country",Nueva Cancion
+2145,Rock,"Rock,Pop,Folk, World, & Country","Country,Country Rock"
+2146,"Folk, World, & Country","Folk, World, & Country","Country,Folk"
+2147,Rock,"Rock,Folk, World, & Country","Classic Rock,Folk Rock,Acoustic"
+2148,"Folk, World, & Country","Folk, World, & Country",Country
+2149,Latin,"Latin,Pop","Fusion,Pop Rock,Latin Jazz"
+2150,Rock,"Rock,Latin,Pop","Pachanga,Pop Rock"
+2151,Rock,"Rock,Folk, World, & Country","Folk Rock,Folk"
+2152,Rock,Rock,Pop Rock
+2153,Electronic,Electronic,"New Wave,Synth-pop"
+2154,,,
+2155,Rock,Rock,Alternative Rock
+2156,Rock,Rock,Blues Rock
+2157,Rock,Rock,"Art Rock,Prog Rock"
+2158,Rock,Rock,Pop Rock
+2159,Rock,Rock,Soft Rock
+2160,Rock,Rock,Brit Pop
+2161,Rock,"Rock,Pop",Pop Rock
+2162,"Folk, World, & Country","Folk, World, & Country",Country
+2163,Rock,Rock,Classic Rock
+2164,Rock,Rock,"Folk Rock,New Wave,Punk,Avantgarde"
+2165,Rock,"Rock,Folk, World, & Country","Folk Rock,Soft Rock"
+2166,Rock,"Rock,Blues",Blues Rock
+2167,Jazz,"Jazz,Rock","Fusion,Soft Rock"
+2168,Rock,"Rock,Pop,Stage & Screen","Classic Rock,Alternative Rock,Pop Rock"
+2169,Rock,Rock,"Glam,Pop Rock,Classic Rock"
+2170,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+2171,Rock,Rock,"Heavy Metal,Speed Metal,Power Metal"
+2172,Hip Hop,"Hip Hop,Jazz,Rock,Blues","Folk Rock,Country Rock,Pop Rock,Indie Rock,Blues Rock,Contemporary Jazz,RnB/Swing,Swing,Piano Blues"
+2173,Jazz,"Jazz,Folk, World, & Country","Country,Contemporary Jazz"
+2174,Rock,"Rock,Pop",
+2175,"Folk, World, & Country","Folk, World, & Country",Country
+2177,Electronic,"Electronic,Funk / Soul","House,Synth-pop"
+2178,Rock,"Rock,Folk, World, & Country","Folk Rock,Classic Rock"
+2179,Rock,Rock,Pop Rock
+2180,Pop,Pop,
+2181,Electronic,"Electronic,Rock","Alternative Rock,Industrial,Drum n Bass"
+2182,Rock,"Rock,Pop",Pop Rock
+2183,Electronic,"Electronic,Rock,Pop","Electro,Glam"
+2184,Rock,Rock,"Indie Rock,Psychedelic Rock"
+2185,Rock,Rock,"Alternative Rock,Hard Rock,Heavy Metal"
+2186,,,
+2187,Rock,Rock,Psychobilly
+2188,Rock,Rock,"Brit Pop,Pop Rock,Indie Rock"
+2189,Pop,Pop,
+2190,,,
+2191,Hip Hop,Hip Hop,RnB/Swing
+2192,Jazz,"Jazz,Rock","Soft Rock,Smooth Jazz"
+2193,Rock,Rock,Hard Rock
+2194,Rock,Rock,"Folk Rock,Blues Rock,Classic Rock"
+2195,Rock,"Rock,Reggae","Ska,Punk,Charanga"
+2196,Electronic,"Electronic,Pop","Downtempo,Ballad"
+2197,"Folk, World, & Country","Folk, World, & Country",Country
+2198,Rock,"Rock,Latin","Salsa,Psychedelic Rock,Blues Rock"
+2199,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+2200,Rock,Rock,Alternative Rock
+2201,Rock,Rock,Hard Rock
+2202,Rock,Rock,"Speed Metal,Heavy Metal"
+2203,Rock,Rock,Alternative Rock
+2204,"Folk, World, & Country","Folk, World, & Country",Country
+2205,,,
+2207,"Folk, World, & Country","Folk, World, & Country",Country
+2208,Rock,Rock,"New Wave,Post-Punk"
+2209,"Folk, World, & Country","Folk, World, & Country",Country
+2211,Rock,Rock,"Acoustic,Rock & Roll"
+2212,Rock,Rock,"Soft Rock,Pop Rock,Classic Rock"
+2213,"Folk, World, & Country","Folk, World, & Country",Country
+2214,Rock,"Rock,Pop","Pop Rock,Rock & Roll"
+2215,,,
+2216,Rock,Rock,Pop Rock
+2217,Rock,"Rock,Pop","Alternative Rock,Pop Rock"
+2218,Rock,"Rock,Funk / Soul,Blues,Pop","Gospel,Rhythm & Blues,Rock & Roll"
+2219,,,
+2220,Latin,"Latin,Pop","Disco,Contemporary R&B"
+2221,Electronic,"Electronic,Rock","Art Rock,Ambient,Experimental"
+2223,Electronic,"Electronic,Rock",New Wave
+2224,Electronic,"Electronic,Jazz,Rock",Art Rock
+2225,Rock,Rock,Industrial
+2226,Electronic,Electronic,"Hardcore,Gabber,Happy Hardcore"
+2227,Rock,Rock,Hard Rock
+2228,Rock,"Rock,Blues","Blues Rock,Pop Rock,Indie Rock"
+2229,Rock,Rock,Soft Rock
+2230,Pop,Pop,Vocal
+2231,Rock,"Rock,Pop","Gospel,Rhythm & Blues,Vocal"
+2232,Rock,Rock,Folk Rock
+2233,Rock,Rock,"Power Pop,Punk"
+2234,Rock,Rock,Soft Rock
+2235,Electronic,"Electronic,Rock","Pop Rock,Experimental"
+2236,Rock,Rock,Beat
+2237,Electronic,"Electronic,Pop",Synth-pop
+2238,Rock,Rock,"Alternative Rock,Pop Rock"
+2239,"Folk, World, & Country","Folk, World, & Country",Flamenco
+2240,,,
+2241,"Folk, World, & Country","Folk, World, & Country",Country
+2242,Rock,Rock,Pop Rock
+2243,Rock,"Rock,Funk / Soul",
+2244,Rock,Rock,Indie Rock
+2245,Rock,"Rock,Funk / Soul,Blues,Pop","Folk Rock,Blues Rock,Classic Rock,Country Rock,AOR,Pop Rock"
+2246,,,
+2247,Jazz,"Jazz,Rock,Latin",Jazz-Rock
+2248,Rock,"Rock,Blues",
+2249,Rock,Rock,"Folk Rock,Pop Rock"
+2250,Rock,"Rock,Latin","Pop Rock,Classic Rock,Psychedelic Rock,Symphonic Rock"
+2251,"Folk, World, & Country","Folk, World, & Country",
+2252,"Folk, World, & Country","Folk, World, & Country",Country
+2253,,,
+2254,,,
+2255,,,
+2256,Rock,"Rock,Funk / Soul","Gospel,Pop Rock"
+2257,Rock,"Rock,Latin",Hard Rock
+2258,Latin,Latin,Ska
+2259,Rock,"Rock,Pop","Country Rock,Pop Rock"
+2260,"Folk, World, & Country","Folk, World, & Country","Acoustic,Folk"
+2261,Reggae,Reggae,Roots Reggae
+2262,Rock,"Rock,Folk, World, & Country",Alternative Rock
+2263,Rock,Rock,Alternative Rock
+2264,Electronic,"Electronic,Funk / Soul",Disco
+2265,Rock,Rock,Hard Rock
+2266,,,
+2267,Electronic,"Electronic,Pop","Deep House,Ballad"
+2268,,,
+2269,Rock,Rock,"Country Rock,Pop Rock"
+2270,Electronic,"Electronic,Rock,Pop","New Wave,Synth-pop"
+2271,,,
+2272,,,
+2273,Rock,"Rock,Latin","Punk,Ska,Pachanga"
+2274,Rock,Rock,New Wave
+2275,Rock,Rock,Alternative Rock
+2276,Rock,Rock,"Folk Rock,Acoustic,Grunge,Alternative Rock,Country Rock"
+2277,"Folk, World, & Country","Folk, World, & Country",Country
+2278,Reggae,Reggae,Dancehall
+2279,Rock,Rock,"Art Rock,Pop Rock"
+2280,"Folk, World, & Country","Folk, World, & Country",Country
+2281,Rock,"Rock,Pop,Folk, World, & Country",
+2282,,,
+2283,Rock,"Rock,Latin","Psychedelic Rock,Beat"
+2284,"Folk, World, & Country","Folk, World, & Country",Country
+2285,Electronic,"Electronic,Rock","Alternative Rock,Downtempo"
+2286,Rock,"Rock,Non-Music","Classic Rock,Interview,AOR,Blues Rock,Southern Rock"
+2287,,,
+2288,Rock,Rock,"Blues Rock,Soft Rock"
+2289,Rock,"Rock,Pop,Stage & Screen","Classic Rock,Alternative Rock,Pop Rock"
+2290,Rock,Rock,Brit Pop
+2291,Rock,Rock,"New Wave,Punk,Pop Punk"
+2292,Rock,"Rock,Pop","Alternative Rock,Ska"
+2293,,,
+2294,"Folk, World, & Country","Folk, World, & Country",Country
+2295,Latin,"Latin,Folk, World, & Country",Nueva Cancion
+2296,Electronic,"Electronic,Rock","Pop Rock,Experimental"
+2297,Electronic,"Electronic,Rock",Alternative Rock
+2298,Rock,Rock,Hard Rock
+2300,Rock,"Rock,Pop",Pop Rock
+2301,Rock,"Rock,Blues",Blues Rock
+2302,Funk / Soul,Funk / Soul,"Funk,Disco"
+2303,Jazz,"Jazz,Rock","Fusion,Pop Rock,Latin Jazz"
+2304,Rock,Rock,"Hard Rock,Heavy Metal"
+2305,Rock,"Rock,Pop",
+2306,"Folk, World, & Country","Folk, World, & Country",Country
+2307,"Folk, World, & Country","Folk, World, & Country",Country
+2308,Hip Hop,"Hip Hop,Funk / Soul,Pop","Electro,Funk"
+2309,Rock,Rock,"Soft Rock,Pop Rock"
+2310,Rock,"Rock,Blues","Folk Rock,Rhythm & Blues"
+2311,Rock,Rock,"Alternative Rock,Rock & Roll,Pop Rock"
+2312,Rock,Rock,"Blues Rock,Garage Rock,Rock & Roll"
+2313,Rock,Rock,"Folk Rock,Psychedelic Rock,Indie Rock"
+2314,Electronic,Electronic,"Freestyle,Electro,Disco"
+2315,Rock,Rock,"Alternative Rock,Pop Punk"
+2316,Rock,Rock,"Alternative Rock,Nu Metal"
+2317,Rock,"Rock,Blues,Folk, World, & Country",Country Rock
+2318,Rock,Rock,"Soft Rock,Pop Rock"
+2319,"Folk, World, & Country","Folk, World, & Country",Folk
+2320,Rock,Rock,"Alternative Rock,Hard Rock"
+2321,Rock,"Rock,Pop",Soft Rock
+2322,,,
+2323,Latin,"Latin,Funk / Soul,Blues",
+2324,Rock,"Rock,Latin",Classic Rock
+2325,,,
+2326,Electronic,"Electronic,Hip Hop,Rock,Reggae,Latin","Latin,Hip Hop,Ragga"
+2327,Rock,Rock,"Rock & Roll,Arena Rock"
+2328,Rock,Rock,"Soft Rock,Pop Rock"
+2329,Rock,"Rock,Pop",
+2331,Rock,Rock,"Heavy Metal,Speed Metal"
+2332,,,
+2333,Rock,"Rock,Funk / Soul,Pop",
+2334,Rock,"Rock,Pop","Folk Rock,Classic Rock"
+2335,Rock,Rock,"Alternative Rock,Folk Rock,Punk"
+2336,Rock,"Rock,Folk, World, & Country",Folk Rock
+2337,Rock,Rock,Pop Rock
+2338,"Folk, World, & Country","Folk, World, & Country",Country
+2339,Rock,Rock,Heavy Metal
+2340,Rock,Rock,Alternative Rock
+2341,Pop,"Pop,Folk, World, & Country","Country,Ballad"
+2342,Rock,"Rock,Pop","Country Rock,Indie Rock"
+2343,Electronic,"Electronic,Pop",Synth-pop
+2344,"Folk, World, & Country","Folk, World, & Country",
+2345,Rock,Rock,"Alternative Rock,Indie Rock"
+2346,Rock,Rock,Symphonic Metal
+2347,Rock,Rock,Classic Rock
+2348,Rock,Rock,"Soft Rock,Classic Rock"
+2349,Reggae,"Reggae,Folk, World, & Country",
+2350,Rock,Rock,"Alternative Rock,Brit Pop"
+2351,"Folk, World, & Country","Folk, World, & Country",Country
+2352,,,
+2353,Rock,Rock,"Rock & Roll,Beat,Pop Rock"
+2354,Rock,Rock,"Alternative Rock,New Wave,Folk Rock,Punk"
+2355,Rock,Rock,"Soft Rock,Pop Rock"
+2356,Rock,Rock,"Hard Rock,Heavy Metal"
+2357,Funk / Soul,Funk / Soul,Contemporary R&B
+2358,Pop,Pop,Vocal
+2359,Rock,"Rock,Funk / Soul","Pop Rock,Soul,Funk"
+2360,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+2361,"Folk, World, & Country","Folk, World, & Country",Country
+2362,Electronic,"Electronic,Rock",Alternative Rock
+2363,"Folk, World, & Country","Folk, World, & Country",Country
+2364,Electronic,"Electronic,Pop,Stage & Screen","Soundtrack,Musical,Synth-pop,Disco"
+2365,Rock,"Rock,Pop","Alternative Rock,Pop Rock"
+2366,Rock,"Rock,Reggae,Latin,Folk, World, & Country","Alternative Rock,Pachanga,Rockabilly"
+2367,Rock,Rock,"Alternative Rock,Brit Pop"
+2368,Rock,"Rock,Blues,Pop,Folk, World, & Country","Blues Rock,Acoustic,Folk Rock,Pop Rock"
+2369,Rock,Rock,Alternative Rock
+2370,Rock,Rock,"Classic Rock,Pop Rock,Glam"
+2371,Rock,"Rock,Pop",Pop Rock
+2372,Rock,Rock,"Alternative Rock,Soft Rock"
+2373,Rock,Rock,Folk Rock
+2374,Rock,Rock,Hard Rock
+2375,Rock,Rock,Pop Rock
+2376,"Folk, World, & Country","Folk, World, & Country",Country
+2377,"Folk, World, & Country","Folk, World, & Country",Country
+2378,Rock,Rock,"Blues Rock,Garage Rock,Indie Rock"
+2379,"Folk, World, & Country","Folk, World, & Country",Country
+2380,Rock,"Rock,Latin","Blues Rock,Classic Rock"
+2381,,,
+2382,Funk / Soul,"Funk / Soul,Pop","Swingbeat,Vocal,Disco,Europop,Neo Soul,Ballad"
+2383,Pop,Pop,"Europop,Ballad"
+2384,Latin,"Latin,Folk, World, & Country","Nueva Cancion,Folk"
+2385,"Folk, World, & Country","Folk, World, & Country",
+2386,Electronic,"Electronic,Hip Hop,Pop","Leftfield,Electro,Synth-pop"
+2387,Rock,Rock,"Alternative Rock,Indie Rock"
+2388,"Folk, World, & Country","Folk, World, & Country",Bluegrass
+2389,Rock,Rock,Pop Rock
+2390,Rock,Rock,Punk
+2391,Rock,"Rock,Pop","Alternative Rock,Rock & Roll,Pop Rock"
+2392,Electronic,Electronic,"Downtempo,Abstract,Trip Hop"
+2393,Electronic,"Electronic,Rock","Trip Hop,Downtempo"
+2394,Rock,Rock,Indie Rock
+2395,Rock,"Rock,Blues",Indie Rock
+2396,Rock,"Rock,Pop","Folk Rock,Country Rock,Pop Rock,Vocal,Ballad"
+2397,,,
+2398,,,
+2399,Rock,Rock,Pop Rock
+2400,Electronic,"Electronic,Pop",Synth-pop
+2401,Rock,Rock,
+2402,Hip Hop,Hip Hop,Pop Rap
+2403,Rock,Rock,"Heavy Metal,Speed Metal"
+2404,Rock,Rock,Pop Rock
+2405,Rock,Rock,Folk Rock
+2406,Rock,Rock,"Rock & Roll,Pop Rock"
+2407,Rock,Rock,"Hard Rock,Classic Rock"
+2408,Reggae,Reggae,Ska
+2409,"Folk, World, & Country","Folk, World, & Country",Country
+2410,,,
+2411,Rock,Rock,"Folk Rock,New Wave"
+2412,Rock,Rock,"Folk Rock,Blues Rock,Classic Rock"
+2413,Rock,"Rock,Folk, World, & Country","Folk Rock,Folk"
+2414,,,
+2415,,,
+2416,Rock,"Rock,Latin,Funk / Soul,Pop",Pop Rock
+2417,Rock,Rock,Pop Rock
+2418,,,
+2419,"Folk, World, & Country","Folk, World, & Country",Folk
+2420,"Folk, World, & Country","Folk, World, & Country",Country
+2421,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+2422,Reggae,Reggae,Reggae-Pop
+2423,Electronic,"Electronic,Pop",Synth-pop
+2424,"Folk, World, & Country","Folk, World, & Country",Country
+2425,Pop,"Pop,Folk, World, & Country",Country
+2426,Rock,"Rock,Pop,Folk, World, & Country","Alternative Rock,Acoustic,Bluegrass"
+2427,Rock,Rock,Punk
+2428,Latin,"Latin,Folk, World, & Country","Nueva Trova,Nueva Cancion"
+2429,Rock,Rock,"Alternative Rock,Pop Rock"
+2430,Electronic,"Electronic,Rock,Pop","New Wave,Post-Punk,Synth-pop"
+2431,Rock,"Rock,Pop",Experimental
+2432,Rock,Rock,"Indie Rock,Rock & Roll"
+2433,Jazz,"Jazz,Rock,Latin","Afro-Cuban Jazz,Fusion,Jazz-Funk,Latin Jazz,Jazz-Rock"
+2434,Rock,Rock,Heavy Metal
+2435,Rock,Rock,Alternative Rock
+2436,Rock,"Rock,Pop","Indie Rock,Chanson"
+2437,"Folk, World, & Country","Folk, World, & Country,Stage & Screen","Country,Folk,Soundtrack"
+2438,"Folk, World, & Country","Folk, World, & Country","Country,Bluegrass"
+2439,Rock,Rock,Pop Rock
+2440,Rock,Rock,"Pop Rock,Classic Rock"
+2441,Rock,Rock,
+2442,,,
+2443,Rock,"Rock,Pop",Pop Rock
+2444,"Folk, World, & Country","Folk, World, & Country",Country
+2445,Rock,Rock,"Pop Rock,Indie Rock"
+2446,Rock,Rock,Pop Rock
+2447,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+2448,"Folk, World, & Country","Folk, World, & Country",Country
+2449,Rock,Rock,Punk
+2450,Rock,Rock,Alternative Rock
+2451,Rock,Rock,"Punk,Alternative Rock,Melodic Hardcore"
+2452,Rock,Rock,"Hard Rock,Heavy Metal,Classic Rock"
+2453,Rock,Rock,"Blues Rock,Classic Rock"
+2454,"Folk, World, & Country","Folk, World, & Country",Folk
+2455,Rock,Rock,Rock & Roll
+2456,Rock,Rock,"Alternative Rock,Indie Rock"
+2458,Rock,Rock,"Heavy Metal,Hard Rock"
+2459,Electronic,"Electronic,Funk / Soul","Synth-pop,Soul"
+2460,Rock,Rock,Pop Rock
+2461,"Folk, World, & Country","Folk, World, & Country",Folk
+2462,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+2463,Rock,"Rock,Pop","Shoegaze,Indie Rock"
+2464,Rock,Rock,Brit Pop
+2465,"Folk, World, & Country","Folk, World, & Country",Country
+2466,Rock,Rock,Alternative Rock
+2467,"Folk, World, & Country","Folk, World, & Country",Country
+2468,Rock,"Rock,Blues,Pop","Blues Rock,Acoustic,Pop Rock"
+2469,Electronic,"Electronic,Rock,Pop","Indie Rock,Avantgarde,Art Rock"
+2470,Blues,"Blues,Folk, World, & Country","Country Blues,Folk"
+2471,"Folk, World, & Country","Folk, World, & Country",Folk
+2472,Pop,Pop,
+2473,,,
+2474,"Folk, World, & Country","Folk, World, & Country",Country
+2475,Rock,Rock,Pop Rock
+2476,Electronic,"Electronic,Funk / Soul","Synth-pop,Funk"
+2477,"Folk, World, & Country","Folk, World, & Country",Country
+2478,Rock,"Rock,Funk / Soul","Pop Rock,Synth-pop"
+2479,Electronic,Electronic,"Downtempo,Ambient"
+2480,Rock,Rock,Hard Rock
+2481,Rock,"Rock,Pop","Psychedelic Rock,Pop Rock"
+2482,Rock,Rock,"Psychedelic Rock,Avantgarde,Experimental"
+2483,Pop,Pop,Ballad
+2484,Rock,Rock,Punk
+2485,,,
+2486,"Folk, World, & Country","Folk, World, & Country",Country
+2487,Rock,"Rock,Stage & Screen",Pop Rock
+2488,Rock,Rock,Pop Rock
+2489,Pop,Pop,Synth-pop
+2490,Hip Hop,Hip Hop,Pop Rap
+2491,"Folk, World, & Country","Folk, World, & Country",Folk
+2492,"Folk, World, & Country","Folk, World, & Country",Country
+2493,"Folk, World, & Country","Folk, World, & Country",Country
+2494,Rock,Rock,Pop Rock
+2495,Rock,Rock,Pop Rock
+2496,,,
+2497,"Folk, World, & Country","Folk, World, & Country",Country
+2498,Rock,Rock,"Alternative Rock,Punk"
+2499,"Folk, World, & Country","Folk, World, & Country",Country
+2500,"Folk, World, & Country","Folk, World, & Country",Country
+2501,Rock,Rock,Alternative Rock
+2502,Rock,Rock,"Folk Rock,Acoustic,Soft Rock"
+2503,,,
+2504,Electronic,Electronic,"Electro,Indie Rock"
+2505,Rock,Rock,Alternative Rock
+2506,"Folk, World, & Country","Folk, World, & Country","Country,Folk"
+2507,Rock,"Rock,Funk / Soul","Pop Rock,Funk,Classic Rock"
+2508,Rock,Rock,Pop Rock
+2509,Electronic,Electronic,"New Wave,Synth-pop"
+2510,Rock,"Rock,Pop",
+2511,Rock,"Rock,Pop",Pop Rock
+2512,"Folk, World, & Country","Folk, World, & Country",Country
+2513,"Folk, World, & Country","Folk, World, & Country",Country
+2514,Rock,Rock,Folk Rock
+2515,"Folk, World, & Country","Folk, World, & Country",Country
+2516,Rock,Rock,"Southern Rock,Heavy Metal"
+2517,Latin,"Latin,Pop",
+2518,Jazz,"Jazz,Folk, World, & Country","Easy Listening,Contemporary Jazz,Folk,Soul"
+2519,"Folk, World, & Country","Folk, World, & Country",Country
+2520,Rock,Rock,"Synth-pop,Disco"
+2521,Rock,Rock,Country Rock
+2522,"Folk, World, & Country","Folk, World, & Country",Country
+2523,,,
+2524,Rock,Rock,"Hard Rock,Classic Rock,Rock Opera"
+2525,Rock,"Rock,Pop",Pop Rock
+2526,,,
+2527,"Folk, World, & Country","Folk, World, & Country",Country
+2528,Rock,Rock,"Folk Rock,Country Rock"
+2529,Funk / Soul,"Funk / Soul,Pop","Ballad,Soul,Vocal,Neo Soul,Contemporary R&B"
+2530,Rock,Rock,Pop Rock
+2531,"Folk, World, & Country","Folk, World, & Country",Country
+2532,Rock,Rock,Psychobilly
+2533,Electronic,"Electronic,Rock","Alternative Rock,Garage Rock,Lo-Fi,Art Rock"
+2534,"Folk, World, & Country","Folk, World, & Country","Country,Folk"
+2535,,,
+2536,Rock,"Rock,Pop","Beat,Ska"
+2537,Electronic,"Electronic,Rock,Stage & Screen","Alternative Rock,Soundtrack,Modern Classical,Electro"
+2538,"Folk, World, & Country","Folk, World, & Country",Country
+2539,Rock,Rock,"Jazz-Rock,Fusion"
+2540,Rock,Rock,"Folk Rock,Soft Rock,Jazz-Rock"
+2541,,,
+2542,Rock,Rock,Hard Rock
+2543,Rock,Rock,"Classic Rock,Glam"
+2544,Rock,Rock,"Power Pop,Punk,Alternative Rock"
+2545,"Folk, World, & Country","Folk, World, & Country",Country
+2546,,,
+2547,Jazz,"Jazz,Blues,Folk, World, & Country","Country Blues,Folk"
+2548,,,
+2549,"Folk, World, & Country","Folk, World, & Country",
+2550,Rock,Rock,
+2551,Pop,"Pop,Folk, World, & Country",
+2552,"Folk, World, & Country","Folk, World, & Country",Country
+2553,,,
+2554,Pop,"Pop,Folk, World, & Country",Country
+2555,"Folk, World, & Country","Folk, World, & Country",Country
+2556,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+2557,Jazz,"Jazz,Rock,Pop","Lounge,Pop Rock"
+2558,,,
+2559,,,
+2560,Rock,Rock,"Alternative Rock,Acoustic,Soft Rock,Pop Rock"
+2561,"Folk, World, & Country","Folk, World, & Country",Country
+2562,Rock,Rock,"Alternative Rock,Brit Pop,Indie Rock"
+2563,"Folk, World, & Country","Folk, World, & Country",
+2564,Rock,Rock,Southern Rock
+2565,Rock,Rock,"Alternative Rock,Nu Metal"
+2566,Jazz,"Jazz,Rock,Latin","Psychedelic Rock,Afro-Cuban,Batucada,Fusion,Jazz-Rock"
+2567,Reggae,"Reggae,Pop",Reggae-Pop
+2568,Electronic,Electronic,"Synth-pop,Disco"
+2569,,,
+2570,Electronic,"Electronic,Rock","House,Pop Rock,Synth-pop"
+2571,Rock,Rock,"Power Pop,Alternative Rock"
+2572,,,
+2573,Rock,Rock,Mod
+2574,Hip Hop,Hip Hop,RnB/Swing
+2575,Rock,"Rock,Pop",Pop Rock
+2576,Rock,Rock,Classic Rock
+2577,Rock,Rock,"Alternative Rock,Industrial"
+2578,Electronic,"Electronic,Funk / Soul","Disco,Soul"
+2579,Rock,"Rock,Pop","Country Rock,Soft Rock,Indie Rock"
+2580,Rock,"Rock,Latin,Blues",
+2581,"Folk, World, & Country","Folk, World, & Country",Country
+2582,"Folk, World, & Country","Folk, World, & Country",Country
+2583,,,
+2584,,,
+2585,Electronic,"Electronic,Hip Hop,Pop","Euro House,House,Hip-House,New Beat,Hip Hop,Pop Rap"
+2586,"Folk, World, & Country","Folk, World, & Country",Country
+2587,Rock,Rock,"Alternative Rock,Rock & Roll"
+2588,Pop,Pop,"Synth-pop,Europop,Ballad"
+2589,Electronic,"Electronic,Pop",Techno
+2590,Rock,Rock,Alternative Rock
+2591,,,
+2592,,,
+2593,Pop,Pop,Vocal
+2594,Latin,"Latin,Pop",
+2595,,,
+2596,Rock,"Rock,Pop",Pop Rock
+2597,Rock,Rock,"Rock & Roll,Punk"
+2598,Reggae,"Reggae,Latin,Folk, World, & Country",Pachanga
+2599,Hip Hop,Hip Hop,RnB/Swing
+2600,Electronic,"Electronic,Funk / Soul","Funk,House"
+2601,Rock,Rock,"Alternative Rock,Pop Rock,Ska,Surf"
+2602,Rock,Rock,Indie Rock
+2603,Rock,Rock,Folk Rock
+2604,"Folk, World, & Country","Folk, World, & Country","Country,Bluegrass"
+2605,Rock,"Rock,Pop",Pop Rock
+2606,Electronic,"Electronic,Pop",Synth-pop
+2607,Pop,Pop,
+2608,Pop,Pop,Ska
+2609,Funk / Soul,Funk / Soul,"Soul,Funk,New Jack Swing"
+2610,Electronic,Electronic,"Trip Hop,Downtempo"
+2611,"Folk, World, & Country","Folk, World, & Country",Country
+2612,Rock,"Rock,Funk / Soul,Pop","Rhythm & Blues,Soul,Ballad"
+2613,Electronic,"Electronic,Pop","Synth-pop,Jazz-Funk"
+2614,"Folk, World, & Country","Folk, World, & Country",
+2615,"Folk, World, & Country","Folk, World, & Country",Country
+2616,Rock,Rock,Classic Rock
+2617,,,
+2618,Rock,"Rock,Funk / Soul","Pop Rock,Funk"
+2619,"Folk, World, & Country","Folk, World, & Country",Country
+2620,Electronic,Electronic,"House,Electro"
+2621,"Folk, World, & Country","Folk, World, & Country",Country
+2622,Rock,Rock,Indie Rock
+2623,Rock,"Rock,Latin","Punk,Goth Rock,Post-Punk"
+2624,Rock,"Rock,Pop","Art Rock,Avantgarde,Experimental"
+2625,Electronic,"Electronic,Hip Hop,Pop","RnB/Swing,Pop Rap,Euro House,Ballad"
+2626,Electronic,Electronic,Disco
+2627,Rock,Rock,Alternative Rock
+2628,Electronic,"Electronic,Rock,Pop","Alternative Rock,Pop Rock"
+2630,Rock,Rock,
+2631,,,
+2632,"Folk, World, & Country","Folk, World, & Country",Country
+2633,Rock,"Rock,Pop",Pop Rock
+2634,,,
+2635,Rock,"Rock,Pop",Pop Rock
+2636,Hip Hop,"Hip Hop,Funk / Soul","Pop Rap,Contemporary R&B"
+2637,Funk / Soul,"Funk / Soul,Pop","Dance-pop,Funk,Contemporary R&B"
+2638,Electronic,"Electronic,Latin,Pop",Merengue
+2640,Rock,Rock,
+2641,Rock,Rock,Classic Rock
+2642,Pop,Pop,
+2643,"Folk, World, & Country","Folk, World, & Country",Country
+2644,Rock,"Rock,Blues","Alternative Rock,Garage Rock"
+2645,Rock,"Rock,Pop","Pop Rock,Ska"
+2646,Rock,Rock,"Punk,Classic Rock"
+2647,Hip Hop,"Hip Hop,Funk / Soul,Pop","RnB/Swing,Europop"
+2648,"Folk, World, & Country","Folk, World, & Country",Country
+2649,Rock,"Rock,Latin,Pop",
+2650,Latin,"Latin,Folk, World, & Country",Pachanga
+2651,Rock,Rock,
+2652,Reggae,"Reggae,Latin,Folk, World, & Country","Pachanga,Rumba"
+2653,Rock,"Rock,Pop","Glam,Hard Rock"
+2654,Jazz,Jazz,
+2655,Rock,Rock,Pop Rock
+2656,Rock,"Rock,Latin,Pop",
+2657,Latin,Latin,"Descarga,Guaguancó,Cha-Cha,Son,Mambo,Salsa,Bolero"
+2658,Rock,Rock,"Alternative Rock,Punk"
+2659,Rock,Rock,"Alternative Rock,Indie Rock"
+2660,,,
+2661,Rock,"Rock,Folk, World, & Country","Country,Soft Rock"
+2662,Jazz,"Jazz,Pop","Swing,Ballad,Vocal"
+2663,,,
+2664,Electronic,"Electronic,Hip Hop,Jazz,Reggae,Funk / Soul,Pop","Afrobeat,Soul,Acid Jazz,Deep House,Downtempo"
+2665,Rock,Rock,Folk Rock
+2666,Rock,Rock,Ska
+2667,Rock,Rock,Pop Rock
+2668,Pop,Pop,Synth-pop
+2669,Hip Hop,Hip Hop,
+2670,"Folk, World, & Country","Folk, World, & Country",Country
+2671,Rock,"Rock,Pop,Folk, World, & Country",Parody
+2672,Electronic,"Electronic,Funk / Soul","Synth-pop,Funk"
+2673,Rock,Rock,
+2674,Electronic,"Electronic,Rock,Pop","Downtempo,Pop Rock,Synth-pop"
+2675,Electronic,"Electronic,Rock",Synth-pop
+2676,Pop,Pop,
+2677,Electronic,Electronic,"Industrial,Experimental"
+2678,Electronic,"Electronic,Rock","Folk Rock,Downtempo"
+2679,Rock,"Rock,Pop,Folk, World, & Country","Country Rock,Pop Rock,Ballad"
+2680,Rock,Rock,"Alternative Rock,Indie Rock"
+2681,Electronic,"Electronic,Non-Music","Spoken Word,Experimental"
+2682,,,
+2683,"Folk, World, & Country","Folk, World, & Country",Country
+2684,"Folk, World, & Country","Folk, World, & Country",Country
+2685,Electronic,"Electronic,Hip Hop","Freestyle,House,Latin"
+2686,Rock,"Rock,Reggae","Ska,Punk"
+2687,Rock,"Rock,Reggae",Reggae
+2688,"Folk, World, & Country","Folk, World, & Country",Country
+2689,Pop,Pop,Europop
+2690,"Folk, World, & Country","Folk, World, & Country",Country
+2691,Rock,Rock,"Alternative Rock,New Wave"
+2692,Electronic,"Electronic,Rock",Pop Rock
+2693,Rock,"Rock,Pop",Pop Rock
+2694,Electronic,"Electronic,Rock","Alternative Rock,Electro,Pop Rock"
+2695,Rock,"Rock,Pop","Pop Rock,Soft Rock"
+2696,Rock,Rock,New Wave
+2697,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+2698,Rock,Rock,Pop Rock
+2699,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+2700,Rock,Rock,"Alternative Rock,Pop Rock,Arena Rock"
+2701,Rock,Rock,Pop Rock
+2702,Rock,Rock,"Pop Rock,Alternative Rock"
+2703,Rock,"Rock,Pop",Pop Rock
+2704,Rock,Rock,Alternative Rock
+2705,Electronic,"Electronic,Rock","Alternative Rock,Hardcore"
+2706,Rock,Rock,"Classic Rock,Hard Rock"
+2708,Rock,"Rock,Latin,Pop","Pop Rock,Ballad"
+2709,Rock,"Rock,Pop",Pop Punk
+2710,Rock,Rock,Psychedelic Rock
+2711,Jazz,"Jazz,Pop","Swing,Ballad,Vocal"
+2712,Electronic,"Electronic,Pop",Synth-pop
+2713,Electronic,"Electronic,Hip Hop","Acid Jazz,Downtempo"
+2714,Rock,Rock,"Rock & Roll,Southern Rock,Country Rock"
+2715,Rock,"Rock,Pop",Pop Rock
+2716,Rock,"Rock,Folk, World, & Country",Country
+2717,Rock,Rock,Rock & Roll
+2718,Rock,Rock,"Alternative Rock,Stoner Rock,Space Rock"
+2719,,,
+2720,Rock,"Rock,Latin","Acoustic,Soft Rock,Latin,Pop Rock"
+2721,Electronic,Electronic,Euro House
+2722,Electronic,Electronic,House
+2723,Rock,Rock,AOR
+2724,Rock,Rock,"Classic Rock,Hard Rock"
+2725,Rock,"Rock,Pop",Rock & Roll
+2726,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+2728,Electronic,"Electronic,Pop","Europop,Synth-pop"
+2729,,,
+2730,"Folk, World, & Country","Folk, World, & Country",Country
+2731,Rock,"Rock,Blues","Psychedelic Rock,Blues Rock"
+2732,Jazz,Jazz,"Bop,Big Band"
+2733,Rock,"Rock,Pop","Alternative Rock,Indie Rock"
+2734,Funk / Soul,Funk / Soul,Soul
+2735,,,
+2736,,,
+2737,"Folk, World, & Country","Folk, World, & Country",Country
+2738,Rock,Rock,Classic Rock
+2739,Hip Hop,Hip Hop,
+2740,Rock,Rock,Pop Rock
+2741,Electronic,"Electronic,Pop",Synth-pop
+2742,Rock,"Rock,Blues,Non-Music","Blues Rock,Avantgarde,Experimental,Spoken Word,Field Recording"
+2743,Rock,Rock,Alternative Rock
+2744,"Folk, World, & Country","Folk, World, & Country",Country
+2745,Rock,"Rock,Pop",
+2746,Rock,"Rock,Pop",Pop Rock
+2747,Rock,Rock,"Blues Rock,Acid Rock,Psychedelic Rock,Hard Rock,Classic Rock,Heavy Metal"
+2748,Jazz,"Jazz,Pop,Stage & Screen",Vocal
+2749,Rock,"Rock,Pop","Rock & Roll,Ballad"
+2750,Jazz,Jazz,"Big Band,Swing"
+2751,Latin,"Latin,Pop,Children's,Stage & Screen",Musical
+2752,Rock,"Rock,Folk, World, & Country",
+2753,Electronic,"Electronic,Rock","Alternative Rock,IDM,Downtempo,Experimental"
+2754,Funk / Soul,Funk / Soul,"Rhythm & Blues,Soul"
+2755,Rock,Rock,"Psychedelic Rock,Pop Rock"
+2756,,,
+2757,Pop,"Pop,Folk, World, & Country",
+2758,Rock,Rock,"Hard Rock,Heavy Metal,Rock & Roll"
+2760,Rock,Rock,"Heavy Metal,Hard Rock"
+2761,Electronic,"Electronic,Hip Hop,Pop","RnB/Swing,Europop,Synth-pop"
+2762,Hip Hop,Hip Hop,
+2763,Electronic,Electronic,"House,Electro,Disco"
+2764,,,
+2765,Rock,Rock,Garage Rock
+2766,"Folk, World, & Country","Folk, World, & Country",Country
+2767,Rock,Rock,"Folk Rock,Pop Rock"
+2768,,,
+2769,Jazz,"Jazz,Pop",
+2770,Jazz,Jazz,Soul-Jazz
+2771,Electronic,"Electronic,Pop","Synth-pop,Ballad"
+2772,Electronic,Electronic,"House,Synth-pop"
+2773,Electronic,"Electronic,Pop","House,Ballad"
+2774,Funk / Soul,"Funk / Soul,Pop","Europop,Ballad,Contemporary R&B"
+2775,Rock,Rock,"Psychedelic Rock,Folk Rock,Country Rock,Pop Rock"
+2776,"Folk, World, & Country","Folk, World, & Country",Country
+2777,"Folk, World, & Country","Folk, World, & Country",Country
+2778,,,
+2779,Electronic,"Electronic,Pop",Synth-pop
+2780,Latin,"Latin,Pop,Folk, World, & Country","Flamenco,Ballad"
+2781,Latin,"Latin,Pop",Flamenco
+2782,"Folk, World, & Country","Folk, World, & Country",Flamenco
+2783,Latin,"Latin,Pop","Flamenco,Rumba"
+2784,Funk / Soul,"Funk / Soul,Pop","Contemporary R&B,Ballad"
+2785,Rock,"Rock,Latin,Pop","Flamenco,Glam,Prog Rock"
+2786,Rock,Rock,"Acoustic,Alternative Rock"
+2787,Funk / Soul,Funk / Soul,Contemporary R&B
+2788,Funk / Soul,"Funk / Soul,Pop",Rhythm & Blues
+2789,Funk / Soul,Funk / Soul,"Rhythm & Blues,Soul"
+2790,Rock,Rock,Psychedelic Rock
+2791,Rock,Rock,"Psychedelic Rock,Classic Rock"
+2792,Rock,"Rock,Pop,Folk, World, & Country","Soft Rock,Acoustic"
+2794,"Folk, World, & Country","Folk, World, & Country",
+2795,Rock,"Rock,Latin",Pop Rock
+2796,Electronic,"Electronic,Rock,Pop","Soft Rock,Synth-pop"
+2797,,,
+2798,Rock,"Rock,Latin","Pop Rock,Psychedelic Rock"
+2799,Rock,Rock,"Folk Rock,Pop Rock"
+2800,Latin,Latin,Ska
+2801,"Folk, World, & Country","Folk, World, & Country",Country
+2802,Rock,"Rock,Blues","Blues Rock,Electric Blues,Chicago Blues,Harmonica Blues"
+2803,Pop,"Pop,Folk, World, & Country",Country
+2804,Rock,Rock,Hard Rock
+2805,Funk / Soul,"Funk / Soul,Pop","Vocal,Contemporary R&B"
+2806,"Folk, World, & Country","Folk, World, & Country",Country
+2807,Jazz,"Jazz,Funk / Soul,Blues",
+2808,,,
+2809,Pop,Pop,Chanson
+2810,Rock,"Rock,Pop","Country Rock,Vocal"
+2811,Electronic,"Electronic,Rock,Pop","Synth-pop,Glam,Punk"
+2812,Electronic,"Electronic,Pop",Synth-pop
+2813,Rock,Rock,Pop Rock
+2814,Rock,Rock,Soft Rock
+2815,Rock,Rock,
+2816,Rock,Rock,"Alternative Rock,Hard Rock"
+2817,Electronic,"Electronic,Pop","Synth-pop,Vocal"
+2818,"Folk, World, & Country","Folk, World, & Country",Country
+2819,Rock,Rock,"Alternative Rock,Experimental"
+2821,Rock,Rock,
+2822,Rock,Rock,Pop Rock
+2823,Rock,"Rock,Blues","Blues Rock,Rock & Roll,Southern Rock,Classic Rock"
+2824,Electronic,"Electronic,Pop",Synth-pop
+2825,Rock,Rock,Indie Rock
+2826,Rock,Rock,Power Pop
+2827,Rock,"Rock,Pop,Folk, World, & Country",Folk
+2828,Funk / Soul,Funk / Soul,"Rhythm & Blues,Soul"
+2829,Rock,Rock,"Alternative Rock,Indie Rock"
+2830,,,
+2831,"Folk, World, & Country","Folk, World, & Country",Country
+2832,Jazz,Jazz,Cool Jazz
+2833,Rock,Rock,Psychedelic Rock
+2834,,,
+2835,"Folk, World, & Country","Folk, World, & Country",Country
+2836,Pop,"Pop,Folk, World, & Country","Country,Vocal"
+2837,"Folk, World, & Country","Folk, World, & Country",
+2838,Jazz,"Jazz,Rock","Classic Rock,Folk Rock,Acoustic"
+2839,Funk / Soul,"Funk / Soul,Pop",Disco
+2840,Rock,Rock,"Hard Rock,Classic Rock"
+2841,,,
+2842,Rock,"Rock,Pop",Pop Rock
+2843,Rock,Rock,Classic Rock
+2844,Pop,Pop,
+2845,"Folk, World, & Country","Folk, World, & Country",Honky Tonk
+2846,,,
+2847,Rock,Rock,Alternative Rock
+2848,Rock,"Rock,Pop,Folk, World, & Country","Alternative Rock,Indie Rock"
+2849,Rock,Rock,
+2850,Jazz,Jazz,
+2851,Rock,Rock,Folk Rock
+2852,,,
+2853,Rock,Rock,Power Pop
+2854,Electronic,"Electronic,Stage & Screen","Soundtrack,Modern Classical,Score,Ambient"
+2855,Rock,Rock,Folk Rock
+2856,Hip Hop,"Hip Hop,Rock","Conscious,Cut-up/DJ,Hardcore,Jazz-Funk"
+2857,Electronic,"Electronic,Rock,Pop","Electro,Synth-pop,Indie Rock"
+2858,Electronic,"Electronic,Funk / Soul",Disco
+2859,Rock,Rock,"Psychedelic Rock,Pop Rock"
+2860,Rock,"Rock,Pop","Rock & Roll,Pop Rock"
+2861,Rock,Rock,Prog Rock
+2862,Funk / Soul,"Funk / Soul,Folk, World, & Country","Rhythm & Blues,Country"
+2863,Rock,Rock,"Alternative Rock,Funk Metal"
+2864,Rock,Rock,
+2865,Rock,Rock,"Psychedelic Rock,Blues Rock,Acid Rock"
+2866,Rock,Rock,"Folk Rock,Country Rock"
+2867,Rock,Rock,Alternative Rock
+2868,"Folk, World, & Country","Folk, World, & Country",Country
+2869,Rock,Rock,"Folk Rock,Country Rock,Classic Rock"
+2870,Jazz,"Jazz,Latin,Pop","Fusion,Pop Rock,Latin Jazz"
+2871,"Folk, World, & Country","Folk, World, & Country",Country
+2872,Rock,Rock,"Folk Rock,Classic Rock"
+2873,Electronic,"Electronic,Rock","Blues Rock,House,Latin,Pop Rock"
+2874,Rock,Rock,
+2875,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+2877,Jazz,Jazz,Swing
+2878,"Folk, World, & Country","Folk, World, & Country",Country
+2879,"Folk, World, & Country","Folk, World, & Country",Country
+2880,Rock,Rock,"Acoustic,Parody,Heavy Metal"
+2881,Electronic,"Electronic,Hip Hop,Rock",Alternative Rock
+2882,Rock,"Rock,Non-Music","Hard Rock,Dialogue"
+2883,,,
+2884,Jazz,"Jazz,Rock,Folk, World, & Country","Gypsy Jazz,Bossa Nova,Flamenco,Southern Rock,Country,Folk"
+2885,Jazz,"Jazz,Pop","Soul-Jazz,Ballad,Easy Listening"
+2886,Rock,"Rock,Funk / Soul","Alternative Rock,Funk Metal,P.Funk"
+2887,Rock,Rock,
+2888,,,
+2889,Rock,Rock,"Alternative Rock,Art Rock,Prog Rock,Symphonic Rock,Space Rock"
+2890,,,
+2892,Rock,"Rock,Pop","Alternative Rock,Pop Rock"
+2893,,,
+2894,Rock,Rock,"Industrial,Hard Rock"
+2895,Electronic,Electronic,"Electro,Synth-pop,Disco"
+2896,Electronic,"Electronic,Pop",Europop
+2898,Rock,"Rock,Pop,Folk, World, & Country","Country,Country Rock"
+2899,Rock,"Rock,Latin","Acoustic,Soft Rock,Latin,Pop Rock"
+2900,Latin,"Latin,Pop","Ballad,Vocal"
+2901,Funk / Soul,Funk / Soul,Disco
+2902,Jazz,"Jazz,Funk / Soul,Blues","Soul-Jazz,Rhythm & Blues,Vocal"
+2903,Rock,"Rock,Pop","Folk Rock,Garage Rock,Punk,Ballad"
+2904,Pop,"Pop,Folk, World, & Country","Vocal,Erotic"
+2905,Blues,"Blues,Pop","Rhythm & Blues,Vocal"
+2906,,,
+2907,Rock,Rock,Alternative Rock
+2909,Latin,"Latin,Folk, World, & Country","Pasodoble,Flamenco"
+2910,Rock,"Rock,Funk / Soul","Classic Rock,Soul,Funk,Art Rock"
+2911,Electronic,"Electronic,Rock,Pop","Alternative Rock,New Wave,Shoegaze,Synth-pop"
+2912,Electronic,Electronic,Euro House
+2913,Rock,Rock,Soft Rock
+2914,Rock,Rock,Alternative Rock
+2915,Funk / Soul,Funk / Soul,"Soul,Funk"
+2916,Rock,Rock,Psychedelic Rock
+2917,Electronic,"Electronic,Rock",Alternative Rock
+2918,Rock,Rock,Avantgarde
+2919,,,
+2920,,,
+2921,Rock,Rock,"Alternative Rock,Pop Rock"
+2922,Latin,"Latin,Pop,Folk, World, & Country",Vocal
+2923,Pop,"Pop,Folk, World, & Country","Ballad,Country"
+2924,Rock,Rock,"Alternative Rock,Pop Rock"
+2925,"Folk, World, & Country","Folk, World, & Country",Country
+2926,"Folk, World, & Country","Folk, World, & Country",Country
+2927,Pop,Pop,
+2928,Rock,Rock,"Blues Rock,Classic Rock"
+2929,Rock,Rock,"Art Rock,Garage Rock,Avantgarde"
+2930,Pop,Pop,Vocal
+2931,Rock,Rock,Blues Rock
+2932,Electronic,"Electronic,Rock","Hip Hop,Nu Metal"
+2933,Rock,"Rock,Pop",Pop Rock
+2934,Electronic,Electronic,Downtempo
+2935,Pop,"Pop,Folk, World, & Country","Folk,Indie Pop"
+2936,Rock,Rock,"Psychedelic Rock,Folk Rock"
+2937,Rock,Rock,"Blues Rock,Classic Rock"
+2938,Jazz,Jazz,Afro-Cuban Jazz
+2939,Rock,Rock,Heavy Metal
+2940,Funk / Soul,"Funk / Soul,Pop","Soul,Vocal"
+2941,Rock,Rock,"Alternative Rock,Pop Rock"
+2942,Rock,"Rock,Pop","Synth-pop,Pop Rock"
+2943,Electronic,"Electronic,Funk / Soul","Synth-pop,Funk"
+2944,Electronic,"Electronic,Rock","Alternative Rock,New Wave,Synth-pop"
+2945,Latin,"Latin,Pop","Ballad,Vocal"
+2946,Rock,Rock,Psychedelic Rock
+2947,"Folk, World, & Country","Folk, World, & Country",Country
+2948,Electronic,"Electronic,Latin,Pop",Synth-pop
+2949,Rock,Rock,Folk Rock
+2950,Rock,Rock,Glam
+2951,Rock,Rock,"Indie Rock,Alternative Rock"
+2952,Rock,Rock,"Hard Rock,Classic Rock,Blues Rock"
+2953,Stage & Screen,Stage & Screen,Score
+2954,Rock,Rock,"New Wave,Pop Rock"
+2955,Latin,"Latin,Pop,Folk, World, & Country","Flamenco,Europop"
+2956,Pop,"Pop,Folk, World, & Country",Vocal
+2957,Latin,Latin,"Flamenco,Rumba"
+2958,Rock,Rock,"Soft Rock,Pop Rock"
+2959,Electronic,"Electronic,Hip Hop,Funk / Soul,Pop","House,Soul,Disco,RnB/Swing,Downtempo,Synth-pop,Ballad"
+2960,Funk / Soul,Funk / Soul,"Disco,Contemporary R&B"
+2961,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+2962,Electronic,Electronic,"Downtempo,Synth-pop"
+2963,,,
+2965,Electronic,Electronic,Downtempo
+2966,Rock,Rock,Pop Rock
+2967,Rock,"Rock,Reggae",Alternative Rock
+2968,Pop,Pop,
+2970,Electronic,Electronic,Italo-Disco
+2971,Electronic,"Electronic,Pop","House,UK Garage,Synth-pop"
+2972,Rock,Rock,Indie Rock
+2973,Rock,Rock,"New Wave,Rock & Roll"
+2974,Rock,"Rock,Latin,Pop",MPB
+2975,Rock,Rock,"Pop Rock,Arena Rock,Classic Rock"
+2976,,,
+2977,Rock,"Rock,Pop","New Wave,Power Pop,Pop Rock,Pub Rock"
+2978,Pop,Pop,"Disco,Schlager"
+2979,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+2980,Rock,"Rock,Pop","Power Pop,Pop Rock"
+2981,Pop,"Pop,Folk, World, & Country",Flamenco
+2982,Rock,Rock,Alternative Rock
+2983,Rock,Rock,Indie Rock
+2984,Rock,Rock,
+2985,Rock,Rock,"Folk Rock,Pop Rock,Classic Rock"
+2986,Rock,Rock,Pop Rock
+2987,Rock,Rock,Acoustic
+2988,Rock,Rock,Pop Rock
+2989,Rock,Rock,Pop Rock
+2990,Rock,Rock,"Folk Rock,Classic Rock"
+2991,Rock,Rock,"Alternative Rock,Indie Rock"
+2992,Rock,"Rock,Pop",Pop Rock
+2993,Rock,"Rock,Pop","Soft Rock,Disco"
+2994,,,
+2995,Jazz,Jazz,Big Band
+2996,"Folk, World, & Country","Folk, World, & Country",Country
+2997,Hip Hop,Hip Hop,
+2998,Electronic,"Electronic,Jazz,Funk / Soul","Disco,Synth-pop,Funk,Jazzdance"
+2999,Rock,Rock,"Soft Rock,Pop Rock"
+3000,Rock,Rock,"Art Rock,Post-Punk,Indie Rock,Avantgarde"
+3001,Rock,"Rock,Folk, World, & Country",Country
+3002,Rock,Rock,"Folk Rock,Psychedelic Rock"
+3003,Rock,Rock,"Pop Rock,Classic Rock"
+3004,Pop,Pop,
+3005,Jazz,"Jazz,Rock,Funk / Soul,Blues","Blues Rock,Fusion,Funk"
+3006,Rock,Rock,Pop Rock
+3007,,,
+3008,Rock,Rock,"Garage Rock,Lo-Fi"
+3009,Rock,Rock,Heavy Metal
+3010,Electronic,Electronic,Hip Hop
+3011,Rock,"Rock,Pop",Alternative Rock
+3012,Rock,Rock,Alternative Rock
+3013,Rock,"Rock,Pop","Pop Rock,Indie Rock"
+3014,Rock,Rock,"Alternative Rock,Indie Rock"
+3015,Electronic,"Electronic,Rock",Synth-pop
+3016,Rock,"Rock,Pop",Pop Rock
+3017,Electronic,"Electronic,Pop",House
+3018,Pop,Pop,
+3019,Electronic,"Electronic,Latin,Pop","Europop,Vocal"
+3020,Electronic,"Electronic,Rock","Punk,Techno,Electro"
+3022,Electronic,Electronic,Electroclash
+3023,,,
+3024,Jazz,Jazz,"Bop,Hard Bop"
+3025,Funk / Soul,"Funk / Soul,Pop,Classical",Ballad
+3026,Electronic,"Electronic,Funk / Soul,Pop","House,Soul,Funk,Disco"
+3028,,,
+3029,Rock,"Rock,Pop","Chanson,Pop Rock,Garage Rock"
+3030,Rock,"Rock,Pop",Pop Rock
+3031,Pop,Pop,
+3032,Rock,"Rock,Classical",Heavy Metal
+3033,,,
+3034,,,
+3035,Hip Hop,Hip Hop,
+3036,Electronic,"Electronic,Rock,Funk / Soul,Pop","House,Pop Rock,Funk"
+3037,Electronic,"Electronic,Hip Hop,Pop","Pop Rap,Electro"
+3038,Electronic,"Electronic,Rock","Alternative Rock,Indie Rock"
+3039,Electronic,"Electronic,Pop","Downtempo,Trip Hop"
+3040,Hip Hop,Hip Hop,
+3041,"Folk, World, & Country","Folk, World, & Country",Country
+3042,Latin,"Latin,Pop",Flamenco
+3043,Rock,Rock,Rock & Roll
+3044,Rock,Rock,Rock & Roll
+3045,Electronic,"Electronic,Rock",Alternative Rock
+3046,Rock,"Rock,Pop",
+3047,Rock,Rock,"Alternative Rock,Hard Rock"
+3048,Rock,Rock,"Hard Rock,Blues Rock"
+3049,Rock,Rock,"Hard Rock,Blues Rock"
+3050,Electronic,"Electronic,Rock","New Wave,Alternative Rock"
+3051,Electronic,Electronic,"Acid House,Techno"
+3052,Rock,Rock,"Alternative Rock,Grunge"
+3053,Rock,"Rock,Reggae","Pop Rock,Reggae-Pop"
+3054,Electronic,Electronic,"House,Downtempo"
+3055,Electronic,Electronic,Dub
+3056,Jazz,"Jazz,Rock,Pop","Experimental,Ballad,Post Rock"
+3057,Rock,Rock,"Alternative Rock,Noise,Indie Rock,Experimental"
+3058,Rock,Rock,Alternative Rock
+3059,Rock,Rock,Alternative Rock
+3060,Rock,Rock,
+3061,Rock,Rock,Indie Rock
+3062,Rock,Rock,"Alternative Rock,Pop Rock,Indie Rock"
+3063,Electronic,Electronic,Ambient
+3064,Hip Hop,Hip Hop,
+3065,Rock,Rock,"Pop Rock,Indie Rock"
+3066,Rock,Rock,Alternative Rock
+3067,Rock,Rock,Indie Rock
+3068,Rock,"Rock,Blues","Experimental,Blues Rock"
+3069,,,
+3070,Hip Hop,Hip Hop,
+3071,"Folk, World, & Country","Folk, World, & Country",Country
+3072,Hip Hop,Hip Hop,"G-Funk,Gangsta"
+3073,Hip Hop,"Hip Hop,Rock,Non-Music","Gangsta,Hardcore Hip-Hop,Conscious,Boom Bap,Speech"
+3074,Rock,Rock,"Rock & Roll,Classic Rock"
+3075,Rock,Rock,Garage Rock
+3076,Hip Hop,Hip Hop,Contemporary R&B
+3077,Rock,Rock,"Folk Rock,Blues Rock,Prog Rock"
+3078,,,
+3079,Rock,Rock,"Folk Rock,Country Rock,Alternative Rock,Acoustic"
+3080,Hip Hop,"Hip Hop,Rock",Nu Metal
+3081,error,'results',error
+3082,Funk / Soul,"Funk / Soul,Pop","Disco,Soul,Ballad"
+3083,Rock,Rock,"Blues Rock,Pop Rock"
+3084,Rock,Rock,Death Metal
+3085,,,
+3086,,,
+3087,Hip Hop,Hip Hop,
+3088,Electronic,"Electronic,Pop",Synth-pop
+3089,Rock,Rock,"Ska,Punk"
+3090,Rock,Rock,Alternative Rock
+3091,Rock,Rock,New Wave
+3092,Rock,Rock,Ska
+3093,Rock,Rock,Pop Rock
+3094,Rock,Rock,Heavy Metal
+3095,Rock,Rock,Doo Wop
+3096,Electronic,"Electronic,Rock",Latin
+3097,,,
+3098,Funk / Soul,"Funk / Soul,Pop",
+3099,Hip Hop,"Hip Hop,Latin","RnB/Swing,Afro-Cuban,Pop Rap,Conscious"
+3100,Funk / Soul,Funk / Soul,"Rhythm & Blues,Soul"
+3101,"Folk, World, & Country","Folk, World, & Country","Folk,Country"
+3102,Rock,Rock,Glam
+3103,Funk / Soul,Funk / Soul,"Gospel,Soul,Funk"
+3104,Rock,Rock,"Alternative Rock,Indie Rock"
+3105,Electronic,"Electronic,Rock,Pop",Pop Rock
+3106,Rock,Rock,"New Wave,Pop Rock"
+3107,Rock,Rock,"Lo-Fi,Indie Rock"
+3108,Electronic,Electronic,"RnB/Swing,Downtempo,Euro House"
+3109,Funk / Soul,"Funk / Soul,Pop","Synth-pop,Rhythm & Blues"
+3110,Rock,Rock,Hard Rock
+3111,Rock,Rock,Indie Rock
+3112,Electronic,Electronic,"Abstract,UK Garage,Dubstep,Ambient,Bass Music"
+3113,Funk / Soul,"Funk / Soul,Pop","Rhythm & Blues,Soul,Funk"
+3114,Rock,"Rock,Pop",Pop Rock
+3116,Electronic,Electronic,"Techno,Electro,Synth-pop"
+3117,Rock,Rock,"Punk,Hardcore,Post Rock,Indie Rock"
+3118,Rock,Rock,"Hard Rock,Prog Rock"
+3119,Electronic,"Electronic,Pop","Dance-pop,Europop,Electro House,Electro,Techno,Ballad"
+3120,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+3121,Rock,"Rock,Pop","Dream Pop,Trip Hop,Ballad"
+3122,Pop,Pop,
+3123,Electronic,Electronic,"Leftfield,Dub,Synth-pop"
+3124,"Folk, World, & Country","Folk, World, & Country","Country,Honky Tonk"
+3125,Rock,Rock,"Garage Rock,Pop Rock,Indie Rock"
+3126,Rock,Rock,"Punk,Hard Rock,Experimental,Garage Rock"
+3127,Pop,Pop,Pop Rock
+3128,Electronic,Electronic,"IDM,Synth-pop"
+3129,Electronic,"Electronic,Pop","Downtempo,Experimental"
+3130,Jazz,Jazz,Swing
+3131,Pop,Pop,
+3132,Rock,Rock,"Alternative Rock,Rock & Roll"
+3133,Rock,Rock,Art Rock
+3134,"Folk, World, & Country","Folk, World, & Country","Indian Classical,Hindustani"
+3135,,,
+3136,Rock,Rock,"Punk,Indie Rock"
+3137,Rock,"Rock,Reggae",Ska
+3138,"Folk, World, & Country","Folk, World, & Country",Folk
+3139,Rock,Rock,"Folk Rock,Pop Rock"
+3140,Pop,"Pop,Folk, World, & Country","Country,Bluegrass"
+3141,Rock,Rock,Garage Rock
+3142,Rock,Rock,"Garage Rock,Punk"
+3143,Electronic,Electronic,"Downtempo,Drum n Bass"
+3144,Rock,Rock,"Garage Rock,Punk"
+3145,Funk / Soul,Funk / Soul,Neo Soul
+3146,Rock,Rock,"Garage Rock,Avantgarde,Rock & Roll"
+3147,Rock,Rock,
+3148,Rock,Rock,"Oi,Punk,Ska"
+3149,Rock,"Rock,Reggae,Folk, World, & Country","Reggae,Ska,Oi"
+3150,Rock,Rock,"Alternative Rock,Soft Rock"
+3151,Pop,Pop,Novelty
+3152,Rock,Rock,Alternative Rock
+3153,Electronic,"Electronic,Rock,Pop","Pop Rock,Soft Rock,Ballad,House,Progressive House"
+3154,Rock,Rock,Pop Rock
+3155,Rock,Rock,Alternative Rock
+3156,Latin,Latin,
+3157,,,
+3158,Rock,"Rock,Folk, World, & Country",Folk Rock
+3159,Hip Hop,"Hip Hop,Funk / Soul","RnB/Swing,Neo Soul"
+3160,Hip Hop,"Hip Hop,Funk / Soul","Pop Rap,Conscious,Contemporary R&B"
+3161,Hip Hop,"Hip Hop,Pop",Pop Rap
+3162,Rock,Rock,Alternative Rock
+3163,Rock,Rock,Hard Rock
+3164,Rock,"Rock,Funk / Soul","Rock & Roll,Doo Wop,Rhythm & Blues"
+3165,,,
+3166,,,
+3167,,,
+3168,Hip Hop,Hip Hop,RnB/Swing
+3169,Electronic,"Electronic,Pop",Vocal
+3170,Latin,"Latin,Funk / Soul,Pop",
+3171,Funk / Soul,"Funk / Soul,Pop","Contemporary R&B,Neo Soul,Ballad"
+3172,Rock,Rock,"Alternative Rock,Folk Rock"
+3173,,,
+3174,Rock,Rock,"Folk Rock,Acoustic"
+3175,Rock,Rock,"Folk Rock,Country Rock,Alternative Rock,Blues Rock"
+3176,,,
+3177,Electronic,"Electronic,Rock,Reggae,Latin","Samba,Ska,Bossanova,Electro,Cumbia"
+3178,Rock,"Rock,Pop","Rock & Roll,Shoegaze,Indie Rock,Pop Rock"
+3179,Rock,Rock,Hard Rock
+3180,Rock,Rock,Gothic Metal
+3181,Rock,Rock,Black Metal
+3182,Rock,Rock,Indie Rock
+3183,Electronic,"Electronic,Rock","Post Rock,Ambient"
+3184,Pop,Pop,
+3185,Rock,Rock,Alternative Rock
+3186,Rock,Rock,"Alternative Rock,Rock & Roll,Goth Rock"
+3187,Rock,Rock,"Blues Rock,Pop Rock"
+3188,Rock,Rock,"Symphonic Rock,Hard Rock,Prog Rock,Heavy Metal"
+3189,Rock,"Rock,Pop","Hard Rock,Pop Rock,Heavy Metal"
+3190,Electronic,Electronic,Synth-pop
+3191,Rock,Rock,Hard Rock
+3192,Rock,Rock,Hard Rock
+3193,Rock,Rock,Classic Rock
+3194,Electronic,Electronic,Synth-pop
+3195,Rock,Rock,"Hard Rock,Grunge"
+3196,Rock,Rock,Grunge
+3197,Rock,Rock,"Alternative Rock,Grunge"
+3198,Rock,Rock,"Alternative Rock,Grunge,Heavy Metal"
+3199,Rock,Rock,"Hard Rock,Grunge"
+3200,Rock,"Rock,Pop","Rock & Roll,Pop Rock,Garage Rock"
+3201,Electronic,Electronic,"Synth-pop,Experimental,Disco"
+3202,Rock,Rock,"Punk,Pop Rock,Ska"
+3203,,,
+3204,Rock,Rock,
+3205,Hip Hop,Hip Hop,
+3206,Pop,Pop,Synth-pop
+3207,Hip Hop,Hip Hop,
+3208,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+3209,Electronic,"Electronic,Pop","Euro House,Vocal"
+3210,Rock,Rock,Hard Rock
+3211,Rock,Rock,"Rock & Roll,Art Rock"
+3212,Hip Hop,Hip Hop,
+3213,Electronic,Electronic,"Synth-pop,Disco"
+3214,Hip Hop,"Hip Hop,Latin","RnB/Swing,Pop Rap,Conscious"
+3215,Funk / Soul,"Funk / Soul,Pop,Stage & Screen","Soundtrack,Gospel,Soul,Ballad,Contemporary R&B"
+3216,Jazz,"Jazz,Funk / Soul,Pop,Classical,Folk, World, & Country",Vocal
+3217,Pop,Pop,
+3218,Classical,Classical,Modern
+3219,Electronic,Electronic,Euro House
+3220,Electronic,"Electronic,Rock","New Wave,Post-Punk"
+3221,Electronic,Electronic,"Downtempo,Trip Hop"
+3222,Rock,Rock,"Heavy Metal,Thrash,Stoner Rock"
+3223,Hip Hop,"Hip Hop,Funk / Soul","RnB/Swing,Pop Rap,Soul"
+3224,Rock,"Rock,Latin,Children's,Folk, World, & Country",Folk
+3225,,,
+3226,Latin,"Latin,Pop",Ballad
+3227,Pop,Pop,Ballad
+3228,Funk / Soul,Funk / Soul,"Rhythm & Blues,Soul"
+3229,Electronic,Electronic,"Breakbeat,Big Beat"
+3230,"Folk, World, & Country","Folk, World, & Country",Pacific
+3231,Rock,Rock,"Alternative Rock,Hard Rock"
+3232,Rock,"Rock,Pop",
+3233,Electronic,Electronic,"Downtempo,Synth-pop"
+3234,Rock,Rock,"Psychedelic Rock,Prog Rock"
+3235,Electronic,"Electronic,Latin,Pop","Electro,Pop Rock"
+3236,Hip Hop,Hip Hop,
+3237,,,
+3238,Rock,Rock,"Punk,New Wave"
+3239,Funk / Soul,Funk / Soul,Afrobeat
+3240,Rock,Rock,"Folk Rock,Heavy Metal"
+3241,Rock,Rock,"Thrash,Hardcore,Nu Metal"
+3242,Rock,"Rock,Pop",Indie Rock
+3243,Rock,Rock,Rock & Roll
+3244,Rock,"Rock,Pop,Folk, World, & Country","Pop Rock,Country Rock"
+3245,,,
+3246,Rock,Rock,Pop Rock
+3247,Rock,Rock,Hard Rock
+3248,Rock,Rock,"Indie Rock,Alternative Rock"
+3249,,,
+3250,Rock,Rock,"Heavy Metal,Folk Metal,Power Metal"
+3251,Jazz,"Jazz,Latin","Afro-Cuban Jazz,Son,Trova"
+3252,Rock,"Rock,Pop",
+3253,Electronic,"Electronic,Funk / Soul,Pop","Synth-pop,Disco"
+3254,Rock,"Rock,Pop",Pop Rock
+3255,Electronic,"Electronic,Latin","Leftfield,Avantgarde,IDM"
+3256,Rock,Rock,Pop Rock
+3257,Rock,Rock,"Alternative Rock,Indie Rock"
+3258,Rock,"Rock,Funk / Soul","Alternative Rock,Gospel"
+3259,Hip Hop,Hip Hop,"RnB/Swing,Pop Rap"
+3260,"Folk, World, & Country","Folk, World, & Country",Folk Rock
+3261,"Folk, World, & Country","Folk, World, & Country",Folk
+3262,"Folk, World, & Country","Folk, World, & Country","Folk Rock,Folk,Ballad"
+3263,Pop,Pop,
+3264,Rock,Rock,"Garage Rock,Punk"
+3265,Electronic,Electronic,"House,Synth-pop"
+3266,Rock,Rock,Indie Rock
+3267,Rock,"Rock,Pop","Pop Rock,Avantgarde,Indie Pop"
+3268,Rock,Rock,
+3269,Electronic,Electronic,"House,Electro,Disco"
+3270,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+3271,Electronic,"Electronic,Rock,Pop",Indie Rock
+3272,Rock,"Rock,Pop","Indie Pop,Indie Rock"
+3273,Latin,"Latin,Pop",Vocal
+3274,Rock,Rock,Indie Rock
+3275,Hip Hop,"Hip Hop,Rock,Folk, World, & Country","Acoustic,Folk,Indie Rock,Instrumental,Lo-Fi,Pop Rock,Industrial"
+3276,Jazz,Jazz,"Free Jazz,Hard Bop,Modal"
+3277,Electronic,"Electronic,Rock","Leftfield,Electro,Disco"
+3278,"Folk, World, & Country","Folk, World, & Country","Ballad,Folk,Folk Rock"
+3279,Rock,Rock,"Surf,Acoustic,Soft Rock,Pop Rock"
+3280,Rock,Rock,"Folk Rock,Indie Rock"
+3281,"Folk, World, & Country","Folk, World, & Country",
+3282,Rock,"Rock,Pop,Folk, World, & Country","Country,Pop Rock,Country Rock"
+3283,Rock,"Rock,Folk, World, & Country","Alternative Rock,Country Rock,Blues Rock"
+3284,Pop,Pop,
+3285,Jazz,"Jazz,Funk / Soul,Blues,Pop","Soul-Jazz,Acoustic,Piano Blues,Neo Soul"
+3286,Rock,Rock,"Soft Rock,Indie Rock"
+3287,Rock,Rock,"Folk Rock,Alternative Rock,Acoustic"
+3288,Rock,Rock,"Folk Rock,Country Rock"
+3289,Rock,"Rock,Folk, World, & Country","Folk Rock,Acoustic,Pop Rock,Folk,Indie Rock"
+3290,"Folk, World, & Country","Folk, World, & Country",
+3291,Funk / Soul,"Funk / Soul,Folk, World, & Country","Soul,Folk"
+3292,Rock,"Rock,Pop,Folk, World, & Country","Acoustic,Indie Rock,Folk Rock,Indie Pop"
+3293,Rock,"Rock,Pop",Indie Pop
+3294,Rock,Rock,"Classic Rock,Rockabilly"
+3295,Rock,"Rock,Pop",Pop Rock
+3296,Rock,"Rock,Pop","Vocal,Pop Rock"
+3297,Rock,"Rock,Pop",
+3298,Rock,Rock,Punk
+3299,,,
+3300,Rock,Rock,Alternative Rock
+3301,Rock,"Rock,Pop",Alternative Rock
+3302,Rock,Rock,
+3303,Rock,Rock,Punk
+3304,Rock,"Rock,Pop",Pop Rock
+3305,Rock,Rock,
+3306,Rock,Rock,
+3307,Rock,Rock,Punk
+3308,Latin,"Latin,Pop",Vocal
+3309,,,
+3310,Latin,"Latin,Pop","Ballad,Vocal"
+3311,,,
+3312,Pop,Pop,
+3313,Rock,"Rock,Folk, World, & Country","Folk Rock,Country Rock"
+3314,Rock,Rock,Indie Rock
+3315,,,
+3317,Electronic,"Electronic,Latin,Pop","Ballad,Latin,Synth-pop"
+3318,Pop,Pop,
+3319,Electronic,Electronic,Disco
+3320,Electronic,Electronic,"Leftfield,Electro,Synth-pop"
+3321,Pop,Pop,"Europop,Vocal"
+3322,Rock,Rock,
+3323,Rock,Rock,Alternative Rock
+3324,Rock,Rock,"Alternative Rock,Indie Rock"
+3325,Rock,"Rock,Pop","Doo Wop,Rock & Roll"
+3326,Electronic,Electronic,"Trance,Euro House"
+3327,Rock,Rock,"Acoustic,Soft Rock"
+3328,,,
+3329,Rock,"Rock,Pop",Ballad
+3330,Pop,Pop,Indie Pop
+3331,Rock,"Rock,Pop",
+3332,Electronic,"Electronic,Rock,Pop","Brit Pop,Electro,Bollywood,Indie Rock"
+3333,Electronic,"Electronic,Rock,Folk, World, & Country","Folk Rock,Synth-pop"
+3334,Rock,Rock,"Punk,Ska"
+3335,Electronic,"Electronic,Hip Hop,Folk, World, & Country","Breakbeat,House,Synth-pop"
+3336,Pop,Pop,
+3337,Rock,Rock,Alternative Rock
+3338,Electronic,Electronic,Euro House
+3339,Rock,Rock,"Speed Metal,Power Metal"
+3340,Rock,"Rock,Pop",Indie Rock
+3341,Rock,"Rock,Folk, World, & Country","Folk Rock,Acoustic"
+3342,Rock,"Rock,Folk, World, & Country","Acoustic,Folk,Indie Rock,Folk Rock"
+3343,,,
+3344,Electronic,"Electronic,Pop","Euro House,Disco"
+3345,Rock,"Rock,Pop",Pop Rock
+3346,Rock,Rock,Hard Rock
+3347,Rock,"Rock,Pop,Folk, World, & Country",
+3348,Rock,Rock,Pop Rock
+3349,Pop,"Pop,Folk, World, & Country",
+3350,Pop,"Pop,Folk, World, & Country",Folk
+3351,,,
+3352,Electronic,Electronic,"Leftfield,House"
+3353,Electronic,"Electronic,Rock","Abstract,Post Rock,Experimental"
+3354,Hip Hop,Hip Hop,
+3355,,,
+3356,Hip Hop,Hip Hop,
+3357,Hip Hop,Hip Hop,
+3358,,,
+3359,Rock,Rock,Folk Rock
+3360,Rock,"Rock,Pop",Pop Rock
+3361,Rock,"Rock,Pop",Alternative Rock
+3362,Rock,Rock,Hard Rock
+3363,,,
+3364,"Folk, World, & Country","Folk, World, & Country","Country,Country Rock"
+3365,Pop,Pop,Indie Pop
+3366,Electronic,Electronic,"Breakbeat,Electro"
+3367,Rock,"Rock,Latin,Pop","Rock & Roll,Pop Rock"
+3368,Rock,Rock,Alternative Rock
+3369,"Folk, World, & Country","Folk, World, & Country",Country
+3370,Rock,"Rock,Pop","Indie Rock,Indie Pop"
+3371,Rock,"Rock,Pop","Indie Rock,Indie Pop"
+3372,Latin,"Latin,Pop,Folk, World, & Country",
+3373,Rock,"Rock,Pop","Alternative Rock,Acoustic,Pop Rock,Indie Rock"
+3374,,,
+3375,Rock,"Rock,Pop",Pop Rock
+3376,Rock,Rock,Acoustic
+3377,,,
+3378,Rock,"Rock,Pop",
+3379,Pop,Pop,Indie Pop
+3380,Electronic,Electronic,"New Wave,Synth-pop"
+3381,Electronic,Electronic,"Trip Hop,Downtempo"
+3382,Electronic,Electronic,"Leftfield,Trip Hop,Downtempo"
+3383,,,
+3384,Rock,Rock,Alternative Rock
+3385,,,
+3386,Rock,"Rock,Pop",Folk Rock
+3387,Rock,Rock,"Folk Rock,Pop Rock"
+3388,Electronic,"Electronic,Rock","Folk Rock,Country Rock,Noise,Lo-Fi,Punk,Experimental"
+3389,"Folk, World, & Country","Folk, World, & Country",Folk
+3390,Electronic,"Electronic,Pop","Electro,Europop,House"
+3391,Electronic,"Electronic,Pop",Electro
+3392,Hip Hop,"Hip Hop,Latin,Funk / Soul",Contemporary R&B
+3393,Pop,Pop,
+3394,Rock,"Rock,Reggae",Ska
+3395,Electronic,"Electronic,Rock,Pop","Synth-pop,Pop Rock,Electro"
+3396,Rock,"Rock,Latin,Pop,Folk, World, & Country","Pop Rock,Vocal,Folk"
+3397,Rock,Rock,"Acoustic,Soft Rock,Pop Rock"
+3398,,,
+3399,Rock,Rock,"Art Rock,Pop Rock"
+3400,Pop,Pop,
+3401,,,
+3402,Rock,Rock,Folk Rock
+3403,,,
+3404,Rock,Rock,Folk Rock
+3405,"Folk, World, & Country","Folk, World, & Country",
+3406,,,
+3407,"Folk, World, & Country","Folk, World, & Country",Folk
+3409,,,
+3410,Rock,Rock,"Soft Rock,Pop Rock"
+3411,Rock,Rock,
+3412,Rock,Rock,Folk Rock
+3413,Jazz,"Jazz,Rock,Pop",Soft Rock
+3414,Rock,Rock,Pop Rock
+3415,,,
+3416,Rock,Rock,Acoustic
+3417,,,
+3418,Rock,"Rock,Pop",Heavy Metal
+3420,,,
+3421,Rock,"Rock,Latin",Pop Rock
+3422,,,
+3423,Rock,"Rock,Latin",Pop Rock
+3424,,,
+3425,"Folk, World, & Country","Folk, World, & Country",
+3426,Rock,"Rock,Pop",Pop Rock
+3427,,,
+3428,,,
+3429,,,
+3430,Pop,Pop,
+3431,Pop,Pop,
+3432,Rock,Rock,"Indie Rock,Brit Pop"
+3433,,,
+3434,Rock,"Rock,Latin,Pop",Pop Rock
+3435,Pop,Pop,
+3436,Rock,Rock,Alternative Rock
+3437,Rock,Rock,"Garage Rock,Rockabilly"
+3438,Rock,Rock,"Alternative Rock,Ska,Punk"
+3439,Electronic,"Electronic,Funk / Soul,Pop","Disco,Funk,Synth-pop"
+3440,,,
+3441,,,
+3443,Latin,"Latin,Pop",Chanson
+3444,Latin,"Latin,Pop","Vocal,Ballad"
+3445,Latin,Latin,Flamenco
+3446,Latin,"Latin,Folk, World, & Country",
+3447,Rock,"Rock,Pop",Pop Rock
+3448,Rock,"Rock,Pop",Indie Rock
+3449,,,
+3450,Pop,Pop,Indie Pop
+3451,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+3452,Rock,Rock,Folk Rock
+3453,Hip Hop,Hip Hop,Gangsta
+3454,Rock,Rock,"Blues Rock,Classic Rock"
+3455,Rock,"Rock,Pop",
+3456,Electronic,Electronic,"Downtempo,Dub,Trip Hop"
+3457,,,
+3458,,,
+3459,Rock,"Rock,Pop",Pop Rock
+3460,Pop,Pop,
+3461,,,
+3462,,,
+3463,Rock,"Rock,Folk, World, & Country","Rockabilly,Country Rock"
+3464,,,
+3465,,,
+3466,Rock,"Rock,Pop",
+3467,Reggae,Reggae,Reggae
+3469,Electronic,Electronic,Euro House
+3470,Electronic,Electronic,Techno
+3471,Latin,Latin,Flamenco
+3472,Latin,"Latin,Pop",Flamenco
+3473,"Folk, World, & Country","Folk, World, & Country",Copla
+3474,,,
+3475,Pop,Pop,"Europop,Ballad"
+3476,Hip Hop,"Hip Hop,Pop",
+3477,Electronic,"Electronic,Pop",Synth-pop
+3478,Latin,Latin,Bossanova
+3479,Pop,Pop,
+3480,Latin,Latin,"Cumbia,Vallenato"
+3481,Pop,Pop,
+3482,Rock,Rock,
+3483,Electronic,"Electronic,Hip Hop,Pop","Electro,Synth-pop,Dance-pop"
+3484,Jazz,"Jazz,Folk, World, & Country",Latin Jazz
+3485,Rock,"Rock,Blues,Pop,Folk, World, & Country","Folk Rock,Blues Rock,Country Blues,Country Rock"
+3486,Rock,Rock,New Wave
+3487,Rock,"Rock,Pop,Folk, World, & Country",
+3488,Rock,Rock,
+3489,Rock,"Rock,Pop","Pop Rock,Classic Rock"
+3490,Rock,"Rock,Pop",Art Rock
+3491,Rock,"Rock,Pop",Pop Rock
+3492,Rock,"Rock,Blues",Blues Rock
+3493,Rock,Rock,Blues Rock
+3494,Rock,"Rock,Pop",Pop Rock
+3495,Rock,"Rock,Pop",Pop Rock
+3496,Rock,Rock,"Acoustic,Soft Rock"
+3497,Rock,"Rock,Latin","Pop Rock,Rumba"
+3498,Rock,"Rock,Blues,Pop","Electric Blues,Acoustic"
+3499,Rock,"Rock,Funk / Soul,Pop",
+3500,Rock,Rock,
+3501,error,'results',error
+3502,Rock,"Rock,Pop","Acoustic,Soft Rock,Vocal"
+3503,Rock,"Rock,Latin,Pop",Alternative Rock
+3504,Rock,"Rock,Pop",
+3505,Pop,Pop,
+3506,Rock,Rock,"Alternative Rock,Pop Rock"
+3507,Rock,"Rock,Pop",
+3508,Rock,Rock,
+3509,Rock,Rock,Pop Rock
+3510,Rock,"Rock,Latin","Pop Rock,Folk Rock"
+3511,Rock,"Rock,Pop",
+3512,Hip Hop,Hip Hop,
+3513,Pop,"Pop,Folk, World, & Country",Vocal
+3514,Rock,Rock,"Folk Rock,Pop Rock"
+3515,Rock,Rock,Acoustic
+3516,Rock,Rock,Folk Rock
+3517,Rock,Rock,Flamenco
+3518,Rock,Rock,
+3519,Rock,"Rock,Pop",
+3520,Rock,"Rock,Latin","Rumba,Flamenco"
+3521,Rock,Rock,
+3522,,,
+3523,Rock,Rock,
+3524,,,
+3525,Rock,Rock,"Punk,Ska"
+3526,,,
+3527,"Folk, World, & Country","Folk, World, & Country",Flamenco
+3528,Rock,Rock,Indie Rock
+3529,Rock,Rock,Indie Rock
+3530,Jazz,"Jazz,Rock","Blues Rock,Lounge,Jazz-Rock"
+3531,Rock,Rock,"Blues Rock,Classic Rock"
+3532,Rock,"Rock,Blues","Pop Rock,Rhythm & Blues"
+3533,Blues,"Blues,Folk, World, & Country",Folk
+3534,Rock,Rock,"Folk Rock,Acoustic"
+3535,Electronic,"Electronic,Rock","New Wave,Synth-pop"
+3536,Pop,Pop,
+3537,Pop,Pop,
+3538,Latin,Latin,
+3539,Rock,"Rock,Latin,Pop",
+3540,Electronic,Electronic,"Techno,Deep House"
+3541,Rock,Rock,Indie Rock
+3542,Electronic,"Electronic,Pop","Europop,Electro House"
+3543,"Folk, World, & Country","Folk, World, & Country",Folk
+3544,Pop,Pop,
+3545,Rock,"Rock,Pop","Pop Rock,Rock & Roll"
+3546,Latin,Latin,Tango
+3547,Rock,Rock,Indie Rock
+3548,Pop,"Pop,Folk, World, & Country",African
+3549,Rock,"Rock,Pop",Indie Rock
+3550,Rock,Rock,Alternative Rock
+3551,Rock,"Rock,Latin,Pop",
+3552,Rock,Rock,"Prog Rock,Art Rock,Symphonic Rock"
+3553,Rock,Rock,Alternative Rock
+3554,,,
+3555,Latin,Latin,Tango
+3556,Rock,Rock,"Blues Rock,Rock & Roll,Hard Rock"
+3557,Rock,Rock,
+3558,Rock,Rock,"Alternative Rock,Avantgarde,Indie Rock"
+3559,Pop,"Pop,Folk, World, & Country",Experimental
+3560,,,
+3561,Rock,Rock,
+3562,Rock,Rock,"Alternative Rock,Pop Rock"
+3563,Latin,"Latin,Pop",
+3564,Rock,"Rock,Pop",Pop Rock
+3565,Pop,Pop,"Indie Pop,Ballad"
+3566,Electronic,"Electronic,Latin,Pop",Vocal
+3567,Electronic,Electronic,"House,Electro,Techno,Downtempo"
+3568,Rock,"Rock,Pop,Folk, World, & Country","Folk Rock,Pop Rock"
+3569,Rock,"Rock,Pop",Pop Rock
+3570,Hip Hop,"Hip Hop,Jazz","Poetry,Spoken Word"
+3571,Pop,Pop,
+3572,Rock,"Rock,Pop",Alternative Rock
+3573,Rock,Rock,Classic Rock
+3574,Rock,Rock,Indie Rock
+3575,Rock,"Rock,Pop","Indie Rock,Alternative Rock,Pop Rock"
+3576,Rock,Rock,
+3577,Electronic,"Electronic,Pop",Indie Pop
+3578,Rock,Rock,Alternative Rock
+3579,Electronic,"Electronic,Pop","Dance-pop,Europop,Synth-pop,Electro"
+3580,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+3581,Rock,"Rock,Pop",Pop Rock
+3582,Rock,Rock,"Alternative Rock,Pop Rock"
+3583,Latin,"Latin,Pop",Nueva Cancion
+3584,Rock,"Rock,Pop","Indie Pop,Indie Rock"
+3585,Rock,"Rock,Pop","Alternative Rock,Indie Rock"
+3586,Electronic,Electronic,"House,Techno,Electro,Disco"
+3587,Rock,Rock,"Folk Rock,Modern Classical,Prog Rock,Classic Rock"
+3588,Electronic,"Electronic,Rock","Ambient,Downtempo,New Age,Prog Rock"
+3589,Rock,Rock,"Ethereal,New Wave,Post-Punk"
+3590,Electronic,"Electronic,Rock","Electro,Big Beat,Indie Rock"
+3591,Electronic,"Electronic,Rock","Downtempo,Indie Rock"
+3592,,,
+3593,Rock,Rock,
+3594,Electronic,Electronic,"Leftfield,House,Synth-pop"
+3595,Rock,Rock,"Hard Rock,Arena Rock"
+3596,Rock,Rock,Pop Rock
+3597,Rock,"Rock,Pop","Alternative Rock,Acoustic,Ballad"
+3598,Pop,"Pop,Folk, World, & Country",
+3599,,,
+3600,Hip Hop,Hip Hop,Pop Rap
+3601,,,
+3602,Rock,"Rock,Pop","Soft Rock,Pop Rock"
+3603,"Folk, World, & Country","Folk, World, & Country",Country
+3604,,,
+3605,Rock,Rock,Alternative Rock
+3606,Rock,Rock,Dream Pop
+3607,Rock,Rock,"Prog Rock,Classic Rock"
+3608,,,
+3609,Stage & Screen,Stage & Screen,Score
+3610,Rock,Rock,Post-Punk
+3611,"Folk, World, & Country","Folk, World, & Country",Vocal
+3612,Rock,"Rock,Blues",Soft Rock
+3613,Pop,Pop,"Chanson,Ballad"
+3614,Electronic,"Electronic,Rock,Stage & Screen","Soundtrack,Score,Prog Rock,Synth-pop,Experimental,Tribal,Ambient,Downtempo"
+3615,Rock,Rock,"Post-Punk,Goth Rock"
+3616,Rock,"Rock,Pop",Pop Rock
+3617,Hip Hop,"Hip Hop,Latin,Pop,Folk, World, & Country",
+3618,Children's,Children's,Educational
+3619,Rock,Rock,
+3620,Pop,Pop,Indie Pop
+3621,Rock,"Rock,Pop",Alternative Rock
+3622,Electronic,"Electronic,Rock,Pop","Art Rock,Prog Rock,Symphonic Rock"
+3623,Pop,Pop,Vocal
+3624,Rock,"Rock,Folk, World, & Country",
+3625,Electronic,"Electronic,Rock","Alternative Rock,Synth-pop"
+3626,Latin,"Latin,Pop","Copla,Flamenco"
+3627,Electronic,"Electronic,Rock,Folk, World, & Country","Folk Rock,House,Lo-Fi,Downtempo"
+3628,Rock,Rock,"Classic Rock,Rock Opera"
+3629,Rock,"Rock,Blues,Folk, World, & Country","Country,Folk,Rock & Roll,Texas Blues"
+3630,Pop,"Pop,Folk, World, & Country",Folk Rock
+3631,Rock,Rock,"Alternative Rock,Blues Rock,Country Rock"
+3632,Rock,Rock,Indie Rock
+3633,Rock,Rock,"Alternative Rock,Indie Rock"
+3634,Rock,Rock,"Indie Rock,Alternative Rock"
+3635,Rock,Rock,Indie Rock
+3636,Rock,"Rock,Stage & Screen","Soundtrack,Indie Rock"
+3637,Rock,Rock,Alternative Rock
+3638,Rock,Rock,Punk
+3639,Electronic,"Electronic,Rock","Indie Rock,Art Rock"
+3640,Rock,Rock,Grunge
+3641,Rock,Rock,Indie Rock
+3642,Rock,Rock,Indie Rock
+3643,Rock,"Rock,Pop,Folk, World, & Country",Indie Rock
+3644,Electronic,"Electronic,Hip Hop,Reggae,Pop","Europop,Dance-pop,Pop Rap,House,Electro,Trap"
+3645,Rock,"Rock,Pop","Brit Pop,Indie Rock"
+3646,Rock,Rock,Alternative Rock
+3647,Rock,Rock,"Garage Rock,Indie Rock"
+3648,Rock,Rock,"Garage Rock,Psychedelic Rock"
+3649,Rock,Rock,"Psychedelic Rock,Garage Rock"
+3650,Funk / Soul,Funk / Soul,Disco
+3651,Electronic,"Electronic,Rock","Breakbeat,Alternative Rock,Trip Hop"
+3652,Rock,Rock,"Krautrock,Psychedelic Rock"
+3653,Electronic,"Electronic,Pop","Abstract,Modern Classical,Experimental"
+3654,Hip Hop,"Hip Hop,Latin,Folk, World, & Country",
+3655,Electronic,"Electronic,Pop","Modern Classical,Experimental,Neofolk,Ballad"
+3656,,,
+3657,Rock,Rock,Hard Rock
+3658,Rock,Rock,"Rock & Roll,Punk"
+3659,Rock,Rock,Rock & Roll
+3660,Rock,Rock,Alternative Rock
+3661,Rock,"Rock,Folk, World, & Country","Folk Rock,Folk"
+3662,Rock,"Rock,Folk, World, & Country","Folk Rock,Folk"
+3663,Rock,Rock,"Folk Rock,Pop Rock,Classic Rock"
+3664,Hip Hop,Hip Hop,
+3665,Rock,Rock,Psychedelic Rock
+3666,Rock,Rock,Psychedelic Rock
+3667,Rock,Rock,Grunge
+3668,Rock,"Rock,Pop","Alternative Rock,Indie Rock"
+3669,Rock,Rock,Indie Rock
+3670,Rock,Rock,"Alternative Rock,Hard Rock"
+3671,Rock,Rock,Indie Rock
+3672,Rock,Rock,"Indie Rock,Alternative Rock"
+3673,Electronic,Electronic,Eurodance
+3674,Rock,Rock,Indie Rock
+3675,Rock,"Rock,Pop","Alternative Rock,Indie Pop,New Wave"
+3676,Rock,Rock,Pop Rock
+3677,Rock,"Rock,Pop",Indie Rock
+3678,Rock,"Rock,Blues","Hard Rock,Indie Rock"
+3679,Rock,Rock,Garage Rock
+3680,Rock,Rock,"Garage Rock,Punk"
+3681,Electronic,"Electronic,Rock","Krautrock,Psychedelic Rock"
+3682,Rock,Rock,Folk Rock
+3683,Electronic,"Electronic,Jazz,Latin","House,Downtempo,Drum n Bass"
+3684,Rock,Rock,Indie Rock
+3685,Rock,Rock,
+3686,Rock,"Rock,Pop,Folk, World, & Country","Ballad,Pop Rock"
+3687,Pop,"Pop,Folk, World, & Country",Vocal
+3688,Pop,"Pop,Folk, World, & Country",
+3689,Rock,Rock,Indie Rock
+3690,Rock,"Rock,Folk, World, & Country","Folk,Folk Rock"
+3691,Rock,"Rock,Pop,Stage & Screen","Folk Rock,Indie Pop,Theme"
+3692,Rock,Rock,"New Wave,Punk,Art Rock"
+3693,Pop,Pop,Indie Pop
+3694,Rock,Rock,
+3695,Rock,"Rock,Pop","Indie Pop,Indie Rock"
+3696,Rock,Rock,"Alternative Rock,Indie Rock"
+3697,Electronic,"Electronic,Pop","Experimental,Vocal"
+3698,Rock,"Rock,Folk, World, & Country","Folk,Folk Rock,Acoustic"
+3699,Rock,Rock,"Folk Rock,Alternative Rock"
+3700,Rock,Rock,"Alternative Rock,Acoustic"
+3701,Rock,Rock,Classic Rock
+3702,Rock,Rock,"Indie Rock,Alternative Rock"
+3703,Rock,Rock,"New Wave,Indie Rock"
+3704,Rock,Rock,New Wave
+3705,Rock,Rock,New Wave
+3706,Rock,Rock,Heavy Metal
+3707,Electronic,"Electronic,Rock","EBM,Industrial"
+3708,Rock,Rock,"Indie Rock,Alternative Rock"
+3709,Rock,Rock,Blues Rock
+3710,Rock,Rock,"Lo-Fi,Indie Rock"
+3711,Jazz,"Jazz,Rock","Pop Rock,Jazz-Rock,Fusion"
+3712,Rock,Rock,"Space Rock,Psychedelic Rock,Indie Rock"
+3713,Electronic,"Electronic,Pop","Dub,Synth-pop,Disco"
+3714,Electronic,Electronic,"RnB/Swing,Downtempo,Ethereal"
+3715,Electronic,"Electronic,Pop","Abstract,Glitch,Downtempo"
+3716,Electronic,Electronic,"Downtempo,Leftfield,Ethereal,Dubstep"
+3717,Rock,Rock,Folk Rock
+3718,Rock,Rock,Alternative Rock
+3719,Rock,Rock,"Folk Rock,Country Rock,Classic Rock"
+3720,Jazz,"Jazz,Rock,Funk / Soul,Blues","Soul-Jazz,Louisiana Blues,Fusion,Bayou Funk"
+3721,"Folk, World, & Country","Folk, World, & Country",
+3722,Electronic,"Electronic,Rock","New Wave,Indie Rock"
+3723,Rock,Rock,Alternative Rock
+3724,Rock,Rock,Alternative Rock
+3725,Rock,Rock,Alternative Rock
+3726,Electronic,Electronic,New Wave
+3727,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+3728,Rock,"Rock,Blues,Folk, World, & Country","Blues Rock,Chicago Blues"
+3729,Electronic,"Electronic,Pop","Synth-pop,Italo-Disco"
+3730,Electronic,"Electronic,Pop","House,Synth-pop"
+3731,Rock,Rock,"Folk Rock,Country Rock"
+3732,Pop,"Pop,Folk, World, & Country",
+3733,Rock,"Rock,Pop","Indie Rock,Indie Pop,Alternative Rock"
+3734,,,
+3735,Rock,Rock,"Rockabilly,Alternative Rock,Punk"
+3736,Electronic,"Electronic,Rock,Pop","Vocal,Acoustic,Synth-pop"
+3737,Rock,"Rock,Folk, World, & Country","Country Rock,Country"
+3738,Pop,Pop,"Synth-pop,Indie Pop"
+3739,Rock,Rock,"Art Rock,Pop Rock"
+3740,Electronic,"Electronic,Funk / Soul,Pop","Vocal,Experimental,Gospel,Electro,Downtempo,Ballad,Funk"
+3741,Electronic,"Electronic,Funk / Soul,Pop","Funk,Soul,Rhythm & Blues"
+3742,Funk / Soul,Funk / Soul,"Acid Jazz,Neo Soul"
+3743,Latin,Latin,Flamenco
+3744,Rock,Rock,Heavy Metal
+3745,Rock,Rock,Heavy Metal
+3746,Electronic,"Electronic,Rock,Pop","Synth-pop,Pop Rock"
+3747,Rock,Rock,"Alternative Rock,Brit Pop,Indie Rock"
+3748,Pop,Pop,"Indie Pop,Synth-pop"
+3749,Electronic,Electronic,Trip Hop
+3750,Rock,Rock,Indie Rock
+3751,Rock,Rock,"Alternative Rock,Pop Rock"
+3752,Rock,Rock,"Alternative Rock,Pop Rock"
+3753,Electronic,"Electronic,Rock","Alternative Rock,Art Rock,Experimental,Indie Rock"
+3754,Rock,"Rock,Folk, World, & Country","Art Rock,Flamenco"
+3755,Electronic,Electronic,"House,Dance-pop"
+3756,Rock,Rock,"Indie Rock,Psychedelic Rock"
+3757,Rock,"Rock,Pop","Psychedelic Rock,Experimental,Soft Rock,Pop Rock"
+3758,Latin,Latin,"Pachanga,Ranchera"
+3759,Rock,"Rock,Blues,Pop,Folk, World, & Country",Chanson
+3760,Rock,"Rock,Pop","Pop Rock,Vocal,Ballad"
+3761,Pop,Pop,
+3762,Pop,Pop,
+3763,Latin,"Latin,Pop",
+3764,Rock,Rock,"Pop Rock,Soft Rock"
+3765,Pop,Pop,
+3766,Pop,Pop,Indie Pop
+3767,Electronic,Electronic,Synth-pop
+3768,Electronic,"Electronic,Pop",Synth-pop
+3769,Rock,Rock,"Alternative Rock,Hard Rock"
+3770,Jazz,"Jazz,Latin,Pop","Flamenco,Vocal,Fusion"
+3771,Electronic,"Electronic,Pop","Downtempo,Ballad"
+3772,Electronic,"Electronic,Pop","Dance-pop,Electro,Electro House"
+3773,Electronic,Electronic,Industrial
+3774,Jazz,"Jazz,Rock","Jazz-Rock,Pop Rock,Classic Rock"
+3775,Rock,Rock,Alternative Rock
+3776,Rock,"Rock,Pop",Art Rock
+3777,Pop,"Pop,Folk, World, & Country","Indie Pop,Folk"
+3778,Electronic,"Electronic,Rock,Pop","Synth-pop,Experimental"
+3779,Electronic,"Electronic,Pop",Synth-pop
+3780,Rock,Rock,"Alternative Rock,Indie Rock,Garage Rock"
+3781,Rock,Rock,"Emo,Pop Rock,Alternative Rock,Pop Punk"
+3782,Electronic,"Electronic,Rock,Pop","Pop Rock,Synth-pop"
+3783,Electronic,Electronic,"Synth-pop,Experimental,Dubstep"
+3784,Rock,Rock,"Folk Rock,Country Rock"
+3785,Rock,Rock,Grunge
+3786,Rock,Rock,"Punk,Indie Rock"
+3787,Rock,Rock,"Punk,Indie Rock"
+3788,Rock,"Rock,Blues",Pop Rock
+3789,Rock,"Rock,Pop","Pop Rock,Vocal"
+3790,"Folk, World, & Country","Folk, World, & Country","Folk Rock,Country Rock"
+3791,Pop,"Pop,Folk, World, & Country",Country
+3792,Electronic,"Electronic,Funk / Soul,Pop",Downtempo
+3793,Jazz,Jazz,Contemporary Jazz
+3794,Rock,Rock,Folk Rock
+3795,Rock,"Rock,Pop,Folk, World, & Country","Soft Rock,Folk"
+3796,Rock,Rock,"Alternative Rock,Indie Rock,Avantgarde,Noise"
+3797,Rock,"Rock,Folk, World, & Country","Folk,Acoustic"
+3798,Electronic,"Electronic,Pop",Indie Pop
+3799,"Folk, World, & Country","Folk, World, & Country",Folk
+3800,Rock,"Rock,Pop","Indie Rock,Psychedelic Rock,Shoegaze"
+3801,Electronic,"Electronic,Jazz,Rock",Experimental
+3802,Rock,"Rock,Folk, World, & Country",Flamenco
+3803,Rock,Rock,"Indie Rock,Garage Rock,Psychedelic Rock"
+3804,Rock,Rock,Shoegaze
+3805,Electronic,"Electronic,Rock","Alternative Rock,Shoegaze,Psychedelic Rock,Indie Rock"
+3806,Rock,Rock,Indie Rock
+3807,Electronic,"Electronic,Rock","Indie Rock,Krautrock,Post Rock"
+3808,Electronic,Electronic,"Downtempo,Drum n Bass,House"
+3809,Electronic,Electronic,"Breakbeat,House,Synth-pop"
+3810,Rock,Rock,Psychedelic Rock
+3811,Rock,Rock,
+3812,Rock,"Rock,Pop",Indie Rock
+3813,Rock,Rock,"Doom Metal,Acid Rock,Psychedelic Rock"
+3814,Latin,"Latin,Pop","Chanson,Europop"
+3815,Pop,Pop,"Chanson,Ballad"
+3816,,,
+3817,Latin,Latin,Flamenco
+3818,"Folk, World, & Country","Folk, World, & Country",Flamenco
+3819,Non-Music,"Non-Music,Folk, World, & Country","Folk,Spoken Word"
+3820,Electronic,"Electronic,Hip Hop,Folk, World, & Country","Bhangra,Electro,Dubstep,Conscious"
+3821,Electronic,"Electronic,Hip Hop,Rock",Electroclash
+3822,Rock,"Rock,Pop","Indie Rock,Shoegaze"
+3823,Hip Hop,"Hip Hop,Pop","Trap,Contemporary R&B"
+3824,Jazz,Jazz,
+3825,,,
+3826,Rock,"Rock,Classical,Folk, World, & Country","Acoustic,Folk,Avantgarde"
+3827,Rock,Rock,"Indie Rock,Post-Punk"
+3828,Rock,Rock,Post-Punk
+3829,Rock,"Rock,Pop",Indie Rock
+3830,Jazz,Jazz,
+3831,Rock,Rock,Indie Rock
+3832,Pop,Pop,"Synth-pop,Indie Pop"
+3833,Electronic,"Electronic,Pop",Synth-pop
+3834,Blues,"Blues,Folk, World, & Country","Country,Country Blues"
+3835,Rock,Rock,Pop Punk
+3836,Rock,"Rock,Folk, World, & Country","Indie Rock,Acoustic"
+3837,,,
+3838,Electronic,"Electronic,Hip Hop,Reggae,Pop","Indie Pop,Ballad,Electro,Dance-pop"
+3839,Rock,Rock,"Alternative Rock,Indie Rock"
+3840,Rock,Rock,"Acoustic,Folk Rock"
+3841,Rock,"Rock,Pop",Alternative Rock
+3842,Rock,"Rock,Pop,Folk, World, & Country",
+3843,"Folk, World, & Country","Folk, World, & Country",Bluegrass
+3844,Rock,Rock,"Shoegaze,Indie Rock"
+3845,Rock,"Rock,Pop","Shoegaze,Indie Rock"
+3846,Rock,Rock,Alternative Rock
+3847,Rock,"Rock,Pop",Indie Pop
+3848,Pop,Pop,
+3849,Pop,"Pop,Folk, World, & Country","Vocal,Folk"
+3850,Electronic,"Electronic,Rock","Pop Rock,Indie Rock"
+3851,Electronic,"Electronic,Rock","Art Rock,Indie Rock"
+3852,,,
+3853,Pop,Pop,
+3854,Electronic,"Electronic,Pop","Vocal,Indie Pop,Synth-pop"
+3855,Electronic,Electronic,"Leftfield,New Wave,Abstract,Synth-pop,Experimental"
+3856,Electronic,Electronic,"Experimental,Darkwave"
+3857,Electronic,"Electronic,Pop","Leftfield,Experimental,Darkwave"
+3858,Rock,Rock,Indie Rock
+3859,Electronic,"Electronic,Pop",Synth-pop
+3860,Electronic,"Electronic,Pop",Synth-pop
+3861,Rock,"Rock,Latin,Pop",Pop Rock
+3862,Rock,Rock,Prog Rock
+3863,Rock,Rock,"Psychedelic Rock,Prog Rock"
+3864,Rock,Rock,"Blues Rock,Hard Rock,Classic Rock"
+3865,Rock,Rock,Pop Rock
+3866,Rock,Rock,
+3867,Rock,Rock,Pop Rock
+3868,Rock,"Rock,Pop","Indie Pop,Indie Rock"
+3869,Jazz,"Jazz,Funk / Soul,Pop","Smooth Jazz,Contemporary Jazz,Soul,Neo Soul"
+3870,Rock,"Rock,Pop","Indie Rock,Indie Pop"
+3871,Rock,Rock,
+3872,Pop,Pop,"Lo-Fi,Indie Pop,Acoustic"
+3873,Rock,"Rock,Pop",Indie Pop
+3874,Latin,"Latin,Pop",Flamenco
+3875,Rock,Rock,"Indie Rock,Ethereal,Folk Rock,Alternative Rock"
+3876,Electronic,Electronic,"Dark Ambient,Downtempo,Abstract,Leftfield,Experimental,Ambient,Grime"
+3877,Electronic,"Electronic,Pop",Synth-pop
+3878,Electronic,"Electronic,Rock","Indie Rock,Lo-Fi,Downtempo"
+3879,Electronic,"Electronic,Pop","Electro,Indie Pop"
+3880,Rock,"Rock,Pop,Folk, World, & Country","Folk Rock,Pop Rock,Indie Rock"
+3881,Rock,Rock,Indie Rock
+3882,Electronic,"Electronic,Rock","Alternative Rock,Electro"
+3883,Rock,Rock,"Alternative Rock,Indie Rock"
+3884,Hip Hop,"Hip Hop,Funk / Soul","RnB/Swing,Neo Soul"
+3885,Rock,"Rock,Pop","Alternative Rock,New Wave,Pop Rock"
+3886,Rock,Rock,"Alternative Rock,Rock & Roll,New Wave"
+3887,Rock,Rock,Symphonic Metal
+3888,Rock,Rock,"Symphonic Metal,Power Metal"
+3889,Rock,Rock,Goth Rock
+3890,Rock,Rock,Gothic Metal
+3891,Rock,Rock,Alternative Rock
+3892,Rock,Rock,
+3893,Rock,Rock,"Folk Rock,Indie Rock"
+3894,Rock,"Rock,Pop","Acoustic,Alternative Rock,Art Rock,Folk Rock"
+3895,Pop,Pop,
+3896,Electronic,"Electronic,Rock","Art Rock,Indie Rock"
+3897,Jazz,"Jazz,Funk / Soul",Soul
+3898,Electronic,"Electronic,Funk / Soul,Pop","Rhythm & Blues,Soul,Neo Soul,Electro"
+3899,Electronic,"Electronic,Funk / Soul",Trip Hop
+3900,Electronic,"Electronic,Classical","Ambient,Minimal"
+3901,"Folk, World, & Country","Folk, World, & Country",
+3902,Electronic,"Electronic,Rock","Avantgarde,IDM"
+3903,Rock,Rock,
+3904,Electronic,"Electronic,Rock",Synth-pop
+3905,Electronic,"Electronic,Rock","Krautrock,Shoegaze,Post-Punk"
+3906,"Folk, World, & Country","Folk, World, & Country",Country
+3907,Rock,Rock,Alternative Rock
+3908,Jazz,"Jazz,Funk / Soul",Soul-Jazz
+3909,,,
+3910,,,
+3911,Latin,Latin,"Flamenco,Pop Rock"
+3912,Electronic,"Electronic,Funk / Soul,Pop","Pop Rock,Synth-pop,Soul"
+3913,Rock,Rock,Punk
+3914,Rock,"Rock,Pop",Alternative Rock
+3915,Electronic,"Electronic,Pop","Experimental,Synth-pop"
+3916,Rock,Rock,"Garage Rock,Lo-Fi,Indie Rock"
+3917,"Folk, World, & Country","Folk, World, & Country",Folk
+3918,Rock,Rock,"Acoustic,Folk"
+3919,Rock,Rock,"Art Rock,Indie Rock"
+3920,Electronic,"Electronic,Funk / Soul","Bass Music,Contemporary R&B"
+3921,Rock,Rock,Alternative Rock
+3922,Latin,"Latin,Funk / Soul,Pop",
+3923,Electronic,"Electronic,Funk / Soul,Pop","Electro,Free Funk"
+3924,Rock,"Rock,Latin,Pop",
+3925,Latin,Latin,Flamenco
+3926,Latin,"Latin,Folk, World, & Country",Flamenco
+3927,Rock,Rock,"Indie Rock,Pop Rock"
+3928,Rock,"Rock,Folk, World, & Country","Folk Rock,Acoustic,Alternative Rock,Country Rock"
+3929,Rock,"Rock,Pop","Indie Rock,Indie Pop"
+3930,Rock,Rock,Alternative Rock
+3931,Electronic,"Electronic,Hip Hop",Electro
+3932,Electronic,"Electronic,Hip Hop,Pop","Europop,Ballad,Pop Rap,Electro,Trap"
+3933,Rock,"Rock,Blues,Folk, World, & Country",
+3934,Rock,"Rock,Pop","Rock & Roll,Pop Rock"
+3935,Rock,"Rock,Latin,Blues","Blues Rock,Flamenco"
+3936,Electronic,"Electronic,Pop",Synth-pop
+3937,Electronic,"Electronic,Hip Hop","Grime,Electro"
+3938,Electronic,"Electronic,Pop",Indie Pop
+3939,Rock,"Rock,Pop","Acoustic,Pop Rock"
+3940,Electronic,"Electronic,Hip Hop,Rock,Funk / Soul,Pop","Electro,House,Pop Rock,Soul"
+3942,Rock,Rock,"Alternative Rock,Pop Rock"
+3943,,,
+3945,Electronic,"Electronic,Pop",Synth-pop
+3946,Electronic,"Electronic,Pop","Synth-pop,Indie Pop,Downtempo,Leftfield"
+3947,Electronic,"Electronic,Pop",Synth-pop
+3948,Rock,Rock,Indie Rock
+3949,Rock,Rock,Folk Rock
+3950,Rock,Rock,"Blues Rock,Garage Rock,Punk"
+3951,Electronic,"Electronic,Rock","Leftfield,Garage Rock,Disco"
+3952,Electronic,"Electronic,Rock","Alternative Rock,Leftfield,Disco"
+3953,Electronic,"Electronic,Rock,Pop",Alternative Rock
+3954,"Folk, World, & Country","Folk, World, & Country",
+3955,Rock,"Rock,Pop","Indie Pop,Indie Rock"
+3956,Rock,Rock,Alternative Rock
+3957,Rock,Rock,Hard Rock
+3958,Pop,Pop,"Ballad,Country"
+3959,Pop,Pop,
+3960,Rock,Rock,"Indie Rock,Noise"
+3961,Electronic,"Electronic,Pop","Electro,House"
+3962,Electronic,Electronic,"House,Euro House"
+3963,Pop,Pop,
+3964,Electronic,"Electronic,Pop","Dance-pop,House,Hip-House,Tribal House,Deep House"
+3965,Electronic,Electronic,"Synth-pop,Disco"
+3966,Electronic,"Electronic,Hip Hop","Hip Hop,Jumpstyle"
+3967,Rock,Rock,"Indie Rock,Symphonic Rock"
+3968,Electronic,Electronic,"Hip-House,Euro House,Trance"
+3969,Rock,Rock,"Noise,Alternative Rock,Psychedelic Rock"
+3970,Electronic,"Electronic,Rock","Post Rock,Avantgarde,Experimental,Ambient"
+3971,Electronic,Electronic,Synth-pop
+3972,Rock,Rock,"Prog Rock,Hard Rock"
+3973,Rock,Rock,"Prog Rock,Heavy Metal"
+3974,Rock,Rock,Indie Rock
+3975,Rock,"Rock,Pop",
+3976,Electronic,Electronic,"Synth-pop,Darkwave"
+3977,Electronic,"Electronic,Rock","Indie Rock,Synth-pop,Acoustic"
+3978,Rock,Rock,"Alternative Rock,Experimental,Prog Rock"
+3979,Rock,Rock,Alternative Rock
+3980,Reggae,"Reggae,Funk / Soul,Pop",Indie Pop
+3981,Rock,"Rock,Pop",
+3982,Rock,Rock,"Pop Rock,Classic Rock"
+3983,Rock,"Rock,Folk, World, & Country","Folk Rock,Soft Rock"
+3984,Rock,"Rock,Pop","Pop Rock,New Wave,Post-Punk"
+3985,Rock,Rock,"Alternative Rock,Pop Rock"
+3986,Electronic,"Electronic,Pop","Synth-pop,Europop,Dance-pop,Euro House,Euro-Disco,Eurodance,Ballad,Vocal"
+3987,Funk / Soul,"Funk / Soul,Blues,Folk, World, & Country","Gospel,Folk"
+3988,Rock,Rock,"Indie Rock,Punk,Garage Rock"
+3989,"Folk, World, & Country","Folk, World, & Country",Flamenco
+3990,"Folk, World, & Country","Folk, World, & Country",
+3991,Rock,Rock,Indie Rock
+3992,Rock,Rock,"Psychedelic Rock,Indie Rock"
+3993,Rock,Rock,Psychedelic Rock
+3994,Electronic,"Electronic,Rock","New Wave,Synth-pop"
+3995,Pop,"Pop,Folk, World, & Country","Vocal,Ballad"
+3996,Rock,Rock,Alternative Rock
+3997,Rock,"Rock,Pop,Folk, World, & Country","Folk Rock,Experimental"
+3998,Electronic,Electronic,Trip Hop
+3999,Electronic,"Electronic,Pop",Indie Pop
+4000,Electronic,"Electronic,Rock,Pop",Indie Pop
+4001,Rock,"Rock,Latin","Flamenco,Experimental"
+4002,Reggae,"Reggae,Latin,Pop,Folk, World, & Country","Rumba,Flamenco,Ska"
+4003,Latin,"Latin,Pop",Flamenco
+4004,Electronic,"Electronic,Rock,Pop","Electro,Dark Ambient,Symphonic Rock"
+4005,Electronic,"Electronic,Rock,Pop","Synth-pop,Vocal,Krautrock"
+4006,Rock,Rock,Indie Rock
+4007,Rock,"Rock,Pop",Pop Rock
+4008,Pop,Pop,Indie Pop
+4009,"Folk, World, & Country","Folk, World, & Country",
+4010,Electronic,Electronic,Trip Hop
+4012,Electronic,"Electronic,Rock,Pop","Synth-pop,Pop Rock"
+4013,Jazz,"Jazz,Latin,Folk, World, & Country",Flamenco
+4014,Latin,Latin,Flamenco
+4015,Rock,Rock,Heavy Metal
+4016,"Folk, World, & Country","Folk, World, & Country",Flamenco
+4017,Rock,"Rock,Folk, World, & Country",Flamenco
+4018,Pop,Pop,
+4019,Rock,Rock,Alternative Rock
+4020,"Folk, World, & Country","Folk, World, & Country",Country
+4021,Rock,"Rock,Latin,Pop","Flamenco,Pop Rock"
+4022,Latin,Latin,Flamenco
+4023,Funk / Soul,"Funk / Soul,Folk, World, & Country",Flamenco
+4024,Latin,"Latin,Pop,Folk, World, & Country","Flamenco,Pop Rock"
+4025,Latin,"Latin,Folk, World, & Country",Flamenco
+4026,Latin,"Latin,Pop","Flamenco,Vocal"
+4027,Latin,"Latin,Pop","Flamenco,Vocal"
+4028,Electronic,"Electronic,Jazz,Rock,Pop,Stage & Screen",House
+4029,Pop,Pop,
+4030,Hip Hop,"Hip Hop,Rock,Latin,Pop,Folk, World, & Country","Pop Rock,Reggaeton"
+4031,Rock,Rock,"New Wave,Goth Rock,Punk,Deathrock"
+4032,Rock,Rock,"Soft Rock,Pop Rock"
+4033,Electronic,"Electronic,Rock","Alternative Rock,Electro"
+4034,Rock,Rock,Indie Rock
+4035,Rock,Rock,Prog Rock
+4036,Rock,Rock,"Psychedelic Rock,Prog Rock"
+4037,Rock,"Rock,Pop",Punk
+4038,Rock,Rock,Indie Rock
+4039,Rock,"Rock,Pop","Pop Rock,Indie Pop,Indie Rock"
+4040,Rock,"Rock,Pop","Dream Pop,Indie Rock,Indie Pop,Trip Hop,Trap"
+4041,Rock,"Rock,Pop","Indie Rock,Indie Pop"
+4042,Rock,"Rock,Pop",Alternative Rock
+4043,Rock,"Rock,Pop","Alternative Rock,Indie Pop"
+4044,Rock,Rock,"Punk,Pop Rock"
+4045,Latin,"Latin,Folk, World, & Country",Pachanga
+4046,Rock,"Rock,Latin,Pop","Pachanga,Pop Rock,Ska"
+4047,Rock,Rock,
+4048,Electronic,Electronic,"Electro,Synth-pop,Downtempo,Techno"
+4049,Latin,"Latin,Funk / Soul,Pop,Folk, World, & Country","Cha-Cha,Ballad,Vocal"
+4050,Jazz,"Jazz,Pop,Folk, World, & Country",African
+4051,Rock,Rock,Punk
+4052,Rock,Rock,Space Rock
+4053,Rock,Rock,"Emo,Hardcore"
+4054,Electronic,Electronic,"Experimental,Electro"
+4055,Rock,Rock,Alternative Rock
+4056,,,
+4057,"Folk, World, & Country","Folk, World, & Country","Acoustic,Folk"
+4058,Rock,"Rock,Pop",Psychedelic Rock
+4059,Pop,Pop,"Indie Pop,Ballad"
+4060,Rock,"Rock,Pop",Psychedelic Rock
+4061,Pop,Pop,Ballad
+4062,Pop,"Pop,Folk, World, & Country","Acoustic,Folk"
+4063,Pop,"Pop,Folk, World, & Country","Acoustic,Folk"
+4064,Electronic,"Electronic,Pop","Synth-pop,Europop"
+4065,Pop,Pop,
+4066,Electronic,"Electronic,Folk, World, & Country",Folk
+4067,Electronic,"Electronic,Pop","Synth-pop,Electro,Dance-pop,House"
+4068,Electronic,"Electronic,Pop","Synth-pop,Electro"
+4069,Rock,"Rock,Reggae,Latin,Pop,Folk, World, & Country","Flamenco,Pop Rock"
+4070,Rock,"Rock,Pop","Acoustic,Alternative Rock,Ballad"
+4071,Rock,"Rock,Folk, World, & Country","Soft Rock,Country,Pop Rock"
+4072,Rock,Rock,"Alternative Rock,Indie Rock"
+4073,Rock,Rock,"Alternative Rock,Hard Rock"
+4074,Rock,Rock,"Indie Rock,Alternative Rock"
+4075,Electronic,"Electronic,Rock,Pop",Pop Rock
+4076,Jazz,"Jazz,Pop",Chanson
+4077,Electronic,"Electronic,Pop","Experimental,Ambient,Vocal"
+4078,Rock,"Rock,Pop",Indie Pop
+4079,,,
+4080,Rock,"Rock,Pop","Indie Pop,Pop Rock"
+4081,Rock,"Rock,Pop","Alternative Rock,Punk,Indie Pop"
+4082,Latin,Latin,Copla
+4083,Electronic,"Electronic,Pop",Dance-pop
+4084,Pop,Pop,"Flamenco,Vocal"
+4085,Rock,"Rock,Pop","Indie Pop,Indie Rock"
+4086,Electronic,"Electronic,Pop","Flamenco,Indie Pop,Synth-pop"
+4087,Rock,"Rock,Pop","Alternative Rock,Lounge"
+4088,Rock,Rock,
+4089,Rock,"Rock,Pop","Alternative Rock,Pop Rock"
+4090,Pop,Pop,Indie Pop
+4091,Electronic,"Electronic,Rock","Alternative Rock,Rock & Roll,Blues Rock,Art Rock,Experimental,Spoken Word"
+4092,Electronic,"Electronic,Pop","Dance-pop,Bass Music,Leftfield,Experimental"
+4093,Rock,Rock,
+4094,Electronic,"Electronic,Latin,Pop",Hi NRG
+4095,Latin,"Latin,Pop",Flamenco
+4096,Rock,"Rock,Pop",
+4097,Rock,"Rock,Funk / Soul,Pop",
+4098,Rock,Rock,Punk
+4099,"Folk, World, & Country","Folk, World, & Country",
+4100,Rock,Rock,"Heavy Metal,Parody"
+4101,Electronic,"Electronic,Hip Hop,Pop,Folk, World, & Country","Flamenco,Electro,Trap"
+4102,Reggae,"Reggae,Latin,Folk, World, & Country",Ska
+4103,,,
+4104,Latin,"Latin,Folk, World, & Country",Flamenco
+4105,Rock,Rock,Hardcore
+4106,Latin,"Latin,Pop",
+4107,Electronic,"Electronic,Rock","Pop Rock,Synth-pop"
+4108,Electronic,"Electronic,Pop","Ballad,Synth-pop,Latin,Ambient"
+4109,Latin,Latin,"Flamenco,Rumba"
+4110,,,
+4111,Rock,Rock,Rockabilly
+4112,Latin,"Latin,Pop",Ballad
+4113,Latin,"Latin,Pop",
+4114,Electronic,"Electronic,Pop","Synth-pop,House"
+4115,Latin,"Latin,Pop",
+4116,Pop,Pop,Karaoke
+4117,Rock,Rock,Heavy Metal
+4118,Rock,"Rock,Pop","Chanson,Yé-Yé"
+4119,Rock,Rock,Pop Rock
+4120,Rock,"Rock,Pop","Alternative Rock,Indie Pop"
+4121,"Folk, World, & Country","Folk, World, & Country",Country
+4122,"Folk, World, & Country","Folk, World, & Country",
+4123,,,
+4124,Electronic,"Electronic,Pop","Electro,Synth-pop"
+4125,Pop,"Pop,Folk, World, & Country",Chanson
+4126,Pop,Pop,
+4127,Rock,Rock,"Alternative Rock,Grunge,Pop Rock"
+4128,Electronic,"Electronic,Pop,Folk, World, & Country","Synth-pop,Indie Pop"
+4129,Rock,"Rock,Pop",
+4131,Pop,Pop,Indie Pop
+4132,Rock,"Rock,Pop",
+4133,Rock,Rock,Pop Rock
+4134,Pop,Pop,
+4135,Rock,"Rock,Pop","Psychedelic Rock,Classic Rock,Dream Pop,Folk Rock,Soft Rock,Trip Hop,Ballad"
+4136,Pop,"Pop,Folk, World, & Country",
+4137,Electronic,"Electronic,Pop",Indie Pop
+4138,Rock,"Rock,Pop",
+4139,Rock,"Rock,Folk, World, & Country",
+4140,Rock,"Rock,Folk, World, & Country",Folk
+4141,Pop,Pop,
+4142,Electronic,Electronic,"Experimental,Ambient,New Age"
+4143,Rock,"Rock,Funk / Soul",Soul
+4144,Pop,"Pop,Brass & Military",
+4147,Pop,Pop,Indie Pop
+4148,Blues,"Blues,Folk, World, & Country",
+4149,Jazz,"Jazz,Rock,Funk / Soul","Ska,Punk,Funk"
+4150,Rock,Rock,"Punk,Pop Rock"
+4151,,,
+4152,Rock,"Rock,Latin,Pop",
+4153,Rock,Rock,"Alternative Rock,Experimental,Prog Rock"
+4154,Rock,Rock,"Alternative Rock,Art Rock"
+4155,Rock,"Rock,Pop",
+4158,Reggae,Reggae,Ska
+4159,Reggae,Reggae,Ska
+4160,,,
+4161,Rock,Rock,"Surf,Punk"
+4162,Rock,Rock,Doom Metal
+4163,Rock,Rock,"Alternative Rock,Symphonic Rock"
+4164,Hip Hop,"Hip Hop,Funk / Soul","Contemporary R&B,Soul"
+4165,Electronic,Electronic,Deep House
+4166,Electronic,"Electronic,Rock","House,Garage House,UK Garage"
+4167,Rock,"Rock,Latin",Alternative Rock
+4168,Rock,Rock,"Mod,Beat,Psychedelic Rock"
+4169,Electronic,Electronic,"Deep House,Tropical House"
+4170,Electronic,Electronic,Deep House
+4171,,,
+4176,"Folk, World, & Country","Folk, World, & Country","Folk,Celtic"
+4177,Rock,Rock,"Art Rock,Psychedelic Rock"
+4178,Rock,Rock,"Avantgarde,Experimental,Prog Rock"
+4179,Electronic,"Electronic,Rock","Abstract,Psychedelic Rock,Experimental,Prog Rock"
+4180,Electronic,"Electronic,Rock,Funk / Soul,Pop","Indie Pop,Pop Rock,Ballad,Downtempo"
+4181,,,
+4182,Rock,"Rock,Pop",New Wave
+4183,Electronic,"Electronic,Rock","New Wave,Synth-pop,Disco"
+4184,Rock,Rock,"New Wave,Pop Rock"
+4185,Latin,"Latin,Folk, World, & Country",Flamenco
+4186,Rock,"Rock,Pop",Indie Rock
+4187,Rock,"Rock,Pop",Pop Rock
+4188,Hip Hop,Hip Hop,
+4189,Rock,"Rock,Folk, World, & Country","Indie Rock,Folk"
+4190,Rock,"Rock,Folk, World, & Country","Indie Rock,Folk"
+4192,Pop,Pop,"Flamenco,Vocal"
+4193,Hip Hop,"Hip Hop,Latin,Folk, World, & Country",
+4194,,,
+4195,Hip Hop,"Hip Hop,Latin,Folk, World, & Country",
+4196,Pop,Pop,
+4197,Rock,"Rock,Pop","Pop Rock,Soft Rock,Vocal,Ballad"
+4199,Pop,Pop,"Pop Rock,Power Pop"
+4200,Rock,"Rock,Pop","Ballad,Pop Rock"
+4201,Pop,Pop,
+4202,Pop,Pop,
+4203,Rock,"Rock,Pop","Pop Rock,Ballad"
+4206,Hip Hop,"Hip Hop,Pop",
+4207,Pop,Pop,
+4208,Rock,"Rock,Pop,Folk, World, & Country",
+4209,Rock,"Rock,Pop",
+4210,Pop,Pop,Indie Pop
+4211,Latin,"Latin,Pop,Folk, World, & Country","Folk,Vocal"
+4212,Electronic,"Electronic,Reggae,Latin,Pop,Folk, World, & Country","Reggaeton,Ballad,Batucada,Fado,Dance-pop,Trap,House,Reggae-Pop,Dancehall"
+4213,Electronic,"Electronic,Pop","Trap,Indie Pop"
+4214,Rock,"Rock,Pop,Folk, World, & Country","Folk Rock,Alternative Rock"
+4215,Rock,Rock,Acoustic
+4216,Jazz,"Jazz,Latin,Folk, World, & Country","Fusion,Flamenco,Tango"
+4219,Pop,Pop,
+4220,Electronic,"Electronic,Rock","Latin,Pop Rock"
+4221,Rock,"Rock,Latin",
+4222,Pop,Pop,
+4223,Electronic,Electronic,Synth-pop
+4224,,,
+4225,Pop,"Pop,Folk, World, & Country",
+4226,Rock,Rock,
+4227,Rock,"Rock,Pop","Pop Rock,Indie Rock,Indie Pop"
+4228,Rock,"Rock,Pop",
+4229,Rock,Rock,"Folk Rock,Blues Rock,Punk"
+4230,Rock,Rock,"Folk Rock,Blues Rock,Punk"
+4232,Rock,"Rock,Pop",Pop Rock
+4233,Electronic,"Electronic,Classical","Electro,Classical,Experimental"
+4235,Jazz,Jazz,Smooth Jazz
+4236,Jazz,Jazz,Smooth Jazz
+4237,Jazz,"Jazz,Pop,Folk, World, & Country",Vocal
+4239,Electronic,"Electronic,Hip Hop,Latin,Pop,Folk, World, & Country","Flamenco,Pasodoble,Bossanova"
+4240,Electronic,Electronic,Synth-pop
+4241,Rock,Rock,"Blues Rock,Folk Rock,Classic Rock"
+4242,Latin,Latin,
+4243,Rock,Rock,
+4244,Rock,Rock,Alternative Rock
+4245,Rock,Rock,Pop Rock
+4246,Pop,Pop,"Chanson,Ballad"
+4249,Hip Hop,"Hip Hop,Latin,Pop","Reggaeton,RnB/Swing"
+4250,Pop,Pop,
+4252,Hip Hop,"Hip Hop,Latin,Pop",
+4253,Hip Hop,"Hip Hop,Jazz,Latin,Funk / Soul,Pop","Contemporary R&B,Latin Jazz,Neo Soul,Salsa,Tango"
+4254,Hip Hop,"Hip Hop,Latin,Funk / Soul",
+4255,,,
+4256,Jazz,"Jazz,Pop",
+4257,Pop,Pop,
+4258,Pop,Pop,"Ballad,Vocal,Europop"
+4260,Electronic,"Electronic,Hip Hop,Classical,Folk, World, & Country",Experimental
+4261,,,
+4262,Electronic,Electronic,"Synth-pop,Acid House"
+4263,Electronic,"Electronic,Pop",Synth-pop
+4264,,,
+4266,Rock,Rock,"Glam,Punk,Heavy Metal"
+4268,Stage & Screen,Stage & Screen,"Soundtrack,Score"
+4269,Rock,"Rock,Pop,Folk, World, & Country","Folk Rock,Pop Rock,Alternative Rock,Indie Rock,Lo-Fi"
+4270,"Folk, World, & Country","Folk, World, & Country",Folk
+4271,Rock,Rock,"Folk Rock,Indie Rock"
+4272,Rock,"Rock,Pop",
+4273,"Folk, World, & Country","Folk, World, & Country",
+4274,Rock,"Rock,Pop","Folk Rock,Acoustic,Pop Rock"
+4275,Rock,"Rock,Folk, World, & Country","Folk Rock,Folk"
+4276,Rock,Rock,Folk Rock
+4278,Rock,Rock,"Classic Rock,Rock & Roll,Blues Rock"
+4279,Pop,Pop,Ballad
+4280,Electronic,"Electronic,Rock,Pop","New Wave,Pop Rock,Synth-pop"
