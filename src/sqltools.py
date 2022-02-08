@@ -120,7 +120,36 @@ def insert_newalb(Artist, Album, Title, Track, released, secs, kbs, creado, ruta
             print(f'{archivo} con comillas en title')    
             next
 
-def insert_scro():
-    ## llama al procedimiento almacenado "insert_scro (función de la base de datos de mysql y lo ejecuta)
-    return pd.read_sql_query('call insert_Scro;', engine)
+# def insert_scro():
+#     ## llama al procedimiento almacenado "insert_scro (función de la base de datos de mysql y lo ejecuta)
+#     # engine.execute('call insert_scro();')
+#     #return pd.read_sql_query('call insert_Scro();', engine)
+#     engine.execute('call insert_scro;')
+#     return "ejecutado"
+
+def act_scro():
+    last_uts = list(engine.execute(f'select max(uts) from scrobbling where id_can is not null;'))[0][0]
+    cuenta = list(engine.execute(f'''
+    select count(uts) from scrobbling where concat(artist, album, title) not in (select completo from total)
+    '''))[0][0]
+    if cuenta == 0:
+        engine.execute(f'''
+            update scrobbling sc join total tt on tt.completo = concat(sc.artist,sc.album,sc.title)
+            set sc.id_Can = tt.id_Can
+            where sc.id_Can is null;
+            ''')
+        return pd.read_sql_query(f'''
+            select count(*) as  "Filas Actualizadas"from scrobbling where uts > {last_uts};
+            
+            ''',engine)
+    else:
+        return pd.read_sql_query(f'''
+            select * from scrobbling where concat(artist, album, title) not in (select completo from total);
+            ''',engine)
+
+def act_uts():
+    engine.execute("CALL act_uts();")
+    return 'fechahora cambiada'
+
+
     
