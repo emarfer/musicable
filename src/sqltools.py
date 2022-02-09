@@ -208,10 +208,11 @@ def act_scro():
             ''')
         filas = list(engine.execute(f'select count(*) as  "Filas Actualizadas"from scrobbling where uts > {last_uts};'))[0][0]
         print(f'Filas actualizadas: {filas}')
-        return pd.read_sql_query(f'''
+        insertades =  pd.read_sql_query(f'''
             select * from scrobbling where uts > {last_uts};
             
             ''',engine)
+        return insertades[['uts','artist','album','title','fechahora']].head(10)
     else:
         print('corrigiendo algunos errores de insertación')
         actual_error()
@@ -230,7 +231,7 @@ def act_scro():
                 select * from scrobbling where uts > {last_uts};
                 
                 ''',engine)
-            return insertades[['uts','artist','album','title','fechahora']]
+            return insertades[['uts','artist','album','title','fechahora']].head(10)
         else:
             print('los siguientes errores no se han podido corregir')
             print('(no se insertarán ninguno de los nuevos scrobbles hasta corregir erroes, stay tuned)')
