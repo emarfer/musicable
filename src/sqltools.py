@@ -182,11 +182,15 @@ def actual_error():
     update scrobbling set title = "It's Now or Never Loves" where title = "It’s Now or Never Loves" and album = 'I Aubade';
     """)
     engine.execute("update scrobbling set title = 'On the Floor' where title = 'On the Floor (feat. Pitbull)' and album = 'Love?';")
-    engine.execute("update scrobbling set title = 'Rock & Roll Suspension' where title = 'Rock And Roll Suspension' and album = 'Spring Session M';")
+    engine.execute("update scrobbling set title = 'Rock & Roll Suspension' where title = 'Rock And Roll Suspension' and album = 'Spring Session M';")    
+    engine.execute("update scrobbling set title = 'Ce Matin là' where title = 'Ce Matin-là' and album = 'Moon Safari';")    
+    engine.execute("update scrobbling set artist = 'Anni B Sweet' where artist = 'Anni B. Sweet';")   
+    engine.execute("update scrobbling set album = 'Chasing Illusions' where artist = 'Anni B Sweet' and album = '';")     
+    engine.execute("update scrobbling set artist = 'NSYNC' where artist = '*NSYNC';")
 
 
-
-
+    
+# *NSYNC
 
 
 def act_scro():
@@ -248,5 +252,20 @@ def checkuts(uts_):
     else:
         return True
 
+def checkart(art_):
+    if len(list(engine.execute(f"select * from artistas where artist = '{art_}'"))) == 0:
+        return False #no existe
+    else:
+        return True #existe
 
-    
+def checkalb(alb_):
+    if len(list(engine.execute(f"select * from albums where album = '{alb_}'"))) == 0:
+        return False #no existe
+    else:
+        return True #existe
+
+def get_id_art(art_):
+    return list(engine.execute(f"select id_art from artistas where artist = '{art_}'"))[0][0]
+
+def get_id_alb(alb_):
+    return list(engine.execute(f"select id_alb from albums where album = '{alb_}'"))[0][0]
