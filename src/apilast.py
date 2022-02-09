@@ -35,7 +35,10 @@ def req_lastfm (l_user,limit,lastuts):
     url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&api_key={keylast}&format=json'
     req = requests.get(url).json()
     if req['recenttracks']['@attr']['totalPages'] == '0':
-        if '@attr' in req['recenttracks']['track'].keys():
+        if len(req['recenttracks']['track']) == 0:
+
+            return 'No hay nuevos scrobbles'
+        elif '@attr' in req['recenttracks']['track'].keys():
             art_play = req['recenttracks']['track']['artist']['#text']
             tit_play = req['recenttracks']['track']['name']
             print(f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')

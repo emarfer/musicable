@@ -152,7 +152,7 @@ def insert_newalb(Artist, Album, Title, Track, released, secs, kbs, creado, ruta
 def actual_error():
 
 
-    engine.execute("update scrobbling set artist = 'Juan Luis Guerra y 4.40' where album = 'Bachata Rosa' and artist = 'Juan Luis Guerra';")
+    engine.execute("update scrobbling set artist = 'Juan Luis Guerra y 4.40' where album in('Bachata Rosa','Ojalá Que Llueva Café') and artist = 'Juan Luis Guerra';")
     engine.execute("update scrobbling set artist = 'Robe' where artist = 'Robe.';")
     engine.execute("""
     update scrobbling set title = "Can't Hold Us Down (ft. Lil' Kim)" where artist = 'Christina Aguilera' and title = "Can't Hold Us Down";
@@ -172,6 +172,21 @@ def actual_error():
     engine.execute("update scrobbling set title = 'Me Estás Atrapando Otra Vez (Con M-Clan)' where title = 'Me Estás Atrapando Otra Vez' and album = 'Dúos, Tríos Y Otras Perversiones';")
     engine.execute("update scrobbling set title = 'Mi Alma Vuela En Silencio (Rumba)' where title = 'Mi Alma Vuela En Silencio' and artist = 'Rosario La Tremendita';")
     engine.execute("update scrobbling set title = 'We Go Together' where title ='We Go Together (© ¤ @)' and album = 'Grease [Original Soundtrack]';")
+    engine.execute("update scrobbling set title = 'Alegrías De La Lole' where title = 'Alegrías De Lole' and artist = 'Lole Y Manuel';")
+    engine.execute("update scrobbling set title = 'Oniria E Insomnia' where title = 'Oniria E Insomia' and artist = 'Love of Lesbian';")
+    engine.execute("update scrobbling set title = 'Sick & Tired' where title = 'Sick and Tired' and album = 'Anastacia';")
+    engine.execute("update scrobbling set title = '7-11' where title = '7/11' and album = 'Kamikazes Enamorados';")
+    engine.execute("update scrobbling set title = 'Hoy Es El Principio Del Final (Acústica)' where title = 'Hoy Es El Principio Del Final (Versión Acústica)' and album = 'Hacia Lo Salvaje';")
+    engine.execute("update scrobbling set title = 'You And I & I (Live)' where title = 'You And I & I (Live) (Live Australia)' and album = 'Live from Australia';")
+    engine.execute("""
+    update scrobbling set title = "It's Now or Never Loves" where title = "It’s Now or Never Loves" and album = 'I Aubade';
+    """)
+    engine.execute("update scrobbling set title = 'On the Floor' where title = 'On the Floor (feat. Pitbull)' and album = 'Love?';")
+    engine.execute("update scrobbling set title = 'Rock & Roll Suspension' where title = 'Rock And Roll Suspension' and album = 'Spring Session M';")
+
+
+
+
 
 
 def act_scro():
@@ -207,10 +222,11 @@ def act_scro():
                 ''')
             filas = list(engine.execute(f'select count(*) as  "Filas Actualizadas"from scrobbling where uts > {last_uts};'))[0][0]
             print(f'Filas actualizadas: {filas}')
-            return pd.read_sql_query(f'''
+            insertades =  pd.read_sql_query(f'''
                 select * from scrobbling where uts > {last_uts};
                 
                 ''',engine)
+            return insertades[['uts','artist','album','title','fechahora']]
         else:
             print('los siguientes errores no se han podido corregir')
             print('(no se insertarán ninguno de los nuevos scrobbles hasta corregir erroes, stay tuned)')
@@ -221,7 +237,7 @@ def act_scro():
             
             engine.execute(f'delete from scrobbling where uts > {last_uts}')
 
-            return errores
+            return errores[['uts','artist','album','title','fechahora']]
             
 
 

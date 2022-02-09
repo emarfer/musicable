@@ -5,3 +5,4 @@ sql_data/new_alb
 **/.DS_Store 
 **/*.ipynb_checkpoints/ 
 **/__pycache__
+src/scrodos.py

@@ -15,7 +15,7 @@ if l_user.lower() != 'sinatxester':
     print(f"has escrito '{l_user.upper()}', seguro que querías poner 'SINATXESTER', vamos a runear esto como si lo hubieras escrito bien")
     l_user = 'sinatxester'
 elif l_user.lower() == 'sinatxester':
-    print('muy bien, aprendise a escribir')
+    print('muy bien, aprendiste a escribir')
 time.sleep(2)
 limit = 1000
 lastuts = sqt.maxuts()
