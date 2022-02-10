@@ -45,59 +45,40 @@ def columnas(tabla):
     return list(df.columns)
 
 
+def car_esp(palabrita):
+    '''
+    recibe un elemento, si no es string lo convierte
+    comprueba si en la cadena de texto existen una serie de caracteres
+    si estos caracteres están en la cadena los reemplaza
+    devuelve la palabrita
+    '''
+    palabrita = str(palabrita)
+    dicc = {'\\':'\\\\',"'":"\\'",'"':'\\"'}
+    if "'" in palabrita or '"' in palabrita  or '\\' in palabrita :
+        for k,v in dicc.items():
+            palabrita = palabrita.replace(k,v)
+        return palabrita
+    else:
+        return palabrita
+
 def insert_data(uts, artist, artist_mbid, album, album_mbid, title, track_mbid):
     '''
     recibe los datos del datframe creado con la api de ultimos tracks de lastfm
     inserta los datos en la tabla scrobbling de mysql
     '''
     fechahora = utslocal(uts)
-    
+    artista = car_esp(artist)
+    disco = car_esp(album)
+    titu = car_esp(title)
 
-    if '"' not in str(artist) and '"' not in str(album) and '"' not in str(title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO scrobbling (uts, artist, artist_mbid, album, album_mbid, title, track_mbid, fechahora)
-                    VALUES ({uts}, "{artist}", "{artist_mbid}", "{album}", "{album_mbid}", "{title}","{track_mbid}","{fechahora}");
-                    """)
-        except:
-            print(f'{uts} sin comillas en ningún lugar')    
-            next
-    elif '"' in str(artist) and '"' not in str(album) and '"' not in str(title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO scrobbling (uts, artist, artist_mbid, album, album_mbid, title, track_mbid, fechahora)
-                    VALUES ({uts}, '{artist}', "{artist_mbid}", "{album}", "{album_mbid}", "{title}","{track_mbid}","{fechahora}");
-                    """)
-        except:
-            print(f'{uts} con comillas en artista')    
-            next
-    elif '"' not in str(artist) and '"' in str(album) and '"' not in str(title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO scrobbling (uts, artist, artist_mbid, album, album_mbid, title, track_mbid, fechahora)
-                    VALUES ({uts}, "{artist}", "{artist_mbid}", '{album}', "{album_mbid}", "{title}","{track_mbid}","{fechahora}");
-                    """)
-        except:
-            print(f'{uts} con comillas en album')    
-            next
-    elif '"' not in str(artist) and '"' not in str(album) and '"' in str(title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO scrobbling (uts, artist, artist_mbid, album, album_mbid, title, track_mbid, fechahora)
-                    VALUES ({uts}, "{artist}", "{artist_mbid}", "{album}", "{album_mbid}", '{title}',"{track_mbid}","{fechahora}");
-                    """)
-        except:
-            print(f'{uts} con comillas en title')    
-            next
-    elif '"' not in str(artist) and '"'  in str(album) and '"' in str(title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO scrobbling (uts, artist, artist_mbid, album, album_mbid, title, track_mbid, fechahora)
-                    VALUES ({uts}, "{artist}", "{artist_mbid}", '{album}', "{album_mbid}", '{title}',"{track_mbid}","{fechahora}");
-                    """)
-        except:
-            print(f'{uts} con comillas en title')    
-            next
+    try:
+        engine.execute(f"""
+                INSERT INTO scrobbling (uts, artist, artist_mbid, album, album_mbid, title, track_mbid, fechahora)
+                VALUES ({uts}, '{artista}', '{artist_mbid}', '{disco}', '{album_mbid}', '{titu}','{track_mbid}','{fechahora}');
+                """)
+    except Exception as e:
+        print(f'{uts}: {title} no insertado por {e}')  
+
 
 def insert_newalb(Artist, Album, Title, Track, released, secs, kbs, creado, ruta, archivo,tipo, bitrate):
     
@@ -105,48 +86,20 @@ def insert_newalb(Artist, Album, Title, Track, released, secs, kbs, creado, ruta
     recibe los datos del datframe con los tags de un nuevo album
     inserta los datos en la tabla tag del la base de datos musicablecero
     '''
-    folder = ruta.replace('\\','\\\\')
+    folder = car_esp(ruta)
+    art_ = car_esp(Artist)
+    alb_ = car_esp(Album)
+    tit_ = car_esp(Title)
+    arc_ = car_esp(archivo)
     
-    if '"' not in str(Artist) and '"' not in str(Album) and '"' not in str(Title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
-                    VALUES  ("{Artist}", "{Album}", "{Title}", {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
-                    """)
-        except Exception as e:
-            print(e)
-            print(f'{archivo} sin comillas en ningún lugar')    
-            next
-    elif '"' in str(Artist) and '"' not in str(Album) and '"' not in str(Title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
-                    VALUES ('{Artist}', "{Album}", "{Title}", {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
-                    """)
-        except Exception as e:
-            print(e)
-            print(f'{archivo} con comillas en artista')    
-            next
-    elif '"' not in str(Artist) and '"' in str(Album) and '"' not in str(Title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
-                    VALUES  ("{Artist}", '{Album}', "{Title}", {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
-                    """)
-        except Exception as e:
-            print(e)
-            print(f'{archivo} con comillas en album')    
-            next
-    elif '"' not in str(Artist) and '"' not in str(Album) and '"' in str(Title):
-        try:
-            engine.execute(f"""
-                    INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
-                    VALUES  ("{Artist}", "{Album}", '{Title}', {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{archivo}", "{tipo}", {bitrate});
-                    """)
-        except Exception as e:
-            print(e)
-            print(f'{archivo} con comillas en title')    
-            next
+    try:
+        engine.execute(f"""
+                INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder,archivo, tipo, bitrate)
+                VALUES  ("{art_}", "{alb_}", "{tit_}", {Track}, {released}, {secs}, {kbs},"{creado}", "{folder}", "{arc_}", "{tipo}", {bitrate});
+                """)
+    except Exception as e:
+        print(f'{archivo} ha dado error: {e}')    
+        
 
 
 def actual_error():
