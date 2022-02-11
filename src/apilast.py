@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import requests
+import time
 
 def df_fromtracks(tracks):
     '''
@@ -34,13 +35,25 @@ def req_lastfm (l_user,limit,lastuts):
     url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&api_key={keylast}&format=json'
     req = requests.get(url).json()
     if req['recenttracks']['@attr']['totalPages'] == '0':
-        return 'No hay nuevos scrobbles'
+        if len(req['recenttracks']['track']) == 0:
+
+            return 'No hay nuevos scrobbles'
+        elif '@attr' in req['recenttracks']['track'].keys():
+            art_play = req['recenttracks']['track']['artist']['#text']
+            tit_play = req['recenttracks']['track']['name']
+            print(f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
+            time.sleep(1)
+            return 'No hay nuevos scrobbles'
+        else:
+
+            return 'No hay nuevos scrobbles'
     
     elif req['recenttracks']['@attr']['totalPages'] == '1':
         if '@attr' in req['recenttracks']['track'][0].keys():
             art_play = req['recenttracks']['track'][0]['artist']['#text']
             tit_play = req['recenttracks']['track'][0]['name']
             print(f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
+            time.sleep(1)
             return df_fromtracks(req['recenttracks']['track'][1:])
         else:
             tracks = req['recenttracks']['track']            
@@ -52,13 +65,16 @@ def req_lastfm (l_user,limit,lastuts):
             art_play = req['recenttracks']['track'][0]['artist']['#text']
             tit_play = req['recenttracks']['track'][0]['name']
             print(f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
+            time.sleep(1)
             for i in range(1,pages+1):
                 page = i
                 url_p = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit={limit}&from={uts_num}&page={page}&api_key={keylast}&format=json'
                 rq_p = requests.get(url_p).json()['recenttracks']['track']
                 lista_lista.append(rq_p)
             tracks = [l for lista in lista_lista for l in lista]
-            tracks.pop(0)
+            for t in tracks:
+                if 'date' not in t.keys():
+                    tracks.remove(t)
             return df_fromtracks(tracks)
         else:
         
@@ -83,6 +99,7 @@ def tot_scro(l_user):
     pages = int(req['@attr']['totalPages'])
     print(f'recovering {pages} pages')
     listas = []
+
     for i in range(1,pages+1):
         page = i
         url_t = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={l_user}&limit=1000&page={page}&api_key={keylast}&format=json'
@@ -91,4 +108,7 @@ def tot_scro(l_user):
         if i%5==0:
             print(f'pag {i} done')
     tracks = [l for lista in listas for l in lista]
+    for t in tracks:
+        if 'date' not in t.keys():
+            tracks.remove(t)
     return df_fromtracks(tracks)
