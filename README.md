@@ -21,5 +21,5 @@ Desde hace tiempo tengo una base de datos creada en MySQL que se llama "musicabl
 - Usar apis de otros proveedore de datos musicales como [discogs](https://www.discogs.com/es/) para enriquecer la base que ya tengo
 - Crear una base de datos más amplia que recoga los datos de otros usuarios de lastfm para mostrarles las estadísticas de reproducción que deseen y generales listados de reproducción con los parámetros que deseen
 
-### <u>Conseguido</u>: :bowtie:
+### <u>Conseguido</u>: :sunglasses:
 - Automatizo el proceso de insercción en musicablecero de las reproducciones registrradas en last.fm
