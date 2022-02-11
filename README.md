@@ -1,4 +1,8 @@
 # Musicable
+# _Análisis de datos basados en la música que escucho_
+(Nunca pensé que me pudiera molar tanto hacerle requests a una api...)
+
+
 ![](imagenes/headphones.jpg)
 
 
