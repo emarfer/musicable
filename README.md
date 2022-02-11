@@ -23,3 +23,8 @@ Desde hace tiempo tengo una base de datos creada en MySQL que se llama "musicabl
 
 ### <u>Conseguido</u>: :sunglasses:
 - Automatizo el proceso de insercción en musicablecero de las reproducciones registrradas en last.fm
+
+<p align="center">
+  <img src=imagenes/lastlogodos.png width="350" title="hover text">
+  <img src=imagenes/lastlogodos.png width="350" alt="accessibility text">
+</p>
