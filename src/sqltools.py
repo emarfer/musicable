@@ -142,9 +142,6 @@ def actual_error():
     engine.execute("update scrobbling set artist = 'NSYNC' where artist = '*NSYNC';")
 
 
-    
-# *NSYNC
-
 
 def act_scro():
     last_uts = list(engine.execute(f'select max(uts) from scrobbling where id_can is not null;'))[0][0]
@@ -235,8 +232,10 @@ def get_id_pais(pais):
         ''', engine)
         print(list(tabla.nombre.unique()))
         print("si no lo tienes claro, o te da pereza googlear puedes introudcir = 'indet'")
+        nuevo_pais = input('vuelve a introducir el nombre del pais: \r')
+        return get_id_pais(nuevo_pais)
     else:
-        return list(engine.execute(f"select id_p from paises where nombre = '{pais}'"))
+        return list(engine.execute(f"select id_p from paises where nombre = '{pais}'"))[0][0]
 
 def insert_newart(art_,sex_,gen_,band_,pais_):
     #recibe unos parámetros de información sobre un artista/banda musical 
@@ -248,9 +247,10 @@ def insert_newart(art_,sex_,gen_,band_,pais_):
     pais = car_esp(pais_)
     id_p = get_id_pais(pais)
     
+    
     try:
         engine.execute(f'''
-        INSERT INTO artistas (artist,sexo,genero,band,id_p) VALUES ({artist},{sexo},{genero},{banda},{id_p})
+        INSERT INTO artistas (artist,sexo,genero,band,id_p) VALUES ('{artist}','{sexo}','{genero}','{banda}',{id_p})
         ''')
         return f'{artist} insertado'
     
