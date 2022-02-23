@@ -142,9 +142,6 @@ def actual_error():
     engine.execute("update scrobbling set artist = 'NSYNC' where artist = '*NSYNC';")
 
 
-    
-# *NSYNC
-
 
 def act_scro():
     last_uts = list(engine.execute(f'select max(uts) from scrobbling where id_can is not null;'))[0][0]
@@ -165,7 +162,7 @@ def act_scro():
             select * from scrobbling where uts > {last_uts};
             
             ''',engine)
-        return insertades[['uts','artist','album','title','fechahora']].head(10)
+        return insertades[['uts','artist','album','title','fechahora']]
     else:
         print('corrigiendo algunos errores de insertación')
         actual_error()
@@ -184,7 +181,7 @@ def act_scro():
                 select * from scrobbling where uts > {last_uts};
                 
                 ''',engine)
-            return insertades[['uts','artist','album','title','fechahora']].head(10)
+            return insertades[['uts','artist','album','title','fechahora']]
         else:
             print('los siguientes errores no se han podido corregir')
             print('(no se insertarán ninguno de los nuevos scrobbles hasta corregir erroes, stay tuned)')
@@ -207,13 +204,14 @@ def checkuts(uts_):
         return True
 
 def checkart(art_):
+    
     if len(list(engine.execute(f"select * from artistas where artist = '{art_}'"))) == 0:
         return False #no existe
     else:
         return True #existe
 
-def checkalb(alb_):
-    if len(list(engine.execute(f"select * from albums where album = '{alb_}'"))) == 0:
+def checkalb(alb_,idart):
+    if len(list(engine.execute(f"select * from albums where album = '{alb_}', and id_art = {idart}"))) == 0:
         return False #no existe
     else:
         return True #existe
@@ -223,3 +221,39 @@ def get_id_art(art_):
 
 def get_id_alb(alb_):
     return list(engine.execute(f"select id_alb from albums where album = '{alb_}'"))[0][0]
+
+def get_id_pais(pais):
+    #recibe el nombre de un pais, checkea si está en la base de datos (corecctamente escrito)
+    #devuelve el id_del pais , si existe.
+    if len(list(engine.execute(f"select id_p from paises where nombre = '{pais}'"))) == 0:
+        print('este pais no existe, checkea que esté bien escrito... estos son los paises disponibles:')
+        tabla = pd.read_sql_query(f'''
+        SELECT nombre from paises
+        ''', engine)
+        print(list(tabla.nombre.unique()))
+        print("si no lo tienes claro, o te da pereza googlear puedes introudcir = 'indet'")
+        nuevo_pais = input('vuelve a introducir el nombre del pais: \r')
+        return get_id_pais(nuevo_pais)
+    else:
+        return list(engine.execute(f"select id_p from paises where nombre = '{pais}'"))[0][0]
+
+def insert_newart(art_,sex_,gen_,band_,pais_):
+    #recibe unos parámetros de información sobre un artista/banda musical 
+    #inserta estos datos en mysql
+    artist = car_esp(art_)
+    sexo = car_esp(sex_) #fem, band, indet
+    genero = car_esp(gen_) #genero musical
+    banda = car_esp(band_) 
+    pais = car_esp(pais_)
+    id_p = get_id_pais(pais)
+    
+    
+    try:
+        engine.execute(f'''
+        INSERT INTO artistas (artist,sexo,genero,band,id_p) VALUES ('{artist}','{sexo}','{genero}','{banda}',{id_p})
+        ''')
+        return f'{artist} insertado'
+    
+    except Exception as e:
+        return f'ya la estás liadndo, mira que error has cometido: {e}'
+    

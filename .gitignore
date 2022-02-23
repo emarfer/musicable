@@ -7,3 +7,4 @@ sql_data/new_alb
 **/__pycache__
 src/scrodos.py
 src/sql_tools.py
+output/discos.json
