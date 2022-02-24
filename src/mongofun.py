@@ -45,4 +45,28 @@ def mongouser(lastuser):
             elif i == pages:
                 print('all done, bitches')
     else:
-        return(f'{lastuser} ya existe')
+        coluser = lastusers.get_collection(f"{lastuser.lower()}")
+        uts_num = utsmongo(coluser) + 1
+        url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={lastuser}&limit=1000&from={uts_num}&api_key={keylast}&format=json'
+        req = requests.get(url).json()['recenttracks']
+        if req['@attr']['totalPages'] == '0':
+            return 'no hay nada que insertar'
+        elif req['@attr']['totalPages'] != '1':
+            scrobs = req['@attr']['total']
+            pages = int(req['@attr']['totalPages'])
+            print(f'recovering {scrobs} scrobbles in {pages} pages')
+
+            for i in range(1,pages+1):
+                page = i
+                url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={lastuser}&limit=1000&from={uts_num}&page={page}&api_key={keylast}&format=json'
+                req = requests.get(url).json()['recenttracks']
+
+                for r in req['track']:
+                    if '@attr' not in r.keys():
+                        coluser.insert_one(r)
+                if i%5==0:
+                    print(f'pag {i} done')
+                elif i == pages:
+                    print('all done, bitches')
+
+   
