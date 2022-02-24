@@ -2,8 +2,8 @@ from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
 load_dotenv()
-
 import requests
+import time
 
 keylast = os.getenv("keylast")
 client = MongoClient("localhost:27017")
@@ -39,19 +39,36 @@ def mongouser(lastuser):
             for r in req_t:
                 if '@attr' not in r.keys():
                     coluser.insert_one(r)
+                elif '@attr' in r.keys() and i ==1:
+                    art_play = r['artist']['#text']
+                    tit_play = r['name']
+                    print (f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
 
             if i%5==0:
                 print(f'pag {i} done')
             elif i == pages:
                 print('all done, bitches')
     else:
+       
         coluser = lastusers.get_collection(f"{lastuser.lower()}")
         uts_num = utsmongo(coluser) + 1
         url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={lastuser}&limit=1000&from={uts_num}&api_key={keylast}&format=json'
         req = requests.get(url).json()['recenttracks']
+
+         
         if req['@attr']['totalPages'] == '0':
-            return 'no hay nada que insertar'
-        elif req['@attr']['totalPages'] != '1':
+            if len(req['track']) == 0:            
+                return 'no hay nada que insertar'
+            
+            else:
+                if '@attr' in req['track'].keys():                    
+                    art_play = req['track']['artist']['#text']
+                    tit_play = req['track']['name']
+                    print('nada que insertar')
+                    return f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}'
+
+
+        elif req['@attr']['totalPages'] != '0':   
             scrobs = req['@attr']['total']
             pages = int(req['@attr']['totalPages'])
             print(f'recovering {scrobs} scrobbles in {pages} pages')
@@ -61,12 +78,20 @@ def mongouser(lastuser):
                 url = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={lastuser}&limit=1000&from={uts_num}&page={page}&api_key={keylast}&format=json'
                 req = requests.get(url).json()['recenttracks']
 
+
                 for r in req['track']:
-                    if '@attr' not in r.keys():
+                    if '@attr' in r.keys() and i ==1:
+                        art_play = r['artist']['#text']
+                        tit_play = r['name']
+                        print (f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
+                        
+                    elif '@attr' not in r.keys():
                         coluser.insert_one(r)
                 if i%5==0:
                     print(f'pag {i} done')
                 elif i == pages:
                     print('all done, bitches')
+        else:
+            print('no insertamos nada porque nada hay que insertar')
 
    
