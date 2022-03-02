@@ -282,6 +282,8 @@ def insertartistanoalbum():
         
         ''')
     #si no existe album:
+    print('insertando nuevos albumes y actualizando')
+    time.sleep(1)
     engine.execute(f'''
 
 
@@ -298,6 +300,8 @@ def insertartistanoalbum():
                     and a.id_art = tag.id_art;
             ''')
     #si no existen canciones:
+    print('insertando nuevos temas y actualizando')
+    time.sleep(1)
     engine.execute(f'''
 
     insert into temas (title, track, id_alb, id_art)
@@ -312,6 +316,7 @@ def insertartistanoalbum():
             where t.id_Art = tag.id_art and t.id_alb = tag.id_alb and tag.id_Can is null;
             ''')
     #insertando en biblioteca:
+    print('insertando datos de biblioteca')
     engine.execute(f'''
 
             insert into biblioteca (id_Can, secs, kbs, folder, archivo, creado, tipo, bitrate)
