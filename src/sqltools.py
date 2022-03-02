@@ -256,4 +256,85 @@ def insert_newart(art_,sex_,gen_,band_,pais_):
     
     except Exception as e:
         return f'ya la estás liadndo, mira que error has cometido: {e}'
+
+
+
+def taginserts(df):
+    for i,r in df.iterrows():
+        engine.execute(f'''
+
+            INSERT INTO tag (artist, album, title, Track, released, secs, kbs,creado, folder, archivo, tipo, bitrate)
+            VALUES ('{car_esp(r.Artist)}', '{car_esp(r.Album)}', '{car_esp(r.Title)}', {r.Track}, {r.released}, {r.secs}, {r.kbs},
+                    '{r.creado}', '{car_esp(r.folder)}', '{car_esp(r.archivo)}', '{r.tipo}', {r.bitrate})
+            ''')     
+    insertados = pd.read_sql_query(f'''
+    
+                SELECT * FROM tag WHERE id_can is null;
+                ''',engine)
+    return insertados
+
+
+def insertartistanoalbum():
+    engine.execute(f'''
+            update tag join artistas a on a.artist = tag.artist
+            set tag.id_art = a.id_art 
+            where a.artist = tag.artist and tag.id_Art is null;
+        
+        ''')
+    #si no existe album:
+    engine.execute(f'''
+
+
+            insert into albums (album, released, num_track, id_art)
+            select album, released, max(track), id_art from tag where id_alb is null  group by album
+            ;
+        ''')
+
+    engine.execute(f'''
+
+                update tag join albums a on a.album = tag.album
+                set tag.id_alb = a.id_alb
+                where a.album = tag.album and tag.id_Alb is null 
+                    and a.id_art = tag.id_art;
+            ''')
+    #si no existen canciones:
+    engine.execute(f'''
+
+    insert into temas (title, track, id_alb, id_art)
+    select title, track, id_alb, id_art from tag where id_can is null;
+        ''')
+
+
+    engine.execute(f'''
+
+            update tag join temas t on t.title = tag.title
+            set tag.id_Can = t.id_Can
+            where t.id_Art = tag.id_art and t.id_alb = tag.id_alb and tag.id_Can is null;
+            ''')
+    #insertando en biblioteca:
+    engine.execute(f'''
+
+            insert into biblioteca (id_Can, secs, kbs, folder, archivo, creado, tipo, bitrate)
+            select id_Can, secs, replace(kbs,',','.'), folder, archivo, creado, tipo, bitrate 
+            from tag where id_bib is null;
+        ''')
+
+
+    engine.execute(f'''
+
+            update tag join biblioteca b on b.id_Can = tag.id_Can
+            set tag.id_bib = b.id_bib
+            where tag.id_bib is null
+            ;
+            
+            ''')
+
+
+
+
+
+
+    
+
+
     
