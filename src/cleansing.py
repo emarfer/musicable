@@ -28,7 +28,6 @@ def albumscv ():
     if sqt.check_csv(reciente):
         return('la estás liando, no toques más ¿por qué tocas?')
     else:
-        sqt.insert_csv(reciente)
         ruta_archivo = f'../{csvnewalbs}{reciente}'
         new_alb = pd.read_csv(ruta_archivo,sep=';')
         print('datos cargados: ')
@@ -40,5 +39,6 @@ def albumscv ():
         new_alb.creado = pd.to_datetime(new_alb.creado)
         print('nuevos inserts en tag:\r')
         time.sleep(1)
+        sqt.insert_csv(reciente)
         new_inserts = sqt.taginserts(new_alb)
         return new_inserts
