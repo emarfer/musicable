@@ -334,6 +334,19 @@ def insertartistanoalbum():
             
             ''')
 
+#funcion para chequear si el archivo ya existe y que no la líe.
+def check_csv(csv):
+
+    lista = list(engine.execute(f"Select csv from csvnewalbum where csv = '{csv}'"))
+    if len(lista) == 0:
+        return False
+    elif lista[0][0] == csv:
+        return True
+    else:
+        return 'algo está pasando raruno'
+
+def insert_csv(csv):
+    engine.execute(f"INSERT INTO csvnewalbum(csv) VALUES('{csv}')")
 
 
 
