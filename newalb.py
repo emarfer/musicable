@@ -4,7 +4,7 @@ import src.sqltools as sqt
 import time
 
 nuevoentag = cls.albumscv()
-if nuevoentag == 'la estás liando, no toques más ¿por qué tocas?':
+if type(nuevoentag) == str:
     print(nuevoentag)
     time.sleep(1)
     print('no te dejo que toques')
