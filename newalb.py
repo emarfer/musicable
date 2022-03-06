@@ -1,16 +1,27 @@
-import src.cleansing as cls
+import datetime
+import os
 from IPython.display import display
-import src.sqltools as sqt
 import time
+import pandas as pd 
+import src.sqltools as sqt
+import src.cleansing as cls
 
-nuevoentag = cls.albumscv()
-if type(nuevoentag) == str:
-    print(nuevoentag)
-    time.sleep(1)
-    print('no te dejo que toques')
-else:
-    display(nuevoentag)
-    time.sleep(1)
+
+
+
+csvnewalbs = ('../../Base de datos/00_musicablecero/New_album/')
+os.chdir(csvnewalbs) #cambia dirección dónde se encuentra python
+reciente = sorted(filter(os.path.isfile, os.listdir('.')), key=os.path.getmtime)[-1]
+print(f'comprobando archivo {reciente}')
+point = sqt.checkpoint_tag() #por si acaso hay que borrar luego los inserts en tag
+if sqt.check_csv(reciente) == True:
+    print('ya existe el archivo, deja de tocar cosas')
+elif sqt.check_csv(reciente) == False:
+    print('limipando datos')
+    new_alb = cls.albumscv(csvnewalbs,reciente)
+    print('insertando en mysql')
+    nuevoentag = sqt.taginserts(new_alb)
+    
     #comprobar si artista existe:
     art_ = list(nuevoentag.artist.unique())[0]
     if sqt.checkart(art_):
@@ -24,5 +35,9 @@ else:
         print('vamos a insertar tus datos:')
         sqt.insert_newart(art_,sex_,gen_,band_,pais_)
     time.sleep(1)
-    print('insertando en mysql todos los datos')
+    print('insertando/actualziadndo en mysql todos los datos en sus correspondientes tablas')
     sqt.insertartistanoalbum()
+    sqt.insert_csv(reciente)
+else:
+    print(sqt.check_csv(reciente))
+

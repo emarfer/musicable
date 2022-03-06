@@ -8,3 +8,4 @@ sql_data/new_alb
 src/scrodos.py
 src/sql_tools.py
 output/discos.json
+newalb_obsoleto.py

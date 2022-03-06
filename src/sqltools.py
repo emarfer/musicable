@@ -348,6 +348,10 @@ def check_csv(csv):
 def insert_csv(csv):
     engine.execute(f"INSERT INTO csvnewalbum(csv) VALUES('{csv}')")
 
+def checkpoint_tag():
+    lasttag = list(engine.execute(f"Select max(id_tag) from tag"))[0][0]
+    return lasttag
+
 
 
 
