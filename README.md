@@ -24,9 +24,12 @@ Desde hace tiempo tengo una base de datos creada en MySQL que se llama "musicabl
 - Generar visualizaciones de las estadísticas de reproducción más allá de las que brinda last.fm a sus usuarios (tanto los de pago como los que no nos gastamos ni un duro)
 - Usar apis de otros proveedore de datos musicales como [discogs](https://www.discogs.com/es/) para enriquecer la base que ya tengo
 - Crear una base de datos más amplia que recoga los datos de otros usuarios de lastfm para mostrarles las estadísticas de reproducción que deseen y generales listados de reproducción con los parámetros que deseen
+- Exportación de archivos de las listas de reproducción creadas
 
 ### <u>Conseguido</u>: :sunglasses:
 - Automatizo el proceso de insercción en musicablecero de las reproducciones registrradas en last.fm
+- Automatización del proceso de insercción de nuevos archivos (álbumes) desde archivo csv.
+  - (Al usar subsistema linux, no reconoce fecha creación archivo, así que no podemos usar metadatos porque queremos que el dato de esta fecha sea concreto)
 <!-- 
 <p align="center">
   <img src=imagenes/lastlogodos.png width="350" title="hover text">
