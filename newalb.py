@@ -38,6 +38,7 @@ elif sqt.check_csv(reciente) == False:
     print('insertando/actualziadndo en mysql todos los datos en sus correspondientes tablas')
     sqt.insertartistanoalbum()
     sqt.insert_csv(reciente)
+    #print(list(nuevoentag.jpg.unique()))
 else:
     print(sqt.check_csv(reciente))
 
