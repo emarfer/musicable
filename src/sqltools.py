@@ -204,8 +204,9 @@ def checkuts(uts_):
         return True
 
 def checkart(art_):
+    chart_ = car_esp(art_)
     
-    if len(list(engine.execute(f"select * from artistas where artist = '{art_}'"))) == 0:
+    if len(list(engine.execute(f"select * from artistas where artist = '{chart_}'"))) == 0:
         return False #no existe
     else:
         return True #existe
@@ -348,7 +349,7 @@ def check_csv(csv):
 def insert_csv(csv):
     engine.execute(f"INSERT INTO csvnewalbum(csv) VALUES('{csv}')")
 
-def checkpoint_tag():
+def checkpoint_tag(): #ya no sé pa qué hacemos esto... :( #solo dios se acuerda...
     lasttag = list(engine.execute(f"Select max(id_tag) from tag"))[0][0]
     return lasttag
 
