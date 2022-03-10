@@ -355,8 +355,13 @@ def checkpoint_tag(): #ya no sé pa qué hacemos esto... :( #solo dios se acuerd
 
 
 
-
-
+def jpgalbum(lastid):
+    df = pd.read_sql_query(f'''
+            select id_alb, folder from tag 
+            where id_tag > {lastid}
+            group by id_alb, folder
+                            ''',engine)
+    return df
     
 
 
