@@ -4,7 +4,7 @@ from IPython.display import display
 import time
 import pandas as pd 
 
-import src.sqltools as sqt
+#import src.sqltools as sqt
 
 
 
@@ -57,4 +57,11 @@ def albumscv (csvnewalbs,reciente):
     new_alb.kbs = new_alb.kbs.str.replace(',','.').astype('float')
     new_alb.creado = pd.to_datetime(new_alb.creado)
     return new_alb
+
+def archivojpg(relativa):
+    try:
+        x = [x for x in os.listdir(relativa) if x.lower() == 'folder.jpg'][0]
+        return x
+    except:
+        return 'errrrrror'
   

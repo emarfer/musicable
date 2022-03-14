@@ -362,6 +362,14 @@ def jpgalbum(lastid):
             group by id_alb, folder
                             ''',engine)
     return df
+
+def insert_jpg(dfjpg):
+    for i,r in dfjpg.iterrows():
+        engine.execute(f'''
+            INSERT INTO image (id_alb,ruta,jpg)
+            VALUES ({r.id_alb},'{car_esp(r.folder)}','{r.archivojpg}')
+
+                ''')
     
 
 

@@ -39,6 +39,15 @@ elif sqt.check_csv(reciente) == False:
     sqt.insertartistanoalbum()
     sqt.insert_csv(reciente)
     #print(list(nuevoentag.jpg.unique()))
+    print('insertando en mysql archivo de imagen')
+    time.sleep(1)
+    dfjpg = sqt.jpgalbum(point)
+    dfjpg['relativa'] = dfjpg.folder.str.replace('\\','/',regex=True).str.replace('H:','../../..',regex=True)
+    dfjpg['archivojpg'] = dfjpg.relativa.apply(cls.archivojpg)
+    sqt.insert_jpg(dfjpg)
+    print('imagen insertadas')
+
+
 else:
     print(sqt.check_csv(reciente))
 
