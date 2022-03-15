@@ -10,12 +10,14 @@ import src.cleansing as cls
 
 
 keylast = os.getenv("keylast")
-l_user = input('enter lastfm user: ')
-if l_user.lower() != 'sinatxester':
-    print(f"has escrito '{l_user.upper()}', seguro que querías poner 'SINATXESTER', vamos a runear esto como si lo hubieras escrito bien")
-    l_user = 'sinatxester'
-elif l_user.lower() == 'sinatxester':
-    print('muy bien, aprendiste a escribir')
+# l_user = input('enter lastfm user: ')
+# if l_user.lower() != 'sinatxester':
+#     print(f"has escrito '{l_user.upper()}', seguro que querías poner 'SINATXESTER', vamos a runear esto como si lo hubieras escrito bien")
+#     l_user = 'sinatxester'
+# elif l_user.lower() == 'sinatxester':
+#     print('muy bien, aprendiste a escribir')
+l_user = 'sinatxester'
+print(f'Importing scrobbles from {l_user}')
 time.sleep(2)
 limit = 1000
 lastuts = sqt.maxuts()
