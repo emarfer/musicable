@@ -64,4 +64,15 @@ def archivojpg(relativa):
         return x
     except:
         return 'errrrrror'
+
+def newuser():
+    new = input('¿Quieres incluir a un nuevo usuario de lastfm:? (YES/NO):\n')
+    if new.lower() == 'no':
+        print('Se acabó lo que sedaba (y los médicos no pudieron operar)')
+    elif new.lower() == 'yes':
+        user = input('Dinos el nombre del usuario:')
+        return user
+    else:
+        print('Escribe yes o no, por favor... no me seas zoquete')
+        newuser()
   

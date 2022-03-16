@@ -9,3 +9,4 @@ src/scrodos.py
 src/sql_tools.py
 output/discos.json
 newalb_obsoleto.py
+notebooks_pruebas/paises.ipynb
