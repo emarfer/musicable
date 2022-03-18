@@ -16,4 +16,4 @@ else:
     usuario = input('¿Qué usuario quieres insertar?: \n')
     print(f'importando datos de lastfm del usuario {usuario} e insertándolos en mongodb' )
     mong.mongouser(usuario)
-    
+
