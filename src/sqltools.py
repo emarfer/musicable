@@ -53,8 +53,8 @@ def car_esp(palabrita):
     devuelve la palabrita
     '''
     palabrita = str(palabrita)
-    dicc = {'\\':'\\\\',"'":"\\'",'"':'\\"'}
-    if "'" in palabrita or '"' in palabrita  or '\\' in palabrita :
+    dicc = {'\\':'\\\\',"'":"\\'",'"':'\\"',"%":"%%"}
+    if "'" in palabrita or '"' in palabrita  or '\\' in palabrita or '%' in palabrita:
         for k,v in dicc.items():
             palabrita = palabrita.replace(k,v)
         return palabrita
