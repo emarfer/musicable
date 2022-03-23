@@ -58,14 +58,14 @@ def mongouser(lastuser):
          
         if req['@attr']['totalPages'] == '0':
             if len(req['track']) == 0:            
-                return 'no hay nada que insertar'
+                print('no hay nada que insertar')
             
             else:
                 if '@attr' in req['track'].keys():                    
                     art_play = req['track']['artist']['#text']
                     tit_play = req['track']['name']
                     print('nada que insertar')
-                    return f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}'
+                    print( f'Now playing: {art_play.capitalize()} - {tit_play.capitalize()}')
 
 
         elif req['@attr']['totalPages'] != '0':   
