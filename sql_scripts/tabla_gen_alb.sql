@@ -8,10 +8,9 @@ and a.artist <> 'Varios Artistas'
 group by artist, id_alb
 ;
 
--- id_alb	country	year	genre	style	id	resource_url
-drop table gen_alb;
+drop table gen_discog;
 
-create table gen_alb (id_ga int primary key auto_increment,
+create table gen_discog (id_ga int primary key auto_increment,
 					id_alb int UNIQUE,
                     country varchar(100),
                     year_date year,
@@ -24,17 +23,8 @@ create table gen_alb (id_ga int primary key auto_increment,
                     );
 
 
-select * from gen_alb;
-describe gen_alb;
+select * from gen_discog;
+describe gen_discog;
 
-select * from albums where id_alb not in (select id_alb from gen_alb);
-
-select id_alb, count(id_alb) as cu, year_date, genre, style, id, resource_url
-from gen_alb group by id_alb having cu > 1;
-select * from gen_alb where id_alb = 1;
--- truncate gen_alb;
-
-SELECT * FROM gen_alb
-WHERE id_alb in (SELECT id_alb FROM gen_alb GROUP BY id_alb HAVING count(id_alb) > 1)
-ORDER BY id_alb;
+select * from albums where id_alb not in (select id_alb from gen_discog);
 
