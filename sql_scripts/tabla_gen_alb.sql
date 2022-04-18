@@ -28,3 +28,10 @@ describe gen_discog;
 
 select * from albums where id_alb not in (select id_alb from gen_discog);
 
+select artist, album, id_alb from total
+where id_alb not in (select id_alb from gen_discog)
+	and id_bib is not null
+    and artist <> 'Varios Artistas'
+group by id_alb
+order by artist, album;
+
