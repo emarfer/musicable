@@ -141,6 +141,7 @@ def actual_error():
     engine.execute("update scrobbling set album = 'Chasing Illusions' where artist = 'Anni B Sweet' and album = '';")     
     engine.execute("update scrobbling set artist = 'NSYNC' where artist = '*NSYNC';")
     engine.execute("update scrobbling set album = '100 Sevillanas De Oro' where artist = 'Cantores De Hispalis' and album = '' and title = 'A Bailar, A Bailar';")
+    engine.execute("update scrobbling set title = 'Finally' where title = 'Finally (David Morales (Mixed By))' and artist = 'Ce Ce Peniston';")
 
 
 
