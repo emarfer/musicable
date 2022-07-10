@@ -142,6 +142,8 @@ def actual_error():
     engine.execute("update scrobbling set artist = 'NSYNC' where artist = '*NSYNC';")
     engine.execute("update scrobbling set album = '100 Sevillanas De Oro' where artist = 'Cantores De Hispalis' and album = '' and title = 'A Bailar, A Bailar';")
     engine.execute("update scrobbling set title = 'Finally' where title = 'Finally (David Morales (Mixed By))' and artist = 'Ce Ce Peniston';")
+    engine.execute("update scrobbling set title = 'Finally' where title = 'Finally (David Morales (Mixed By))' and artist = 'Ce Ce Peniston';")
+    engine.execute("update scrobbling set title = 'The Dark of the Matinée' where album = 'Franz Ferdinand' and artist = 'Franz Ferdinand' and title = 'The dark of the matinã©e';")
 
 
 
