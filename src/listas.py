@@ -42,7 +42,8 @@ def create_datframe(lista):
                     ''',engine)
         print(f'creating m3u file with temoporada: {tempo}')
         time.sleep(1)
-        file = open(f'output/listas_rep/{tempo}.txt','w')
+        # file = open(f'output/listas_rep/{tempo}.txt','w')
+        file = open(f'../../Music_listas/listas_tempo/{tempo}.txt','w')
         file.write('#EXTM3U'+os.linesep)
         file.write(f'''#PLAYLIST:{tempo}'''+os.linesep)
         for i,r in df.iterrows():
@@ -51,9 +52,9 @@ def create_datframe(lista):
         file.close()
         pre, ext = os.path.splitext(file.name)
         os.rename(file.name, pre + '.m3u')
-        src_file = f'''output/listas_rep/{tempo}.m3u'''
-        dest_file = f'''../../Music_listas/archivosm3u/{tempo}.m3u'''
-        shutil.copyfile(src_file,dest_file)
+        # src_file = f'''output/listas_rep/{tempo}.m3u'''
+        # dest_file = f'''../../Music_listas/archivosm3u/{tempo}.m3u'''
+        # shutil.copyfile(src_file,dest_file)
         print(f'''{tempo} creado y copiado''')
         time.sleep(1)
         
