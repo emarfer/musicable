@@ -21,7 +21,7 @@ def check_tempos():
     '''))
     tem_list = [t[0] for t in temporadas]
     for tem in tem_list:
-        if tem+'.m3u' not in os.listdir('../../Music_listas/archivosm3u/'):
+        if tem+'.m3u' not in os.listdir('../../Music_listas/listas_tempo/'):
             lista.append(tem)
     if len(lista) == 0:
         return 'listas de rep al día'
