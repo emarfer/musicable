@@ -144,6 +144,7 @@ def actual_error():
     engine.execute("update scrobbling set title = 'Finally' where title = 'Finally (David Morales (Mixed By))' and artist = 'Ce Ce Peniston';")
     engine.execute("update scrobbling set title = 'Finally' where title = 'Finally (David Morales (Mixed By))' and artist = 'Ce Ce Peniston';")
     engine.execute("update scrobbling set title = 'The Dark of the Matinée' where album = 'Franz Ferdinand' and artist = 'Franz Ferdinand' and title = 'The dark of the matinã©e';")
+    engine.execute("update scrobbling set title = 'Party Up The Street (feat. Swae Lee & Mike Will Made-It)' where artist = 'Miley Cyrus' and album = 'SHE IS COMING' and title like 'Party Up%%'")
 
 
 
