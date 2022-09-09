@@ -58,6 +58,10 @@ def create_datframe(lista):
         print(f'''{tempo} creado y copiado''')
         time.sleep(1)
         
-        
+def relative_rute(folder,archivo,ruta):
+    new_fold = folder.replace('\\','/').replace('H:/',ruta)
+    return new_fold+archivo
+                                                          
+    
 
 
