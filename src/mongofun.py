@@ -92,6 +92,6 @@ def mongouser(lastuser):
                 elif i == pages:
                     print('all done, bitches')
         else:
-            print('no insertamos nada porque nada hay que insertar')
+            print('no insertamos nada porque nada hay que insertar') #este else sobra solo hay dos posibilidades =0 o != 0
 
    
