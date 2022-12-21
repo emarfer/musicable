@@ -9,6 +9,10 @@ lastuser = 'sinatxester' # usuario de last.fm
 print(f'importando datos de lastfm del usuario {lastuser}') # imprime en pantalla el mensaje
 mong.mongouser(lastuser) # inserta los datos de los scrobbles en la base de datos (mongouser() es una función definida en mongofun.py)
 
+lastuser = 'pablicic' # usuario de last.fm
+print(f'importando datos de lastfm del usuario {lastuser}') # imprime en pantalla el mensaje
+mong.mongouser(lastuser) # inserta los datos de los scrobbles en la base de datos (mongouser() es una función definida en mongofun.py)
+
 masusuarios = cls.newuser() # obtiene los nuevos usuarios de la base de datos (newuser() es una función definida en cleansing.py)
 if masusuarios == False: # si no hay nuevos usuarios en la base de datos
     print('Hasta luego Maricarmen') # imprime en pantalla el mensaje
