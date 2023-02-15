@@ -1,5 +1,4 @@
-SELECT * FROM musicablecero.cumpyagui;
- DROP procedure  IF EXISTS listas_fechas;
+DROP procedure  IF EXISTS listas_fechas;
 
 delimiter //
 create procedure listas_fechas(_finicio date, _ffin date)
@@ -53,11 +52,24 @@ declare _megas float;
  delimiter ;   
 set @fechafinal = date(now());
 
-call listas_fechas( '2020-09-27',  @fechafinal);
-select dosanualidades.*, t.artist, t.album, t.title
+call listas_fechas( '2021-09-28', '2022-09-27');
 
- From dosanualidades join total t on t.id_can = dosanualidades.id_can;
+
+create table segundanualidadesdeamor as (select * From dosanualidades);
+select dosanualidadesdeamor.*, t.artist, t.album, t.title
+
+ From dosanualidadesdeamor join total t on t.id_can = dosanualidadesdeamor.id_can;
  
  select base.* , t.artist, t.album, t.title
  from base  join total t on t.id_can = base.id_can
  where base.id_art not in (Select id_art from dosanualidades);
+ 
+ 
+ 
+ 
+ 
+select dos.id_base, dos.id_can, t.artist, t.album, t.title, t.folder, t.archivo, t.ruta
+from dosanualidadesdeamor dos join total t on t.id_can = dos.id_can
+order by dos.id_base desc ;
+
+select * from unaanualidadesdeamor
