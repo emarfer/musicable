@@ -151,6 +151,11 @@ def actual_error():
     engine.execute("""
                    update scrobbling set title = "Bitch I'm Loca (ft. Maluma)"  where artist = 'Madonna' and album = 'Madame X' and title = "Bitch I’m Loca (ft. Maluma)"
                    """)
+    engine.execute("""
+                   update scrobbling set album = "La fabulosa historia de…"  where album = 'La fabulosa historia de∑' and artist = 'Zahara'
+                   """)
+    # La fabulosa historia de∑ 
+    
 
 
 
