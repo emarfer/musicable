@@ -176,7 +176,7 @@ def act_scro():
             ''',engine)
         return insertades[['uts','artist','album','title','fechahora']]
     else:
-        print('corrigiendo algunos errores de insertación')
+        print('corrigiendo algunos errores de insercción')
         actual_error()
         cuenta_again = list(engine.execute(f'''
                 select count(uts) from scrobbling where concat(artist, album, title) not in (select completo from total)
