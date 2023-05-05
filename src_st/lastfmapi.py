@@ -21,28 +21,26 @@ def dataframe_count(r):
         lista.append(dic)
     return pd.DataFrame(lista)[['Count','#']]
 
-def user_info_complet():
-    keylast = os.getenv("keylast")
-    user_list = ['jesteruki','sinatxester']
-    for u in user_list:
-        st.markdown("""---""")
-        req = requests.get(f'http://ws.audioscrobbler.com/2.0/?method=user.getinfo&user={u}&api_key={keylast}&format=json').json()['user']
-        url_image = req['image'][2]['#text']
-        unixtime = int(req['registered']['unixtime'].strip())
-        fecha = datetime.utcfromtimestamp(unixtime).strftime('%Y-%m-%d')
+def user_info_complet(user):
+    st.markdown("""---""")
+    req = requests.get(f'http://ws.audioscrobbler.com/2.0/?method=user.getinfo&user={user}&api_key={keylast}&format=json').json()['user']
+    url_image = req['image'][2]['#text']
+    unixtime = int(req['registered']['unixtime'].strip())
+    fecha = datetime.utcfromtimestamp(unixtime).strftime('%Y-%m-%d')
+    
+    with st.container():
+        iz_col, cent_col, de_col = st.columns(3)
         
-        with st.container():
-            iz_col, cent_col, de_col = st.columns(3)
+        with iz_col:
+            st.image(url_image)
+        with cent_col:
+            st.header(f'[@{user}](http://www.lastfm.es/user/{user})')
+            st.write(f'En Last FM desde {fecha}')
+            if user == 'jesteruki':
+                st.write('No se actualiza desde 2015')
+        with de_col:
+            st.dataframe(dataframe_count(req))
             
-            with iz_col:
-                st.image(url_image)
-            with cent_col:
-                st.header(f'[@{u}](http://www.lastfm.es/user/{u})')
-                st.write(f'En Last FM desde {fecha}')
-                if u == 'jesteruki':
-                    st.write('No se actualiza desde 2015')
-            with de_col:
-                st.dataframe(dataframe_count(req))
 def info_song(r,i):
     dic = {}
     dic['#'] = i
@@ -97,6 +95,7 @@ def tienescuenta(k):
         if usercillo == '':
             st.stop()
         else:
+            user_info_complet(usercillo)
             recent_tracks(usercillo,k)
 
         

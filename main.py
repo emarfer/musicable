@@ -47,7 +47,8 @@ with st.container():
 # databases.short_long_term()        
 #now playing
 
-lastfmapi.user_info_complet()
+lastfmapi.user_info_complet('jesteruki')
+lastfmapi.user_info_complet('sinatxester')
 st.markdown("""---""")
 
 num = random.randint(0, 10)
