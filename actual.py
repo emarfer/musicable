@@ -31,6 +31,8 @@ recenttracks = als.req_lastfm (l_user,limit,lastuts) # obtiene los scrobbles de 
 
 if type(recenttracks) == pd.DataFrame: # si el tipo de dato es un dataframe (es decir, si la API de last.fm devuelve datos)
     print(f'ready to insert {len(recenttracks)} new tracks') # imprime en pantalla el número de nuevos scrobbles
+    # recenttracks.to_csv('recenttracks.csv')
+    # print(os.listdir())
 else: # si no
     print(recenttracks)  # imprime en pantalla el mensaje de error de la API de last.fm
 time.sleep(2) # espera 2 segundos
