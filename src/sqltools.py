@@ -153,7 +153,11 @@ def actual_error():
                    """)
     engine.execute("update scrobbling set album = 'La fabulosa historia de…' where artist = 'Zahara' and album = 'La fabulosa historia de∑';")
     engine.execute("""
+<<<<<<< HEAD
                    update scrobbling set title = "Alive And Kickin'"  where artist = 'Mr. Big' and title = "Alive & Kickin'"
+=======
+                   update scrobbling set title = "Alive & Kickin'"  where artist = 'Mr. Big' and album = "Lean Into It" and title = "Alive and Kickin'"
+>>>>>>> 4e2c914c63a7b8112d63b6693c7fdb0c01d1becf
                    """)
 
 
@@ -204,6 +208,7 @@ def act_scro():
             errores =  pd.read_sql_query(f'''
                 select * from scrobbling where concat(artist, album, title) not in (select completo from total);
                 ''',engine)
+            errores.to_csv('errores.csv',index=False)
             
             engine.execute(f'delete from scrobbling where uts > {last_uts}')
 
