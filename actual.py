@@ -22,12 +22,13 @@ time.sleep(2) # espera 2 segundos
 limit = 1000 # limit de scrobbles a importar
 lastuts = sqt.maxuts() # obtiene la última fecha de importación de scrobbles
 
-dating = cls.utslocal(lastuts) # convierte la última fecha de importación a formato local
+dating = cls.utslocal(lastuts) # convierte la última fecha de importación a formato .to
 
 print(f'recovering scrobbles since {dating}') # imprime en pantalla
 time.sleep(2) # espera 2 segundos
 
 recenttracks = als.req_lastfm (l_user,limit,lastuts) # obtiene los scrobbles de la API de last.fm usando la API key y parámetros: usuario, limit y última fecha de importación
+# recenttracks.to_csv('recent.csv',index=False)
 
 if type(recenttracks) == pd.DataFrame: # si el tipo de dato es un dataframe (es decir, si la API de last.fm devuelve datos)
     print(f'ready to insert {len(recenttracks)} new tracks') # imprime en pantalla el número de nuevos scrobbles
