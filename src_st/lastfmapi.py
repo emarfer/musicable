@@ -23,6 +23,7 @@ def dataframe_count(r):
 
 def user_info_complet(user):
     st.markdown("""---""")
+    st.write(keylast)
     req = requests.get(f'http://ws.audioscrobbler.com/2.0/?method=user.getinfo&user={user}&api_key={keylast}&format=json').json()['user']
     url_image = req['image'][2]['#text']
     unixtime = int(req['registered']['unixtime'].strip())
@@ -61,7 +62,7 @@ def recent_tracks(user,k):
             
             iz_col, cent_col, de_col= st.columns(3)
             with iz_col:
-                laod_lottie_ima('https://assets9.lottiefiles.com/packages/lf20_lvzxe6un.json',k)
+                laod_lottie_ima('https://assets9.lottiefiles.com/packages/lf20_lvzxe6un.json',k,None)
             with cent_col:
                 temazo = dic['temazo']
                 artista = dic['artista']
@@ -76,12 +77,13 @@ def recent_tracks(user,k):
         req = req[1:]
     st.subheader('Últimas 10 canciones reproduccidas')
     
-    lista = []
-    i = 1
-    for r in req:
-        lista.append(info_song(r,i))
-        i +=1
-    st.dataframe(pd.DataFrame(lista))
+    # lista = []
+    # i = 1
+    # for r in req:
+    #     lista.append(info_song(r,i))
+    #     i +=1
+    # st.dataframe(pd.DataFrame(lista))
+    top_ten(req)
     
 def tienescuenta(k):
     st.title('Quieres ver tus cosicas en esta kukiweb y lo sabes')
@@ -97,5 +99,30 @@ def tienescuenta(k):
         else:
             user_info_complet(usercillo)
             recent_tracks(usercillo,k)
+            
+
+def top_ten(lista):
+    i = 1
+    for l in lista:
+        ima_url = l['image'][1]['#text']
+        title = l['name']
+        artista = l['artist']['#text']
+        album = l['album']['#text']
+        url_tema = l['url']
+        with st.container():
+            num_col, iz_col, dos_col, tres_col, de_col = st.columns(5)
+            with num_col:
+                st.title(i)
+                i+=1
+            with iz_col:
+                st.image(ima_url)
+            with dos_col:
+                st.markdown(f'**{title}**')
+            with tres_col:
+                st.markdown(f'by _{artista}_ ({album})')
+            with de_col:
+                st.write(f'[@lastfm]({url_tema})')
+        
+    
 
         
