@@ -155,6 +155,9 @@ def actual_error():
     engine.execute("""
                    update scrobbling set title = "Alive & Kickin'"  where artist = 'Mr. Big' and album = "Lean Into It" and title = "Alive and Kickin'"
                    """)
+    engine.execute("""
+                   update scrobbling set title = "Lil' Red"  where artist = 'Bikini Kill' and album = "Pussy Whipped" and title = "Lil’ Red"
+                   """)
 
 
 
