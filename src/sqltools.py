@@ -158,6 +158,8 @@ def actual_error():
     engine.execute("""
                    update scrobbling set title = "Lil' Red"  where artist = 'Bikini Kill' and album = "Pussy Whipped" and title = "Lil’ Red"
                    """)
+    engine.execute(""" update scrobbling set title = "Then He Kissed Me"  where artist = 'The Crystals' and album = "He's A Rebel" and title = "Then He Kissed Me (VA)" """)
+    engine.execute(""" update scrobbling set album = 'If You Were There/The Best Of Wham' where album = '' and artist = 'Wham!' and title = 'Wake Me up Before You Go Go' """)
 
 
 
