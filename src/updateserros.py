@@ -32,3 +32,4 @@ def actual_error():
     engine.execute("update scrobbling set title = 'Mi Alma Vuela En Silencio (Rumba)' where title = 'Mi Alma Vuela En Silencio' and artist = 'Rosario La Tremendita';")
     engine.execute("update scrobbling set title = 'We Go Together' where title ='We Go Together (© ¤ @)' and album = 'Grease [Original Soundtrack]';")
     engine.execute("update scrobbling set title = 'Finally' where title = 'Finally (David Morales (Mixed By))';")
+    engine.execute("update scrobbling set title = 'Do What You Like' where title = Do What You Like (Graham Stack)';")
